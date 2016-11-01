@@ -1,0 +1,1 @@
+!function(){window.addEventListener("load",function(){var a=document.querySelector(".navbar-toggle"),b=document.querySelector(".navbar-collapse");if(a.addEventListener("click",function(){b.classList.toggle("hidden-xs")}),window.location.hash){var c=document.querySelector(window.location.hash);c.nextElementSibling.classList.add("thumbnail-featured")}})}();
