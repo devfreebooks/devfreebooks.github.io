@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "famous",
+    "subtitle": "Famo.us",
+    "about": "Famo.us is the only JavaScript framework that includes an open source 3D layout engine fully integrated with a 3D physics animation engine that can render to DOM, Canvas, or WebGL.",
+    "site": "https://famo.us",
+    "image": "famous.jpg",
+    "description": "Read the best free ebooks about Famo.us framework here.",
+    "books": [
+      {
+        "title": "Famous Mobile Apps",
+        "description": "A sample application and reference book for building mobile apps with Cordova and Famo.us.",
+        "author": "Nicholas Reed",
+        "pages": 71, 
+        "year": 2015, 
+        "image": "famous-mobile-apps.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150312",
+        "url": "http://book.famousmobileapps.com"
+      }
+    ]
+  }
+}

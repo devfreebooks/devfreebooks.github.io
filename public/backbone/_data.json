@@ -1,0 +1,36 @@
+{
+  "index": {
+    "name": "backbone",
+    "subtitle": "Backbone",
+    "about": "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.",
+    "site": "http://backbonejs.org/",
+    "image": "backbone.jpg",
+    "description": "Read the best free ebooks about Backbone framework.",
+    "books": [
+      {
+        "title": "Developing Backbone.js Applications",
+        "url": "http://addyosmani.github.io/backbone-fundamentals/",
+        "description": "The goal of this book is to create an authoritative and centralized repository of information that can help those developing real-world apps with Backbone.",
+        "author": "Addy Osmani",
+        "pages": "374",
+        "year": "2013",
+        "lang": "EN",
+        "image": "developing-backbonejs-applications.jpg",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
+        "title": "Backbone Tutorials",
+        "url": "https://leanpub.com/backbonetutorials?a=2hxrOg_7DAAAx2pWvoaFpT",
+        "description": "This book aims to get developers up to speed with single page web application development using Backbone.js as a foundation.",
+        "author": "Thomas Davis",
+        "pages": "141",
+        "year": "2013",
+        "lang": "EN",
+        "image": "backbone-tutorials.jpg",
+        "publish": true,
+        "published_at": "20150414"
+      }
+    ]
+  }
+}

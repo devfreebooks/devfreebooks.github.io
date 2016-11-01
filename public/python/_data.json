@@ -1,0 +1,59 @@
+{
+  "index": {
+    "name": "python",
+    "subtitle": "Python",
+    "about": "Python is a programming language that lets you work more quickly and integrate your systems more effectively. Python is powerful and fast, plays well with others, runs everywhere, is friendly and easy to learn.",
+    "site": "https://www.python.org/",
+    "image": "python.jpg",
+    "description": "Read the best free ebooks about Python language.",
+    "books": [
+      {
+        "title": "A byte of Python",
+        "description": "This is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.",
+        "author": "Swaroop C H",
+        "pages": 176, 
+        "year": 2014, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150306",
+        "url": "http://www.swaroopch.com/notes/python/#_download"
+      },
+      {
+        "title": "Explore Flask",
+        "description": "Explore Flask is a book about best practices and patterns for developing web applications with Flask.",
+        "author": "Robert Picard",
+        "pages": 14, 
+        "year": 2014, 
+        "image": "explore-flask.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150225",
+        "url": "https://exploreflask.com"
+      },
+      {
+        "title": "Python Practice Book",
+        "description": "This book is prepared from the training notes of Anand Chitipothu.",
+        "author": "Anand Chitipothu",
+        "pages": 36, 
+        "year": 2014, 
+        "image": "python-practice-book.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150206",
+        "url": "http://anandology.com/python-practice-book/index.html"
+      },
+      {
+        "title": "Learn Python The Hard Way",
+        "description": "This book instructs you in Python by slowly building and establishing skills through techniques like practice and memorization, then applying them to increasingly difficult problems. By the end of the book you will have the tools needed to begin learning more complex programming topics.",
+        "author": "Zed A. Shaw",
+        "pages": 58, 
+        "year": 2014, 
+        "image": "learn-python-the-hard-way.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150206",
+        "url": "http://learnpythonthehardway.org/book/"
+      }
+    ]
+  }
+}

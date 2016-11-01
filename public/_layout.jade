@@ -1,0 +1,13 @@
+doctype html
+html(lang="en", manifest="#{root_url[environment]}manifest.appcache", xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#")
+  head
+    != partial("_shared/head")
+  body
+    != partial("_shared/header")
+    main.container(role="main")
+      != yield
+    != partial("_shared/footer")
+    != partial("_shared/social_footer")
+    script(src="#{root_url[environment]}assets/js/application.js")
+    if environment == "production"
+      != partial("_shared/google_analytics")

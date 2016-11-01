@@ -1,0 +1,46 @@
+{
+  "index": {
+    "name": "rails",
+    "subtitle": "Ruby On Rails",
+    "about": "Ruby On Rails is an open-source web framework that's optimized for programmers happiness and sustainable productivity. It lets you write beautiful code by favoring convention over configuration.",
+    "site": "http://rubyonrails.org",
+    "image": "rails.jpg",
+    "description": "Read a list with best free ebook about Ruby On Rails web framework.",
+    "books": [
+      {
+        "title": "Ruby On Rails Tutorial 3rd Edition",
+        "url": "https://www.railstutorial.org/book",
+        "description": "Learn Web Development with Rails",
+        "author": "Michael Hartl",
+        "pages": "96",
+        "year": "2014",
+        "lang": "EN",
+        "image": "ruby-on-rails-tutorial-3rd-edition.jpg",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
+        "title": "APIs on Rails",
+        "description": "The best way to build a REST API using Rails",
+        "author": "Abraham Kuri Vargas",
+        "pages": 11, 
+        "year": 2014, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150328",
+        "url": "http://apionrails.icalialabs.com/book"
+      },
+      {
+        "title": "Better Specs",
+        "description": "Better Specs tries to fill this gap by collecting most of the 'best practices' that other developers learn through years of experience.",
+        "author": "Andrea Reginato",
+        "pages": 30, 
+        "year": 2013, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150328",
+        "url": "http://betterspecs.org"
+      }
+    ]
+  }
+}

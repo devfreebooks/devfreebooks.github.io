@@ -1,0 +1,34 @@
+{
+  "index": {
+    "name": "vim",
+    "subtitle": "Vim",
+    "about": "Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.",
+    "site": "http://www.vim.org",
+    "image": "vim.jpg",
+    "description": "Read good ebooks about VIM only here and for free!",
+    "books": [
+      {
+        "title": "Learn Vimscript the Hard Way",
+        "url": "http://learnvimscriptthehardway.stevelosh.com",
+        "description": "Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim.",
+        "author": "Steve Losh",
+        "pages": 56,
+        "year": 2013,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
+        "title": "A byte of Vim",
+        "description": "This is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard.",
+        "author": "Swaroop C H",
+        "pages": 89, 
+        "year": 2008, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150306",
+        "url": "http://files.swaroopch.com/vim/byte_of_vim_v051.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "index": {
+    "name": "playframework",
+    "subtitle": "Play Framework",
+    "about": "Play is a high-productivity Java and Scala web application framework that integrates the components and APIs you need for modern web application development. Play is based on a lightweight, stateless, web-friendly architecture and features predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications thanks to its reactive model, based on Iteratee IO.",
+    "site": "https://www.playframework.com",
+    "image": "playframework.jpg",
+    "description": "Read the best free ebooks about Play Framework.",
+    "books": [
+      {
+        "title": "Play Framework Recipes",
+        "description": "This ebook covers Play Framework 2.x using Scala language.",
+        "author": "Alvin Alexander",
+        "pages": 84, 
+        "year": 2013, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150407",
+        "url": "http://alvinalexander.com/downloads/PlayFrameworkRecipes-0_2.pdf"
+      }
+    ]
+  }
+}

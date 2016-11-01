@@ -1,0 +1,36 @@
+{
+  "index": {
+    "name": "groovy",
+    "subtitle": "Groovy",
+    "about": "Groovy is an agile and dynamic language for the Java Virtual Machine, builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk, makes modern programming features available to Java developers with almost-zero learning curve.",
+    "site": "http://groovy.codehaus.org",
+    "image": "groovy.jpg",
+    "description": "Read the best free ebooks about Groovy language.",
+    "books": [
+      {
+        "title": "Gradle Goodness Notebook",
+        "description": "Learn more about Gradle features with code snippets and short articles. The articles and code will get you started quickly and will give more insight in Gradle.",
+        "author": "Hubert A. Klein Ikkink",
+        "pages": 113, 
+        "year": 2012, 
+        "image": "gradle-goodness-notebook.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150218",
+        "url": "https://leanpub.com/gradle-goodness-notebook?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Spocklight Notebook",
+        "description": "Learn more about the Spock framework features with code snippets and short articles. The articles and code will get you started quickly and will give more insight in Spock.",
+        "author": "Hubert A. Klein Ikkink",
+        "pages": 40, 
+        "year": 2012, 
+        "image": "spocklight-notebook.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150218",
+        "url": "https://leanpub.com/spockframeworknotebook?a=2hxrOg_7DAAAx2pWvoaFpT"
+      }
+    ]
+  }
+}

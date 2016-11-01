@@ -1,0 +1,46 @@
+{
+  "index": {
+    "name": "haskell",
+    "subtitle": "Haskell",
+    "about": "Haskell is an advanced purely-functional programming language. An open-source product of more than twenty years of cutting-edge research, it allows rapid development of robust, concise, correct software. With strong support for integration with other languages, built-in concurrency and parallelism, debuggers, profilers, rich libraries and an active community, Haskell makes it easier to produce flexible, maintainable, high-quality software.",
+    "site": "https://www.haskell.org",
+    "image": "haskell.jpg",
+    "description": "Read some best Haskell's ebook here for free.",
+    "books": [
+      {
+        "title": "Haskell language",
+        "url": "http://en.wikibooks.org/wiki/Haskell",
+        "description": "In this book we aim to introduce you both to the Haskell language, from the very basics to advanced features, and to computer programming in general. We urge seasoned programmers to be especially patient with this process.",
+        "author": "Wikibooks",
+        "pages": 607,
+        "year": 2014,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
+        "title": "Parallel and Concurrent Programming in Haskell",
+        "description": "The main goal of the book is to get you programming competently with Parallel and Concurrent Haskell. However, as you probably know by now, learning about programming is not something you can do by reading a book alone.",
+        "author": "Simon Marlow",
+        "pages": 143, 
+        "year": 2013, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150319",
+        "url": "http://chimera.labs.oreilly.com/books/1230000000929/index.html"
+      },
+      {
+        "title": "Real World Haskell",
+        "description": "Throughout this book, we will show you how Haskell's alternatives to the features of traditional languages are powerful, flexible, and lead to reliable code. Haskell is positively crammed full of cutting edge ideas about how to create great software.",
+        "author": "Bryan O'Sullivan",
+        "pages": 40, 
+        "year": 2008, 
+        "image": "real-world-haskell.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150319",
+        "url": "http://book.realworldhaskell.org/read"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+- var sorted_platforms = platforms.sort();
+- var total_books = sorted_platforms.reduce(function(total, platform) {
+-     return total + public[platform]._data.index.books.length;
+- }, 0);
+section.row-fluid.clearfix
+  p.center.hidden-xs.hidden-sm
+    a.btn.btn-lg.btn-success(href="https://github.com/devfreebooks/devfreebooks.github.io/blob/master/README.md#how-to-add-books" target="_blank" title="Just click and follow these rules to submit an ebook.") <i class="icon-plus"></i>&nbsp;Submit e-book
+  p.center
+    strong #{platforms.length}</strong> platforms and <strong>#{total_books}</strong> books
+section.row-fluid.clearfix
+  .row-fluid
+    each platform in sorted_platforms
+      - var platform_data = public[platform]._data.index
+      .col-xs-12.col-sm-4.col-md-3
+        .thumbnail
+          a(href="#{root_url[environment]}#{platform_data.name}" title="#{platform_data.about}")
+            img.img-responsive.img-rounded(src="#{root_url[environment]}assets/images/#{platform_data.image}")
+          div.caption
+            p.center
+              a.btn.btn-block.btn-success(href="#{root_url[environment]}#{platform_data.name}" title="#{platform_data.about}")<i class="icon-book"></i>&nbsp;#{platform_data.subtitle} (#{platform_data.books.length} books)

@@ -1,0 +1,48 @@
+{
+  "index": {
+    "name": "firefoxos",
+    "subtitle": "Firefox OS",
+    "about": "Firefox OS is the new mobile operating system developed by Mozilla, based on Linux and Firefox's powerful Gecko rendering engine.",
+    "site": "https://developer.mozilla.org/en-US/Firefox_OS",
+    "image": "firefoxos.jpg",
+    "description": "Read the best free ebooks about Firefox OS mobile platform.",
+    "books": [
+      {
+        "title": "Firefox OS In Action",
+        "description": "Firefox OS in Action is the definitive guide for anyone who wants to build applications for Firefox OS. It teaches you how to create great looking, responsive and functional applications from the ground up. In the book you'll find sensor usage, animations, design, offline usage and much more.",
+        "author": "Jan Jongboom",
+        "pages": 121, 
+        "year": 2015, 
+        "image": "firefoxos-in-action.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150326",
+        "url": "https://leanpub.com/firefoxosinaction?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Quick Guide For Firefox OS App Development",
+        "description": "Learn how easy and quick it is to develop applications for Firefox OS, the new mobile operating system by Mozilla. Empowered by this books practical approach you will learn thru examples how to develop apps from the beginning all the way to the distribution in the Firefox Markeplace.",
+        "author": "Andre Garzia",
+        "pages": 80, 
+        "year": 2014, 
+        "image": "quick-guide-for-firefox-os-app-development.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150205",
+        "url": "https://leanpub.com/quickguidefirefoxosdevelopment?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Building Games for Firefox OS",
+        "description": "Join us in the quest for building games for Firefox OS, the new mobile operating system by Mozilla. Empowered by this books practical approach you will learn thru examples how to develop a full game from the beginning all the way to the distribution in the Firefox Markeplace.",
+        "author": "Andre Garzia",
+        "pages": 125, 
+        "year": 2014, 
+        "image": "building-games-for-firefox-os.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150205",
+        "url": "https://leanpub.com/buildinggamesforfirefoxos?a=2hxrOg_7DAAAx2pWvoaFpT"
+      }
+    ]
+  }
+}

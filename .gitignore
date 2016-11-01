@@ -1,0 +1,8 @@
+.DS_Store
+www
+node_modules
+.grunt
+public/rss.xml
+public/assets/js/application.js
+public/assets/css/application.css
+npm-debug.log

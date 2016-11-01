@@ -1,0 +1,36 @@
+{
+  "index": {
+    "name": "scala",
+    "subtitle": "Scala",
+    "about": "Scala is an acronym for “Scalable Language”. This means that Scala grows with you. You can play with it by typing one-line expressions and observing the results. But you can also rely on it for large mission critical systems, as many companies, including Twitter, LinkedIn, or Intel do. To some, Scala feels like a scripting language. Its syntax is concise and low ceremony; its types get out of the way because the compiler can infer them. There’s a REPL and IDE worksheets for quick feedback.",
+    "site": "http://www.scala-lang.org",
+    "image": "scala.jpg",
+    "description": "Read good and free ebooks about Scala language.",
+    "books": [
+      {
+        "title": "Creative Scala",
+        "description": "Creative Scala is aimed at developers who have no prior experience in Scala. It is designed to give you a fun introduction to functional programming. We assume you have some familiarity with another programming language but little or no experience with Scala or other functional languages.",
+        "author": "Dave Gurnell and Noel Welsh",
+        "pages": 58, 
+        "year": 2015, 
+        "image": "creative-scala.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150227",
+        "url": "https://gumroad.com/l/creative-scala"
+      },
+      {
+        "title": "Scala by Example",
+        "description": "This book instructs you in Python by slowly building and establishing skills through techniques like practice and memorization, then applying them to increasingly difficult problems. By the end of the book you will have the tools needed to begin learning more complex programming topics.",
+        "author": "Martin Odersky",
+        "pages": 145, 
+        "year": 2014, 
+        "image": "scala-by-example.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150227",
+        "url": "http://www.scala-lang.org/docu/files/ScalaByExample.pdf"
+      }
+    ]
+  }
+}

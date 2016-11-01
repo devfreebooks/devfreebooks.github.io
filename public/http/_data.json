@@ -1,0 +1,36 @@
+{
+  "index": {
+    "name": "http",
+    "subtitle": "HTTP Protocol",
+    "about": "The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text. HTTP is the protocol to exchange or transfer hypertext.",
+    "site": "http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
+    "image": "http.jpg",
+    "description": "Read free books and learn about the most used protocol in the internet, the HTTP.",
+    "books": [
+      {
+        "title": "HTTP2 Explained",
+        "description": "The book HTTP2 Explained describes the protocol HTTP/2 at a technical and protocol level. Background, the protocol, the implementations and the future.",
+        "author": "Daniel Stenberg",
+        "pages": 33, 
+        "year": 2015, 
+        "image": "http2-explained.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150312",
+        "url": "http://daniel.haxx.se/http2"
+      },
+      {
+        "title": "HTTP Succinctly",
+        "description": "With HTTP Succinctly, you’ll learn all about something you use on a daily basis.",
+        "author": "Scott Allen",
+        "pages": 55, 
+        "year": 2014, 
+        "image": "http-succinctly.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150407",
+        "url": "https://www.syncfusion.com/resources/techportal/ebooks/http"
+      }
+    ]
+  }
+}

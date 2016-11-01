@@ -1,0 +1,36 @@
+{
+  "index": {
+    "name": "android",
+    "subtitle": "Android",
+    "about": "Android runs on hundreds of millions of handheld devices around the world, and it now supports these exciting, new form-factors.",
+    "site": "http://developer.android.com",
+    "image": "android.jpg",
+    "description": "Read the best free ebooks about Android mobile platform.",
+    "books": [
+      {
+        "title": "Agile Android Software Development",
+        "description": "This book teaches you how to turn your ideas into successful apps that everyone will talk about, love, and share. With Agile tools and techniques, any developer can get a chunk of the Android pie!",
+        "author": "Étinnie Savard",
+        "pages": 1, 
+        "year": 2015, 
+        "image": "agile-android.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150407",
+        "url": "https://www.agiledroid.com"
+      },
+      {
+        "title": "Android Programming Succinctly",
+        "description": "Navigate the key requirements for designing an Android application with Android Programming Succinctly as your guide.",
+        "author": "Ryan Hodson",
+        "pages": 113, 
+        "year": 2014, 
+        "image": "android-programming-succinctly.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150407",
+        "url": "https://www.syncfusion.com/resources/techportal/ebooks/android"
+      }
+    ]
+  }
+}

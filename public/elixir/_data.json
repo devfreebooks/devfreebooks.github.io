@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "elixir",
+    "subtitle": "Elixir",
+    "about": "Elixir is a functional, meta-programming aware language built on top of the Erlang VM. It is a dynamic language that focuses on tooling to leverage Erlang's abilities to build concurrent, distributed and fault-tolerant applications with hot code upgrades.",
+    "site": "http://elixir-lang.org",
+    "image": "elixir.jpg",
+    "description": "Read the best free ebooks about Elixir language.",
+    "books": [
+      {
+        "title": "Web Development Using Elixir",
+        "description": "Are you interested in web development? Seen Erlang and Elixir around and want to know what the fuss is about? Well, read along to learn how to apply Elixir for use in web development!",
+        "author": "Shane Logsdon",
+        "pages": "Incomplete", 
+        "year": 2014, 
+        "image": "web-development-using-elixir.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "https://leanpub.com/web-development-using-elixir?a=2hxrOg_7DAAAx2pWvoaFpT"
+      }
+    ]
+  }
+}

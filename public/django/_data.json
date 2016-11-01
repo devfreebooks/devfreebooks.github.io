@@ -1,0 +1,36 @@
+{
+  "index": {
+    "name": "django",
+    "subtitle": "Django",
+    "about": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.",
+    "site": "https://www.djangoproject.com/",
+    "image": "django.jpg",
+    "description": "Read the best free ebooks about Django web framework.",
+    "books": [
+      {
+        "title": "Getting Started with Django",
+        "description": "This series is meant to take you from novice to competent. What do I mean by novice? You’ve done the Django tutorial, you understand the basics of Python, but you have little-to-no idea about how to go forward from here without making a ton of mistakes.",
+        "author": "Kenneth Love",
+        "pages": 1, 
+        "year": 2013, 
+        "image": "getting-started-with-django.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150225",
+        "url": "http://gettingstartedwithdjango.com/en/lessons/introduction-and-launch/"
+      },
+      {
+        "title": "Django Girls Tutorial",
+        "description": "This book is a Django tutorial created for DjangoGirls event.",
+        "author": "DjangoGirls",
+        "pages": 93, 
+        "year": 2014, 
+        "image": "django-girls.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "http://djangogirls.gitbooks.io/djangogirls-tutorial"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "bitcoin",
+    "subtitle": "Bitcoin",
+    "about": "Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.",
+    "site": "https://bitcoin.org/",
+    "image": "bitcoin.jpg",
+    "description": "Read the best free ebooks about Bitcoin.",
+    "books": [
+      {
+        "title": "Mastering Bitcoin",
+        "description": "Mastering Bitcoin is essential reading for everyone interested in learning about bitcoin basics, the technical operation of bitcoin, or if you're building the next great bitcoin killer app or business.",
+        "author": "Andreas M. Antonopoulos",
+        "pages": 298,
+        "year": 2014,
+        "image": "mastering-bitcoin.jpg",
+        "lang": "EN",
+        "publish": true,
+        "url": "https://github.com/aantonop/bitcoinbook",
+        "published_at": "20141220"
+      }
+    ]
+  }
+}

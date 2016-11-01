@@ -1,0 +1,143 @@
+{
+  "index": {
+    "name": "nodejs",
+    "subtitle": "Node.js",
+    "about": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
+    "site": "http://nodejs.org",
+    "image": "nodejs.jpg",
+    "description": "Read the best free ebooks about Node.js.",
+    "books": [
+      {
+        "title": "Learn to Create Node.js Applications from Scratch",
+        "url": "https://scotch.io/books/build-your-first-node-js-app",
+        "description": "In this eBook, we explorer beginning Node concepts and build three applications: A very simple Node application, a Node server and HTML site and an app to connect with the Instagram API and display the popular photos.",
+        "author": "Chris Sevilleja",
+        "pages": 27,
+        "year": 2015,
+        "lang": "EN",
+        "image": "building-your-first-node-application.jpg",
+        "publish": true,
+        "published_at": "20150708"
+      },
+      {
+        "title": "Module Patterns",
+        "description": "The first short book of this series is a short introduction that sets the foundation of the next books to come. It shows what you can do with JavaScript and the Node module system to create and consume different types of modules: Singletons, Closure-based and prototype-based pseudo-classes, façades and others.",
+        "author": "Pedro Teixeira",
+        "pages": 37, 
+        "year": 2014, 
+        "image": "module-patterns.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "https://leanpub.com/modulepatterns?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "JavaScript and Node FUNdamentals",
+        "description": "A short read to brush up and refresh JavaScript and Node.js topics.",
+        "author": "Azat Mardan",
+        "pages": 1, 
+        "year": 2014, 
+        "image": "javascript-and-node-fundamentals.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "https://leanpub.com/jsfun?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Your first app: node.js",
+        "description": "In this book, you will learn the basics of designing and developing a node.js application. Unlike other books, focus here is on learning multiple technologies at once and defining processes for success. This tutorial will include: git workflow, node.js, mongodb, angular.js, and grunt.js.",
+        "author": "Jim Schubert",
+        "pages": 1, 
+        "year": 2014, 
+        "image": "your-first-app-nodejs.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "https://leanpub.com/yfa-nodejs?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Node, Express and libsass: project from scratch workshop",
+        "description": "Node.js What's all the buzz about? Follow along in this workshop/tutorial to get your head wrapped around what it takes to make a Node project from scratch.",
+        "author": "Dale Sandle",
+        "pages": 50, 
+        "year": 2014, 
+        "image": "node-express-and-libsass-project-from-scratch-workshop.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "http://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/"
+      },
+      {
+        "title": "npm recipes",
+        "description": "There are over 70,000 modules on npm, so there's a wildly big number of opportunities for checking out how various npm modules can work together. This book showcases them one 'recipe' at a time.",
+        "author": "Seth Vincent",
+        "pages": 52, 
+        "year": 2014, 
+        "image": "npm-recipes.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "https://leanpub.com/npm-recipes"
+      },
+      {
+        "title": "Mastering Node.js",
+        "description": "Open Source Node eBook",
+        "author": "TJ Holowaychuk",
+        "pages": 85, 
+        "year": 2011, 
+        "image": "mastering-nodejs.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "http://tj.github.io/masteringnode/"
+      },
+      {
+        "title": "Node.js Succinctly",
+        "description": "Use Node.js to create faster network and server-side applications on any scale, improve your existing database applications, or create web apps with JSON data.",
+        "author": "Agus Kurniawan",
+        "pages": 201, 
+        "year": 2014, 
+        "image": "nodejs-succinctly.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/nodejs"
+      },
+      {
+        "title": "Pro Node.js for Developers",
+        "description": "Pro Node.js for Developers provides a comprehensive guide to this exciting new technology.  We introduce you to Node – what it is, why it matters and how to set it up – before diving deeply into the key concepts and APIs that underpin its operation.",
+        "author": "Colin J. Ihrig",
+        "pages": 308,
+        "year": 2013,
+        "image": "pro-nodejs-for-developers.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "http://allebook.biz/pro-node-js-for-developers"
+      },
+      {
+        "title": "Heroku + Node.JS",
+        "description": "Learn how to build and deploy Node.JS applications on Heroku.",
+        "author": "Samy Pessé",
+        "pages": 11,
+        "year": 2014,
+        "image": "heroku-nodejs.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "http://samypesse.gitbooks.io/heroku-node/"
+      },
+      {
+        "title": "Mixu's Node book",
+        "description": "A book about using Node.js",
+        "author": "Mikito Takada",
+        "pages": 14, 
+        "year": 2012, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150131",
+        "url": "http://book.mixu.net/node/index.html"
+      }
+    ]
+  }
+}

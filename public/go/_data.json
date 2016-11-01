@@ -1,0 +1,82 @@
+{
+  "index": {
+    "name": "go",
+    "subtitle": "Go",
+    "about": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+    "site": "http://golang.org",
+    "image": "go.jpg",
+    "description": "Read the best free ebooks about Go language.",
+    "books": [
+      {
+        "title": "Go by Example",
+        "url": "https://gobyexample.com",
+        "description": "Go by Example is a hands-on introduction to Go using annotated example programs.",
+        "author": "Mark McGranaghan",
+        "pages": "64",
+        "year": "2013",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
+        "title": "Build web application with Golang",
+        "description": "This book is for those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go and it's for those of you who are working with C/C++, you will know how the web works.",
+        "author": "Astaxie",
+        "pages": 293, 
+        "year": 2014, 
+        "image": "build-web-application-with-golang.jpg",
+        "lang": "EN, JP, FR, CH",
+        "publish": true,
+        "published_at": "20150312",
+        "url": "https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details"
+      },
+      {
+        "title": "The Little Go Book",
+        "description": "The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.",
+        "author": "Karl Seguin",
+        "pages": 50, 
+        "year": 2014, 
+        "image": "the-little-go-book.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150201",
+        "url": "http://openmymind.net/The-Little-Go-Book"
+      },
+      {
+        "title": "Building web apps with Go",
+        "description": "Learn how to build and deploy web applications with Go.",
+        "author": "Jeremy Saenz",
+        "pages": 24, 
+        "year": 2014, 
+        "image": "building-web-apps-with-go.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150201",
+        "url": "http://codegangsta.gitbooks.io/building-web-apps-with-go/"
+      },
+      {
+        "title": "An Introduction to Programming in Go",
+        "description": "Computer programming is the art, craft and science of writing programs which define how computers operate. This book will teach you how to write computer programs using a programming language designed by Google named Go.",
+        "author": "Caleb Doxsey",
+        "pages": 165, 
+        "year": 2012, 
+        "image": "an-introduction-to-programming-in-go.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150201",
+        "url": "http://www.golang-book.com"
+      },
+      {
+        "title": "Practical Cryptography With Go",
+        "description": "This is an introduction to cryptography for developers. It assumes that you aren't looking for cryptographic theories, but practical ways to use cryptography in your projects. It covers the basic standard building blocks, and includes some sample code to help you get started.",
+        "author": "Kyle Isom",
+        "pages": 21, 
+        "year": 2014, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150407",
+        "url": "https://leanpub.com/gocrypto/read?a=2hxrOg_7DAAAx2pWvoaFpT"
+      }
+    ]
+  }
+}

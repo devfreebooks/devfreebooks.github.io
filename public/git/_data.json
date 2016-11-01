@@ -1,0 +1,48 @@
+{
+  "index": {
+    "name": "git",
+    "subtitle": "Git",
+    "about": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+    "site": "http://git-scm.com",
+    "image": "git.jpg",
+    "description": "Read the best free ebooks about Git.",
+    "books": [
+      {
+        "title": "Pro Git",
+        "description": "Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.",
+        "author": "Scott Chacon and Ben Straub",
+        "pages": 574,
+        "year": 2014,
+        "image": "pro-git.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20141227",
+        "url": "https://progit.org"
+      },
+      {
+        "title": "Git Succinctly",
+        "description": "With Git Succinctly by Ryan Hodson, you can get up and running with one of the fastest-spreading revision control systems out there.",
+        "author": "Ryan Hodson",
+        "pages": 59,
+        "year": 2014,
+        "image": "git-succinctly.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/git"
+      },
+      {
+        "title": "Git for Everyone",
+        "description": "Unless you have been living in a cave, Git is everywhere. Creative or engineering, you have directly encountered or will encounter Git in the workplace. A common misconception as well is that Git is only for teams? Regardless of work style or team size, Git is the tool that everyone should be using.",
+        "author": "Dale Sande",
+        "pages": 58,
+        "year": 2014,
+        "image": "git-for-everyone.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "http://anotheruiguy.gitbooks.io/gitforeveryone"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "index": {
+    "name": "meteor",
+    "subtitle": "Meteor",
+    "about": "Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.",
+    "site": "https://www.meteor.com",
+    "image": "meteor.jpg",
+    "description": "Read the best free ebooks about Meteor web framework.",
+    "books": [
+      {
+        "title": "Your Second Meteor Application",
+        "url": "http://meteortips.com/second-meteor-tutorial",
+        "description": "Your Second Meteor Application is a free, online book about the Meteor JavaScript framework that helps beginning web developers build a complete to-do list application with the Meteor JavaScript framework.",
+        "author": "David Turnbull",
+        "pages": 7,
+        "year": 2015,
+        "lang": "EN",
+        "image": "your-second-meteor-application.jpg",
+        "publish": true,
+        "published_at": "20150625"
+      },
+      {
+        "title": "Getting Started with Meteor Deployment",
+        "url": "http://meteortips.com/deployment-tutorial",
+        "description": "Getting Started with Meteor Deployment is a free, online book about the Meteor JavaScript framework that explains everything you need to know about deploying your applications to the web.",
+        "author": "David Turnbull",
+        "pages": 7,
+        "year": 2015,
+        "lang": "EN",
+        "image": "getting-started-with-meteor-deployment.jpg",
+        "publish": true,
+        "published_at": "20150625"
+      },
+      {
+        "title": "Meteoric Projects",
+        "url": "https://github.com/benstr/meteoric-projects",
+        "description": "A tutorial on how to make a hybrid mobile app with Meteor and Ionic.",
+        "author": "Ben Strahan",
+        "pages": 10,
+        "year": "2015",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
+        "title": "Meteor Tutorial",
+        "description": "Bring your ideas to life with Meteor.",
+        "author": "Matthew Platts",
+        "pages": 1, 
+        "year": 2015, 
+        "image": "meteor-tutorial.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150408",
+        "url": "http://www.meteor-tutorial.org/book"
+      },
+      {
+        "title": "Your First Meteor Application",
+        "description": "Meteor is a fascinating framework that is great for beginning developers who have never built a web application before. We’ll cover a lot of ground over the next few hours, walking through a gentle but broad introduction to what might possibly be the best way to build an application for the web.",
+        "author": "David Turnbull",
+        "pages": 75, 
+        "year": 2014, 
+        "image": "your-first-meteor-application.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150204",
+        "url": "http://meteortips.com/book"
+      },
+      {
+        "title": "Pro Meteor: Meteor Internals, Scaling & More",
+        "description": "Pro Meteor helps you to understand Meteor Internals, Scaling & Many Other Topics.",
+        "author": "Arunoda Susiripala",
+        "pages": 24, 
+        "year": 2014, 
+        "image": "pro-meteor-meteor-internals-scaling-and-more.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150204",
+        "url": "https://meteorhacks.com/ebook/pro-meteor.html"
+      },
+      {
+        "title": "Let's create a realtime blackboard with Meteor Streams",
+        "description": "This is a free ebook guiding you to build a realtime blackboard using Meteor Streams. Meteor Streams is a Meteor Smart Packages which adds messaging based realtime capabilities to Meteor. It allows you to build realtime apps without using MongoDB.",
+        "author": "Arunoda Susiripala",
+        "pages": 23, 
+        "year": 2013, 
+        "image": "lets-create-a-realtime-blackboard-with-meteor-streams.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150204",
+        "url": "https://meteorhacks.com/realtime-blackboard.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "index": {
+    "name": "emberjs",
+    "subtitle": "Ember.js",
+    "about": "Ember.js is built for productivity. Designed with developer ergonomics in mind, its friendly APIs help you get your job done—fast. Don't waste time making trivial choices. Ember.js incorporates common idioms so you can focus on what makes your app special, not reinventing the wheel. Write dramatically less code with Ember's Handlebars integrated templates that update automatically when the underlying data changes.",
+    "site": "http://emberjs.com",
+    "image": "emberjs.jpg",
+    "description": "Read the best free ebooks about Ember.js framework.",
+    "books": [
+      {
+        "title": "Ember Tutorial",
+        "url": "http://ember.vicramon.com",
+        "description": "This tutorial provides an introduction to the Ember.js framework. It shows you how to build an Ember.js app with a Ruby on Rails backend while explaining all the underlying concepts along the way.",
+        "author": "Vic Ramon",
+        "pages": "22",
+        "year": "2014",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      }
+    ]
+  }
+}          

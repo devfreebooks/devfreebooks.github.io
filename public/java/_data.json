@@ -1,0 +1,107 @@
+{
+  "index": {
+    "name": "java",
+    "subtitle": "Java",
+    "about": "Java is the foundation for virtually every type of networked application and is the global standard for developing and delivering embedded applications, games, Web content, and enterprise software. With more than 9 million developers worldwide, Java enables you to efficiently develop and deploy exciting applications and services.",
+    "site": "https://www.oracle.com/java/index.html",
+    "image": "java.jpg",
+    "description": "Read the best free ebooks about Java language.",
+    "books": [
+      {
+        "title": "Learn Programming with Java",
+        "url": "https://www.learneroo.com/modules/11",
+        "description": "Online Tutorial and Challenges to learn the basics of Java programming.",
+        "author": "Learneroo",
+        "pages": "21",
+        "year": "2015",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
+        "title": "What's New in Java 8",
+        "description": "This book will help you understand Java 8, including Project Lambda, the new Date-Time API, Streams, Nashorn, and more.",
+        "author": "Adam L. Davis",
+        "pages": 53, 
+        "year": 2014, 
+        "image": "whats-new-in-java8.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "https://leanpub.com/whatsnewinjava8?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "The Java® Language Specification Java SE 8 Edition",
+        "description": "Written by the inventors of the Java Language Specification. This book provides complete and detailed coverage of the Java 8 programming language.",
+        "author": "Oracle",
+        "pages": 780, 
+        "year": 2014, 
+        "image": "java-language-specification-8.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150210",
+        "url": "http://docs.oracle.com/javase/specs/jls/se8/jls8.pdf"
+      },
+      {
+        "title": "The Java® Virtual Machine Specification Java SE 8 Edition",
+        "description": "Written by the inventors of the Java Virtual Machine Specification. This book provides complete and detailed coverage of the Java Virtual Machine 8.",
+        "author": "Oracle",
+        "pages": 626, 
+        "year": 2014, 
+        "image": "java-virtual-machine-specification-8.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150210",
+        "url": "http://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf"
+      },
+      {
+        "title": "Java and Object Oriented",
+        "description": "This is a free ebook which shows the main concepts about Object Oriented Programming using Java language.",
+        "author": "Caelum",
+        "pages": 304, 
+        "year": 2014, 
+        "image": "java-orientacao-objetos.jpg",
+        "lang": "PT-BR",
+        "publish": true,
+        "published_at": "20150210",
+        "url": "https://www.caelum.com.br/apostila-java-orientacao-objetos"
+      },
+      {
+        "title": "Java for Web Developing",
+        "description": "This is a free ebook which shows the main concepts about web developing system using JavaEE.",
+        "author": "Caelum",
+        "pages": 284, 
+        "year": 2014, 
+        "image": "java-web.jpg",
+        "lang": "PT-BR",
+        "publish": true,
+        "published_at": "20150210",
+        "url": "https://www.caelum.com.br/apostila-java-web"
+      },
+      {
+        "title": "Java Tests, JSF and Design Patterns",
+        "description": "This is a free ebook which shows useful frameworks for testing, JSF for Java Web and the principles about Design Patterns for Java.",
+        "author": "Caelum",
+        "pages": 178, 
+        "year": 2014, 
+        "image": "java-testes-jsf-web-services-design-patterns.jpg",
+        "lang": "PT-BR",
+        "publish": true,
+        "published_at": "20150210",
+        "url": "https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns"
+      },
+      {
+        "title": "Algorithms and Data Structures with Java",
+        "description": "This is a free ebook which shows the main algorithms and data structures examples using Java language.",
+        "author": "Caelum",
+        "pages": 157, 
+        "year": 2014, 
+        "image": "java-estrutura-dados.jpg",
+        "lang": "PT-BR",
+        "publish": true,
+        "published_at": "20150210",
+        "url": "https://www.caelum.com.br/apostila-java-estrutura-dados"
+      }
+    ]
+  }
+}

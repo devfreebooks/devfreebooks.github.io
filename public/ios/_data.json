@@ -1,0 +1,60 @@
+{
+  "index": {
+    "name": "ios",
+    "subtitle": "iOS",
+    "about": "iOS is the world’s most advanced mobile operating system, continually redefining what people can do with a mobile device. Together, the iOS SDK and Xcode IDE make it easy for developers to create revolutionary mobile apps.",
+    "site": "https://developer.apple.com/technologies/ios",
+    "image": "ios.jpg",
+    "description": "Read the best free ebooks about iOS mobile platform.",
+    "books": [
+      {
+        "title": "Objective-C Succinctly",
+        "description": "Learn Objective-C from the syntax up with detailed code samples and much more.",
+        "author": "Ryan Hodson",
+        "pages": 111, 
+        "year": 2014,
+        "image": "objective-c-succinctly.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/objective-c"
+      },
+      {
+        "title": "iOS Succinctly",
+        "description": "The companion to Objective-C Succinctly, and your practical introduction to developing for iOS.",
+        "author": "Ryan Hodson",
+        "pages": 118, 
+        "year": 2014,
+        "image": "ios-succinctly.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/ios"
+      },
+      {
+        "title": "iOS 8 Day by Day",
+        "description": "A review of all the important part of iOS 8 for developers. Presented in 39 easy to digest chunks, each with a sample project.",
+        "author": "Sam Davies",
+        "pages": 315, 
+        "year": 2014, 
+        "image": "ios8-day-by-day.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "https://leanpub.com/ios8daybyday?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Swift Cheat Sheet",
+        "description": "A short guide to using Apple's new programming language, Swift.",
+        "author": "Mohammad Hossein Mojtahedi",
+        "pages": 19, 
+        "year": 2014, 
+        "image": "swift-cheat-sheet.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "http://mhm5000.gitbooks.io/swift-cheat-sheet"
+      }
+    ]
+  }
+}

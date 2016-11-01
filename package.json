@@ -1,0 +1,27 @@
+{
+  "name": "devfreebooks",
+  "version": "1.0.0",
+  "description": "A huge collection of free books for devs",
+  "author": "Caio Ribeiro Pereira",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/grunt serve",
+    "deploy": "./node_modules/.bin/grunt deploy"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-appcache": "0.2.0",
+    "grunt-cli": "1.2.0",
+    "grunt-contrib-clean": "1.0.0",
+    "grunt-contrib-compress": "1.3.0",
+    "grunt-contrib-concat": "1.0.1",
+    "grunt-contrib-stylus": "1.2.0",
+    "grunt-contrib-uglify": "2.0.0",
+    "grunt-env": "0.4.4",
+    "grunt-execute": "0.2.2",
+    "grunt-gh-pages": "2.0.0",
+    "grunt-harp": "0.1.5",
+    "moment": "2.9.0",
+    "rss": "1.1.1"
+  }
+}

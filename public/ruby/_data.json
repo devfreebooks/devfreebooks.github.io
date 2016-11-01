@@ -1,0 +1,71 @@
+{
+  "index": {
+    "name": "ruby",
+    "subtitle": "Ruby",
+    "about": "Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
+    "site": "https://www.ruby-lang.org",
+    "image": "ruby.jpg",
+    "description": "Read the best free ebooks about Ruby language.",
+    "books": [
+      {
+        "title": "Sinatra Book",
+        "url": "http://sinatra-org-book.herokuapp.com/download",
+        "description": "This is a quick recipe book about how to create a Sinatra's project and deploy it into Heroku's platform.",
+        "author": "Sinatra",
+        "pages": "16",
+        "year": "2012",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
+        "title": "Kestrels, Quirky Birds, and Hopeless Egocentricity",
+        "description": "Raganwald's collected adventures in Combinatory Logic and Ruby Meta-Programming.",
+        "author": "Reginald Braithwaite",
+        "pages": 123, 
+        "year": 2011, 
+        "image": "kestrels-quirky-birds-and-hopeless-egocentricity.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150218",
+        "url": "https://leanpub.com/combinators?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Developing Games with Ruby",
+        "description": "At day you have to wrangle with legacy code, fix bugs, struggle with APIs, deploy services and integrate things. Yet you wish you could create worlds, animate dragons, break laws of physics and design artificial intelligence. You can.",
+        "author": "Tomas Varaneckas",
+        "pages": 254, 
+        "year": 2014, 
+        "image": "developing-games-with-ruby.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "https://leanpub.com/developing-games-with-ruby?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Learn Ruby The Hard Way",
+        "description": "This book instructs you in Ruby by slowly building and establishing skills through techniques like practice and memorization, then applying them to increasingly difficult problems. By the end of the book you will have the tools needed to begin learning more complex programming topics.",
+        "author": "Zed A. Shaw",
+        "pages": 57, 
+        "year": 2014, 
+        "image": "learn-ruby-the-hard-way.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://learnrubythehardway.org/book"
+      },
+      {
+        "title": "RubyKin",
+        "description": "Teach kids to code, with Ruby!",
+        "author": "Doug Wright",
+        "pages": 50, 
+        "year": 2014, 
+        "image": "rubykin.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "http://mrdougwright.gitbooks.io/rubykin"
+      }
+    ]
+  }
+}
