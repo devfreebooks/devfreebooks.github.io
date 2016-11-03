@@ -1,8 +1,9 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-03T11:43:09.554Z
+# rev 1 - 2016-11-03T12:26:48.317Z
 
 CACHE:
 404.html
+CNAME
 about/index.html
 android/index.html
 angularjs/index.html
