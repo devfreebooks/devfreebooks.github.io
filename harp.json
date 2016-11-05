@@ -22,6 +22,6 @@
                   "scala", "vim", "famous",
                   "http", "haskell", "rails",
                   "playframework", "javascript", "android",
-                  "emberjs", "backbone"]
+                  "emberjs", "backbone", "typescript"]
   }
 }
