@@ -1,7 +1,7 @@
 {
   "index": {
-    "name": "java",
-    "subtitle": "Java",
+    "name": "typescript",
+    "subtitle": "TypeScript",
     "about": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript",
     "site": "http://www.typescriptlang.org/",
     "image": "typescript.jpg",
