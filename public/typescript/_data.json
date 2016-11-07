@@ -2,22 +2,34 @@
   "index": {
     "name": "typescript",
     "subtitle": "TypeScript",
-    "about": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript",
-    "site": "http://www.typescriptlang.org/",
+    "about": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
+    "site": "http://www.typescriptlang.org",
     "image": "typescript.jpg",
     "description": "Read the best free ebooks about TypeScript language.",
     "books": [
       {
-        "title": "The definitive guide to TypeScript. Dive into all the details that a JavaScript developer needs to know to be a great TypeScript developer",
-        "url": "http://basarat.gitbooks.io/typescript/",
-        "description": "Deep Dive in TypeScript language",
+        "title": "Deep Dive in TypeScript",
+        "description": "The definitive guide to TypeScript. Dive into all the details that a JavaScript developer needs to know to be a great TypeScript developer.",
         "author": "Basarat Ali Syed",
-        "pages": "217",
-        "year": "2016",
+        "pages": 217,
+        "year": 2016,
         "image": "typescript-deep-dive.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150414"
+        "published_at": "20150414",
+        "url": "http://basarat.gitbooks.io/typescript"
+      },
+      {
+        "title": "Typescript Succinctly",
+        "description": "Jump into Microsoft's open-source superset of JavaScript with TypeScript Succinctly.",
+        "author": "Steve Fenton",
+        "pages": 82,
+        "year": 2014,
+        "image": "typescript-succinctly.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/typescript"
       }
     ]
   }
