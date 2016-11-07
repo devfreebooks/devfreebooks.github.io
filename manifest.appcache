@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-03T19:57:51.443Z
+# rev 1 - 2016-11-07T12:01:18.855Z
 
 CACHE:
 404.html
@@ -124,7 +124,9 @@ assets/images/scala.jpg
 assets/images/spocklight-notebook.jpg
 assets/images/swift-cheat-sheet.jpg
 assets/images/the-little-go-book.jpg
+assets/images/typescript-deep-dive.jpg
 assets/images/typescript-succinctly.jpg
+assets/images/typescript.jpg
 assets/images/understanding-ecmascript-6.jpg
 assets/images/vim.jpg
 assets/images/web-development-using-elixir.jpg
@@ -165,6 +167,7 @@ robots.txt
 rss.xml
 ruby/index.html
 scala/index.html
+typescript/index.html
 vim/index.html
 
 NETWORK:
