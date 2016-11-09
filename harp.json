@@ -27,10 +27,9 @@
                   "python", "java", "ios",
                   "elixir", "php", "ruby",
                   "django", "git", "groovy",
-                  "scala", "vim",
+                  "scala", "vim", "perl",
                   "http", "haskell", "rails",
                   "playframework", "javascript", "android",
-                  "emberjs", "backbone", "typescript",
-                  "perl6"]
+                  "emberjs", "backbone", "typescript"]
   }
 }
