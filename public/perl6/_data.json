@@ -1,0 +1,23 @@
+{
+  "index": {
+    "name": "perl6",
+    "subtitle": "Perl 6",
+    "about": "Perl 6 is a new language in the Perl family of languages heavily influenced by Perl 5, Haskell, Ruby and even C#. The project aims to introduce elements of many modern and historical languages in a cohesive and modern multi-paradigm style.",
+    "site": "http://perl6.org",
+    "image": "perl6.png",
+    "books": [
+      {
+        "title": "Perl 6 Introduction",
+        "description": "Perl 6 Introduction is intended to give you a quick overview of the Perl 6 programming language. For those who are new to Perl 6 it should get you up and running.",
+        "author": "Naoum Hankache",
+        "pages": 79,
+        "year": 2016,
+        "image": "perl6_introduction.jpg",
+        "lang": "EN",
+        "publish": true,
+        "url": "http://perl6intro.com/",
+        "published_at": "20161109"
+      }
+    ]
+  }
+}
