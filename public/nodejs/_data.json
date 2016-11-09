@@ -20,18 +20,6 @@
         "url": "https://leanpub.com/modulepatterns?a=2hxrOg_7DAAAx2pWvoaFpT"
       },
       {
-        "title": "JavaScript and Node FUNdamentals",
-        "description": "A short read to brush up and refresh JavaScript and Node.js topics.",
-        "author": "Azat Mardan",
-        "pages": 1,
-        "year": 2014,
-        "image": "javascript-and-node-fundamentals.jpg",
-        "lang": "EN",
-        "publish": true,
-        "published_at": "20150131",
-        "url": "https://leanpub.com/jsfun?a=2hxrOg_7DAAAx2pWvoaFpT"
-      },
-      {
         "title": "Node, Express and libsass: project from scratch workshop",
         "description": "Node.js What's all the buzz about? Follow along in this workshop/tutorial to get your head wrapped around what it takes to make a Node project from scratch.",
         "author": "Dale Sandle",
@@ -65,7 +53,7 @@
         "lang": "EN",
         "publish": true,
         "published_at": "20150131",
-        "url": "http://tj.github.io/masteringnode/"
+        "url": "https://visionmedia.github.io/masteringnode"
       },
       {
         "title": "Node.js Succinctly",
@@ -78,18 +66,6 @@
         "publish": true,
         "published_at": "20150131",
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/nodejs"
-      },
-      {
-        "title": "Pro Node.js for Developers",
-        "description": "Pro Node.js for Developers provides a comprehensive guide to this exciting new technology.  We introduce you to Node – what it is, why it matters and how to set it up – before diving deeply into the key concepts and APIs that underpin its operation.",
-        "author": "Colin J. Ihrig",
-        "pages": 308,
-        "year": 2013,
-        "image": "pro-nodejs-for-developers.jpg",
-        "lang": "EN",
-        "publish": true,
-        "published_at": "20150131",
-        "url": "http://allebook.biz/pro-node-js-for-developers"
       },
       {
         "title": "Heroku + Node.JS",
