@@ -42,6 +42,18 @@
         "publish": true,
         "published_at": "20150214",
         "url": "http://anotheruiguy.gitbooks.io/gitforeveryone"
+      },
+      {
+        "title": "Git Internals",
+        "description": "This PDF explains the internal workings of the Git source code control system. It was originally written by Scott Chacon and published at PeepCode (now a part of Pluralsight).",
+        "author": "Scott Chacon",
+        "pages": 121,
+        "year": 2008,
+        "image": "git-internals.png",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20080314",
+        "url": "https://github.com/pluralsight/git-internals-pdf"
       }
     ]
   }
