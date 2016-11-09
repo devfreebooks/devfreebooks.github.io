@@ -8,7 +8,7 @@ This is the repository of the site https://devfreebooks.github.io to submit eboo
 
 ### Via Google docs
 
-You can submit a book via our [Google Docs Form](https://docs.google.com/forms/d/1V74zbYW8b1x1d7kIj_bnMpgMUVybM53pusrtCJlTI4Y/prefill).
+You can submit a book via our [Google Docs Form](https://docs.google.com/forms/d/e/1FAIpQLSeXsmlLo3S7lJF82LGTOMoMpA4vg_T38Ez47gQoU6P6KaFwQg/viewform).
 
 ### Via Pull Request
 
