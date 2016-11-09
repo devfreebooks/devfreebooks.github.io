@@ -7,8 +7,8 @@ html(lang="en" manifest="#{manifest_url}" xmlns="http://www.w3.org/1999/xhtml" x
     != partial("_shared/header")
     main.container(role="main")
       != yield
-    != partial("_shared/footer")
     != partial("_shared/social_footer")
+    != partial("_shared/footer")
     script(src="#{root_url[environment]}assets/js/application.js")
     if environment == "production"
       != partial("_shared/google_analytics")
