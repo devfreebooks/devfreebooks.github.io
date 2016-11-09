@@ -30,6 +30,7 @@
                   "scala", "vim",
                   "http", "haskell", "rails",
                   "playframework", "javascript", "android",
-                  "emberjs", "backbone", "typescript"]
+                  "emberjs", "backbone", "typescript",
+                  "perl6"]
   }
 }
