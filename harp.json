@@ -6,6 +6,7 @@
     "author": "Caio Ribeiro Pereira",
     "email": "caio.ribeiro.pereira@gmail.com",
     "github_url": "https://github.com/devfreebooks/devfreebooks.github.io",
+    "github_repo": "git@github.com:devfreebooks/devfreebooks.github.io.git",
     "root_url": {
       "development": "http://localhost:3000/",
       "production": "https://devfreebooks.github.io/"

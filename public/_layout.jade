@@ -1,5 +1,6 @@
+- var manifest_url = environment == "production" ? root_url[environment]+'manifest.appcache' : ''
 doctype html
-html(lang="en", manifest="#{root_url[environment]}manifest.appcache", xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#")
+html(lang="en" manifest="#{manifest_url}" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#")
   head
     != partial("_shared/head")
   body
