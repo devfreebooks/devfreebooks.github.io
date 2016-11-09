@@ -4,6 +4,7 @@
     "description": "A huge collection of free books for developers",
     "author": "Caio Ribeiro Pereira",
     "email": "caio.ribeiro.pereira@gmail.com",
+    "github_url": "https://github.com/devfreebooks/devfreebooks.github.io",
     "root_url": {
       "development": "http://localhost:3000/",
       "production": "https://devfreebooks.github.io/"
@@ -12,6 +13,11 @@
       "title": "DevFreeCasts",
       "about": "A huge collection of free screencasts for developers",
       "url": "https://devfreecasts.github.io?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
+    },
+    "devnewsletters": {
+      "title": "DevNewsletters",
+      "about": "A collection of newsletters for developers subscribe",
+      "url": "https://devnewsletters.github.io?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
     },
     "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks",
     "platforms": ["bitcoin", "nodejs", "angularjs",
