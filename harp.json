@@ -1,6 +1,7 @@
 {
   "globals": {
     "title": "DevFreeBooks",
+    "slug_title": "devfreebooks",
     "description": "A huge collection of free books for developers",
     "author": "Caio Ribeiro Pereira",
     "email": "caio.ribeiro.pereira@gmail.com",
