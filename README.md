@@ -6,6 +6,12 @@ This is the repository of the site https://devfreebooks.github.io to submit eboo
 
 **Before start it, all books you add must be freeware and for web developers**
 
+### Via Google docs
+
+You can submit a book via our [Google Docs Form](https://docs.google.com/forms/d/1V74zbYW8b1x1d7kIj_bnMpgMUVybM53pusrtCJlTI4Y/prefill).
+
+### Via Pull Request
+
 First of all you need to [fork this repository](https://github.com/devfreebooks/devfreebooks.github.io/fork).
 
 With this project in your hands, edit the `/public/[platform-folder]/_data.json` and add your books respecting these parameters:
