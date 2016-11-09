@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-09T18:23:10.953Z
+# rev 1 - 2016-11-09T18:31:56.692Z
 
 CACHE:
 404.html
@@ -106,6 +106,8 @@ assets/images/pro-git.jpg
 assets/images/pro-meteor-meteor-internals-scaling-and-more.jpg
 assets/images/pro-nodejs-for-developers.jpg
 assets/images/programming-javascript-applications.jpg
+assets/images/python-dive-into-python.jpg
+assets/images/python-hitchhikers-guide-to-python.jpg
 assets/images/python-practice-book.jpg
 assets/images/python.jpg
 assets/images/rails.jpg
