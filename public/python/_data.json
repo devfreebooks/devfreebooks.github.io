@@ -53,6 +53,18 @@
         "publish": true,
         "published_at": "20150206",
         "url": "http://learnpythonthehardway.org/book/"
+      },
+      {
+        "title": "Dive Into Python",
+        "description": "Python from novice to pro.",
+        "author": "Mark Pilgrim",
+        "pages": 327,
+        "year": 2004,
+        "image": "python-dive-into-python.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20040520",
+        "url": "http://www.diveintopython.net/"
       }
     ]
   }
