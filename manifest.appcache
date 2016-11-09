@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-09T19:40:03.694Z
+# rev 1 - 2016-11-09T21:58:26.571Z
 
 CACHE:
 404.html
@@ -29,7 +29,6 @@ assets/images/bitcoin.jpg
 assets/images/build-web-application-with-golang.jpg
 assets/images/building-apis-with-nodejs.jpg
 assets/images/building-web-apps-with-go.jpg
-assets/images/building-your-first-node-application.jpg
 assets/images/coffeescript-ristretto.jpg
 assets/images/creative-scala.jpg
 assets/images/d3-tips-and-tricks.jpg
@@ -128,7 +127,6 @@ assets/images/understanding-ecmascript-6.jpg
 assets/images/vim.jpg
 assets/images/web-development-using-elixir.jpg
 assets/images/whats-new-in-java8.jpg
-assets/images/your-first-app-nodejs.jpg
 assets/images/your-first-meteor-application.jpg
 assets/images/your-second-meteor-application.jpg
 assets/js/aightjs.min.js
