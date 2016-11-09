@@ -95,7 +95,8 @@ To get and run this project:
 ``` bash
 git clone git@github.com:devfreebooks/devfreebooks.github.io.git
 cd devfreebooks
-grunt serve
+npm install
+npm start
 ```
 
 And access in your browser the url: [http://localhost:3000](http://localhost:3000).
