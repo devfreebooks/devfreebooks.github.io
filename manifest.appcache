@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-09T17:23:45.290Z
+# rev 1 - 2016-11-09T17:24:49.292Z
 
 CACHE:
 404.html
@@ -46,8 +46,6 @@ assets/images/elixir.jpg
 assets/images/eloquent-javascript.jpg
 assets/images/emberjs.jpg
 assets/images/explore-flask.jpg
-assets/images/famous-mobile-apps.jpg
-assets/images/famous.jpg
 assets/images/getting-started-with-django.jpg
 assets/images/getting-started-with-meteor-deployment.jpg
 assets/images/git-for-everyone.jpg
@@ -137,7 +135,6 @@ bitcoin/index.html
 django/index.html
 elixir/index.html
 emberjs/index.html
-famous/index.html
 favicon.ico
 git/index.html
 go/index.html
