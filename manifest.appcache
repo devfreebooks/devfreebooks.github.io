@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-09T18:31:56.692Z
+# rev 1 - 2016-11-09T19:40:03.694Z
 
 CACHE:
 404.html
@@ -49,8 +49,8 @@ assets/images/explore-flask.jpg
 assets/images/getting-started-with-django.jpg
 assets/images/getting-started-with-meteor-deployment.jpg
 assets/images/git-for-everyone.jpg
+assets/images/git-internals.jpg
 assets/images/git-succinctly.jpg
-assets/images/git-succintly.jpg
 assets/images/git.jpg
 assets/images/go.jpg
 assets/images/gradle-goodness-notebook.jpg
