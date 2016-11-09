@@ -2,9 +2,8 @@
 - var total_books = sorted_platforms.reduce(function(total, platform) {
 -     return total + public[platform]._data.index.books.length;
 - }, 0);
-section.home-ads
-  section.row-fluid.clearfix
-    .hidden-xs.hidden-sm.col-md-3
+section.hidden-xs.hidden-sm.home-ads(style="visibility:hidden;")
+  section.col-md-3(style="visibility:visible;")
       != partial("ads_square")
 section.row-fluid.clearfix
   p.center.hidden-xs.hidden-sm
