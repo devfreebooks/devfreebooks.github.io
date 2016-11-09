@@ -219,6 +219,72 @@
         "publish": true,
         "published_at": "20150204",
         "url": "https://www.syncfusion.com/resources/techportal/ebooks/javascript"
+      },
+      {
+        "title": "You Don't Know JS: Up & Going",
+        "description": "The series’ first book, Up & Going, provides the necessary background for those of you with limited programming experience. By learning the basic building blocks of programming, as well as JavaScript’s core mechanisms, you’ll be prepared to dive into the other, more in-depth books in the series—and be well on your way toward true JavaScript.",
+        "author": "Kyle Simpson",
+        "pages": 88,
+        "year": 2015,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150301",
+        "url": "https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going"
+      },
+      {
+        "title": "You Don't Know JS: Scope & Closures",
+        "description": "Like other books in the \"You Don’t Know JS\" series, Scope and Closures dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can achieve true JavaScript mastery.",
+        "author": "Kyle Simpson",
+        "pages": 98,
+        "year": 2014,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20140301",
+        "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/README.md#you-dont-know-js-scope--closures"
+      },
+      {
+        "title": "You Don't Know JS: this & Object Prototypes",
+        "description": "Like other books in the “You Don’t Know JS” series, this and Object Prototypes dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can become a true JavaScript master.",
+        "author": "Kyle Simpson",
+        "pages": 174,
+        "year": 2014,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20140701",
+        "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes"
+      },
+      {
+        "title": "You Don't Know JS: Types & Grammar",
+        "description": "Like other books in this series, You Don’t Know JS: Types & Grammar dives into trickier parts of the language that many JavaScript programmers simply avoid or assume don’t exist (like types). Armed with this knowledge, you can achieve true JavaScript mastery.",
+        "author": "Kyle Simpson",
+        "pages": 198,
+        "year": 2015,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150101",
+        "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar"
+      },
+      {
+        "title": "You Don't Know JS: Async & Performance",
+        "description": "Like other books in this series, You Don’t Know JS: Async & Performance dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can become a true JavaScript master.",
+        "author": "Kyle Simpson",
+        "pages": 296,
+        "year": 2015,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150201",
+        "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance"
+      },
+      {
+        "title": "You Don't Know JS: ES6 & Beyond",
+        "description": "Like other books in this series, You Don’t Know JS: Async & Performance dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can become a true JavaScript master.",
+        "author": "Kyle Simpson",
+        "pages": 278,
+        "year": 2015,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20151201",
+        "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond"
       }
     ]
   }
