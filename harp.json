@@ -27,7 +27,7 @@
                   "python", "java", "ios",
                   "elixir", "php", "ruby",
                   "django", "git", "groovy",
-                  "scala", "vim", "famous",
+                  "scala", "vim",
                   "http", "haskell", "rails",
                   "playframework", "javascript", "android",
                   "emberjs", "backbone", "typescript"]
