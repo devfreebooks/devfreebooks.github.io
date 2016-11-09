@@ -8,6 +8,18 @@
     "description": "Read a list with best free ebook about Ruby On Rails web framework.",
     "books": [
       {
+        "title": "Learn Ruby On Rails 5",
+        "url": "https://www.softcover.io/read/e8898d1d/learn-rails-1",
+        "description": "Called 'the best book for beginners'",
+        "author": "Daniel Kehoe",
+        "pages": "159",
+        "year": "2016",
+        "lang": "EN",
+        "image": "learn-ruby-on-rails.jpg",
+        "publish": true,
+        "published_at": "20141203"
+      },
+      {
         "title": "Ruby On Rails Tutorial 3rd Edition",
         "url": "https://www.railstutorial.org/book",
         "description": "Learn Web Development with Rails",
