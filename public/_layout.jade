@@ -4,6 +4,8 @@ html(lang="en" manifest="#{manifest_url}" xmlns="http://www.w3.org/1999/xhtml" x
   head
     != partial("_shared/head")
   body
+    if environment == "production"
+      != partial("_shared/adsense")
     != partial("_shared/header")
     main.container(role="main")
       != yield
