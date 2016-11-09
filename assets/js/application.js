@@ -1,1 +1,13 @@
-!function(){window.addEventListener("load",function(){var a=document.querySelector(".navbar-toggle"),b=document.querySelector(".navbar-collapse");if(a.addEventListener("click",function(){b.classList.toggle("hidden-xs")}),window.location.hash){var c=document.querySelector(window.location.hash);c.nextElementSibling.classList.add("thumbnail-featured")}})}();
+(function() {
+  window.addEventListener('load', function() {
+    var toggle = document.querySelector('.navbar-toggle');
+    var collapse = document.querySelector('.navbar-collapse');
+    toggle.addEventListener('click', function() {
+      collapse.classList.toggle('hidden-xs');
+    });
+    if (window.location.hash) {
+      var anchor = document.querySelector(window.location.hash);
+      anchor.nextElementSibling.classList.add('featured');
+    }
+  });
+})();

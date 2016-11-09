@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-09T00:52:09.336Z
+# rev 1 - 2016-11-09T16:01:47.278Z
 
 CACHE:
 404.html
@@ -7,7 +7,6 @@ about/index.html
 android/index.html
 angularjs/index.html
 assets/css/application.css
-assets/css/application.gz.css
 assets/font/icon.eot
 assets/font/icon.svg
 assets/font/icon.ttf
@@ -134,11 +133,8 @@ assets/images/whats-new-in-java8.jpg
 assets/images/your-first-app-nodejs.jpg
 assets/images/your-first-meteor-application.jpg
 assets/images/your-second-meteor-application.jpg
-assets/js/aightjs.gz.js
 assets/js/aightjs.min.js
-assets/js/application.gz.js
 assets/js/application.js
-assets/js/html5shiv.gz.js
 assets/js/html5shiv.min.js
 backbone/index.html
 bitcoin/index.html
