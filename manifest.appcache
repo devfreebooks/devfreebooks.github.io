@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-09T21:58:26.571Z
+# rev 1 - 2016-11-09T22:10:23.098Z
 
 CACHE:
 404.html
@@ -72,7 +72,6 @@ assets/images/java-virtual-machine-specification-8.jpg
 assets/images/java-web.jpg
 assets/images/java.jpg
 assets/images/javascript-allonge.jpg
-assets/images/javascript-and-node-fundamentals.jpg
 assets/images/javascript-spessore.jpg
 assets/images/javascript-succinctly.jpg
 assets/images/javascript.jpg
@@ -103,7 +102,6 @@ assets/images/playframework.jpg
 assets/images/practical-angularjs.jpg
 assets/images/pro-git.jpg
 assets/images/pro-meteor-meteor-internals-scaling-and-more.jpg
-assets/images/pro-nodejs-for-developers.jpg
 assets/images/programming-javascript-applications.jpg
 assets/images/python-dive-into-python.jpg
 assets/images/python-hitchhikers-guide-to-python.jpg
