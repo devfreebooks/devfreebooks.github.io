@@ -137,6 +137,18 @@
         "publish": true,
         "published_at": "20150131",
         "url": "http://book.mixu.net/node/index.html"
+      },
+      {
+        "title": "Node.js Succinctly",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/nodejs",
+        "description": "Node.js is a wildly popular platform for writing web applications that has revolutionized web development in many ways, enjoying support across the open source community as well as industry. With Node.js Succinctly  by Emanuele DelBono, you will learn the basics of Node.js: non-blocking I/O, the event loop, modules, and the Node.js runtime environment. From there, you will dive into building practical solutions that interact with filesystems and streams, access databases, handle web server message queuing, and more.",
+        "author": "Emanuele DelBono",
+        "pages": 76,
+        "year": 2016,
+        "lang": "EN",
+        "image": "https://cdn.syncfusion.com/content/images/Images/node-js-img.png",
+        "publish": true,
+        "published_at": "20161017"
       }
     ]
   }
