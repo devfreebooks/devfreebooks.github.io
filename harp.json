@@ -23,7 +23,7 @@
     },
     "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks",
     "platforms": ["bitcoin", "nodejs", "angularjs",
-                  "meteor","go", "firefoxos",
+                  "meteor","go",
                   "python", "java", "ios",
                   "elixir", "php", "ruby",
                   "django", "git", "groovy",
