@@ -8,6 +8,42 @@
     "description": "Read the best free ebooks about C#",
     "books": [
       {
+        "title": "C# Succinctly",
+        "description": "C# is a general purpose, object-oriented, component-based programming language. As a general purpose language, there are a number of ways to apply C# to accomplish many different tasks. With C# Succinctly by Joe Mayo, you will quickly learn the syntax you need to build your own C# applications. ",
+        "author": "Joe Mayo",
+        "pages": 98,
+        "year": 2015,
+        "lang": "EN",
+        "publish": true,
+        "image": "csharp-succinctly.jpg",
+        "added_at": "20161110",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/csharp"
+      },
+      {
+        "title": "OOP in C# Succinctly",
+        "description": "Object-Oriented Programming in C# Succinctly provides an introduction to OOP for C# developers. Author Sander Rossel provides overviews and numerous samples to guide readers towards OOP mastery.",
+        "author": "Sander Rossel",
+        "pages": 95,
+        "year": 2016,
+        "lang": "EN",
+        "publish": true,
+        "image": "object-oriented-programming-in-csharp-succinctly.jpg",
+        "added_at": "20161110",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/oop-csharp"
+      },
+      {
+        "title": "C# Code Contracts Succinctly",
+        "description": "In C# Code Contracts Succinctly, author Dirk Strauss demonstrates how to use Code Contracts to validate logical correctness in code, how they can be integrated with abstract classes and interfaces, and even how they can be used to make writing documentation less painful.",
+        "author": "Dirk Strauss",
+        "pages": 90,
+        "year": 2016,
+        "lang": "EN",
+        "publish": true,
+        "image": "csharp-code-contracts-succinctly.jpg",
+        "added_at": "20161110",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/csharpcontracts"
+      },
+      {
         "title": "C# School",
         "description": "14 lessons to get you started with C# and .NET",
         "author": "Faraz Rasheed",
