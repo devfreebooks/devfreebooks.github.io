@@ -16,7 +16,7 @@
         "image": "getting-started-with-django.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150225",
+        "added_at": "20150225",
         "url": "http://www.gettingstartedwithdjango.com/introduction-and-launch.html"
       },
       {
@@ -28,7 +28,7 @@
         "image": "django-girls.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150214",
+        "added_at": "20150214",
         "url": "http://djangogirls.gitbooks.io/djangogirls-tutorial"
       },
       {
@@ -39,7 +39,7 @@
         "year": 2015,
         "lang": "EN",
         "publish": true,
-        "published_at": "20151018",
+        "added_at": "20151018",
         "url": "http://www.effectivedjango.com/"
       }
     ]

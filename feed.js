@@ -23,7 +23,7 @@ harp.platforms.forEach((platformName) => {
   platform.books.forEach((book) => {
     const bookId = book.title.replace(/[^\w\s]/g, '').replace(/\s/g, '-').toLowerCase();
     const bookLink = `${rootUrl}${platformName}/#${bookId}`;
-    const bookPublishedAt = moment(book.published_at || moment().format('YYYYMMDD'), 'YYYYMMDD');
+    const bookPublishedAt = moment(book.added_at || moment().format('YYYYMMDD'), 'YYYYMMDD');
     const bookImage = imageRootUrl + (book.image || platform.image);
     books.push({
       title: `Book: ${book.title}`,
@@ -38,7 +38,7 @@ harp.platforms.forEach((platformName) => {
   });
 });
 
-const sortedBooks = books.sort(function(first, second) {
+const sortedBooks = books.sort((first, second) => {
   const a = moment(first.date, 'll').toDate().getTime();
   const b = moment(second.date, 'll').toDate().getTime();
   if (a < b) return 1;

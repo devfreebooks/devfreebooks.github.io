@@ -16,7 +16,7 @@
         "year": 2013,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150414"
+        "added_at": "20150414"
       },
       {
         "title": "A byte of Vim",
@@ -26,7 +26,7 @@
         "year": 2008, 
         "lang": "EN",
         "publish": true,
-        "published_at": "20150306",
+        "added_at": "20150306",
         "url": "http://files.swaroopch.com/vim/byte_of_vim_v051.pdf"
       },
       {
@@ -37,7 +37,7 @@
         "year": 2015, 
         "lang": "EN",
         "publish": true,
-        "published_at": "20150812",
+        "added_at": "20150812",
         "url": "https://vimebook.com/en"
       }
     ]

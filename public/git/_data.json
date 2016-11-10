@@ -8,18 +8,6 @@
     "description": "Read the best free ebooks about Git.",
     "books": [
       {
-        "title": "Pro Git",
-        "description": "Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.",
-        "author": "Scott Chacon and Ben Straub",
-        "pages": 574,
-        "year": 2014,
-        "image": "pro-git.jpg",
-        "lang": "EN",
-        "publish": true,
-        "published_at": "20141227",
-        "url": "https://progit.org"
-      },
-      {
         "title": "Git Succinctly",
         "description": "With Git Succinctly by Ryan Hodson, you can get up and running with one of the fastest-spreading revision control systems out there.",
         "author": "Ryan Hodson",
@@ -28,7 +16,7 @@
         "image": "git-succinctly.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150216",
+        "added_at": "20150216",
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/git"
       },
       {
@@ -40,7 +28,7 @@
         "image": "git-for-everyone.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150214",
+        "added_at": "20150214",
         "url": "http://anotheruiguy.gitbooks.io/gitforeveryone"
       },
       {
@@ -52,7 +40,7 @@
         "image": "git-internals.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20080314",
+        "added_at": "20080314",
         "url": "https://github.com/pluralsight/git-internals-pdf"
       }
     ]

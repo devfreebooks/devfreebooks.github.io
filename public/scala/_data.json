@@ -16,7 +16,7 @@
         "image": "creative-scala.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150227",
+        "added_at": "20150227",
         "url": "https://gumroad.com/l/creative-scala"
       },
       {
@@ -28,7 +28,7 @@
         "image": "scala-by-example.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150227",
+        "added_at": "20150227",
         "url": "http://www.scala-lang.org/docu/files/ScalaByExample.pdf"
       }
     ]

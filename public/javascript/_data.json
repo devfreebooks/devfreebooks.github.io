@@ -16,7 +16,7 @@
         "image": "programming-javascript-applications.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150227",
+        "added_at": "20150227",
         "url": "http://chimera.labs.oreilly.com/books/1234000000262/index.html"
       },
       {
@@ -28,7 +28,7 @@
         "image": "eloquent-javascript.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150225",
+        "added_at": "20150225",
         "url": "http://eloquentjavascript.net"
       },
       {
@@ -39,7 +39,7 @@
         "year": 2014,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150225",
+        "added_at": "20150225",
         "url": "http://dailyjs.com/files/build-a-javascript-framework.pdf"
       },
       {
@@ -51,8 +51,8 @@
         "image": "javascript-allonge.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150218",
-        "url": "https://leanpub.com/javascript-allonge?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150218",
+        "url": "https://leanpub.com/javascript-allonge/read"
       },
       {
         "title": "CoffeeScript Ristretto",
@@ -63,8 +63,8 @@
         "image": "coffeescript-ristretto.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150218",
-        "url": "https://leanpub.com/coffeescript-ristretto?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150218",
+        "url": "https://leanpub.com/coffeescript-ristretto/read"
       },
       {
         "title": "JavaScript Spessore",
@@ -75,8 +75,8 @@
         "image": "javascript-spessore.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150218",
-        "url": "https://leanpub.com/javascript-spessore?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150218",
+        "url": "https://leanpub.com/javascript-spessore/read"
       },
       {
         "title": "jQuery Succinctly",
@@ -87,8 +87,8 @@
         "image": "jquery-succinctly.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150216",
-        "url": "http://www.syncfusion.com/resources/techportal/ebooks/jquery"
+        "added_at": "20150216",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/jquery"
       },
       {
         "title": "Knockout.js Succinctly",
@@ -99,20 +99,20 @@
         "image": "knockout-succinctly.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150216",
-        "url": "http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs"
+        "added_at": "20150216",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/knockoutjs"
       },
       {
         "title": "HTML 5 Shoot 'em Up in an Afternoon",
-        "description": "Learn (or teach) the basics of Game Programming with this free Phaser tutorial.",
+        "description": "Learn the basics of Game Programming with this free Phaser tutorial.",
         "author": "Bryan Bibat",
         "pages": 95,
         "year": 2014,
         "image": "html5-shoot-em-up-in-an-afternoon.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150214",
-        "url": "https://leanpub.com/html5shootemupinanafternoon?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150214",
+        "url": "https://leanpub.com/html5shootemupinanafternoon/read"
       },
       {
         "title": "Learn Javascript",
@@ -123,7 +123,7 @@
         "image": "learn-javascript.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150214",
+        "added_at": "20150214",
         "url": "http://gitbookio.gitbooks.io/javascript"
       },
       {
@@ -135,7 +135,7 @@
         "image": "d3-tips-and-tricks.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150214",
+        "added_at": "20150214",
         "url": "https://leanpub.com/D3-Tips-and-Tricks?a=2hxrOg_7DAAAx2pWvoaFpT"
       },
       {
@@ -147,7 +147,7 @@
         "image": "human-javascript.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150202",
+        "added_at": "20150202",
         "url": "http://read.humanjavascript.com/ch01-introduction.html"
       },
       {
@@ -159,8 +159,8 @@
         "image": "understanding-ecmascript-6.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150202",
-        "url": "https://leanpub.com/understandinges6?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150202",
+        "url": "https://leanpub.com/understandinges6/read"
       },
       {
         "title": "Writing Modular JavaScript With AMD, CommonJS & ES Harmony",
@@ -170,7 +170,7 @@
         "year": 2013,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150202",
+        "added_at": "20150202",
         "url": "http://addyosmani.com/writing-modular-js"
       },
       {
@@ -181,7 +181,7 @@
         "year": 2012,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150202",
+        "added_at": "20150202",
         "url": "http://addyosmani.com/largescalejavascript/"
       },
       {
@@ -193,7 +193,7 @@
         "image": "learning-javascript-design-patterns.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150202",
+        "added_at": "20150202",
         "url": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/"
       },
       {
@@ -205,7 +205,7 @@
         "image": "ecmascript-language-specification.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150202",
+        "added_at": "20150202",
         "url": "http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf"
       },
       {
@@ -217,8 +217,20 @@
         "image": "javascript-succinctly.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150204",
-        "url": "https://www.syncfusion.com/resources/techportal/ebooks/javascript"
+        "added_at": "20150204",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/javascript"
+      },
+      {
+        "title": "ECMAScript 6 Succinctly",
+        "description": "ECMAScript 6 (ES6), also known as ECMAScript 2015, brings new functionality and features to the table that developers have been wanting for a long time. The wait is over, and with help from ECMAScript 6 Succinctly by Matthew Duffield.",
+        "author": "Matthew Duffield",
+        "pages": 106,
+        "year": 2016,
+        "image": "ecmascript-6-succinctly.jpg",
+        "lang": "EN",
+        "publish": true,
+        "added_at": "20161110",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/ECMAScript_6_Succinctly"
       },
       {
         "title": "You Don't Know JS: Up & Going",
@@ -228,7 +240,7 @@
         "year": 2015,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150301",
+        "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going"
       },
       {
@@ -239,7 +251,7 @@
         "year": 2014,
         "lang": "EN",
         "publish": true,
-        "published_at": "20140301",
+        "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/README.md#you-dont-know-js-scope--closures"
       },
       {
@@ -250,7 +262,7 @@
         "year": 2014,
         "lang": "EN",
         "publish": true,
-        "published_at": "20140701",
+        "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes"
       },
       {
@@ -261,7 +273,7 @@
         "year": 2015,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150101",
+        "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar"
       },
       {
@@ -272,7 +284,7 @@
         "year": 2015,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150201",
+        "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance"
       },
       {
@@ -283,7 +295,7 @@
         "year": 2015,
         "lang": "EN",
         "publish": true,
-        "published_at": "20151201",
+        "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond"
       }
     ]

@@ -34,7 +34,7 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
       "lang": "EN", // book language. Ex.: EN, PT-BR, ES
       "publish": true, // Publish to devfreebooks site
       "url": "book's url to download",
-      "published_at": "20150202" // Current publish date in format YYYYMMDD
+      "added_at": "20150202" // Current date you added this book in format YYYYMMDD
     }
   ]
 },
@@ -63,7 +63,7 @@ Look this example (`public/nodejs/_data.json`):
         "lang": "EN",
         "publish": true,
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/nodejs",
-        "published_at": "20150202"
+        "added_at": "20150202"
       }
     ]
   }

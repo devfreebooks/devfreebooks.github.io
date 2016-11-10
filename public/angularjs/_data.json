@@ -11,61 +11,61 @@
         "title": "Angular Basics",
         "description": "A free interactive book, covering directives, modules, services, controllers, routing, and more.",
         "author": "Chris Smith",
-        "pages": 14, 
-        "year": 2015, 
+        "pages": 14,
+        "year": 2015,
         "image": "angular-basics.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150319",
+        "added_at": "20150319",
         "url": "http://www.angularjsbook.com"
       },
       {
         "title": "AngularJS Succinctly",
         "description": "Perform common tasks and overcome common problems in Angular.js.",
         "author": "Frederik Dietz",
-        "pages": 112, 
-        "year": 2013, 
+        "pages": 112,
+        "year": 2013,
         "image": "angularjs-succinctly.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150131",
-        "url": "https://www.syncfusion.com/resources/techportal/ebooks/angularjs"
+        "added_at": "20150131",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/angularjs"
       },
       {
         "title": "AngularJS in 60 Minutes",
         "description": "AngularJS Fundamentals in 60 Minutes is going to go through all of the key fundamentals you need to know about the AngularJS SPA framework.",
         "author": "Dan Wahlin",
-        "pages": 102, 
-        "year": 2013, 
+        "pages": 102,
+        "year": 2013,
         "image": "angularjs-in-60-minutes.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150131",
+        "added_at": "20150131",
         "url": "http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf"
       },
       {
         "title": "Practical AngularJS",
         "description": "Real-world examples of using AngularJS in multiple scenarios and platforms (KarmaJS, Firebase, Eclipse, WebStorm, O2 Platform)",
         "author": "Dinis Cruz",
-        "pages": 103, 
-        "year": 2014, 
+        "pages": 103,
+        "year": 2014,
         "image": "practical-angularjs.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150131",
-        "url": "https://leanpub.com/Practical_AngularJS?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150131",
+        "url": "https://leanpub.com/Practical_AngularJS/read"
       },
       {
         "title": "Recipes with Angular.js",
         "description": "Practical concepts and techniques for rapid web application development.",
         "author": "Frederik Dietz",
-        "pages": 103, 
-        "year": 2013, 
+        "pages": 103,
+        "year": 2013,
         "image": "recipes-with-angularjs.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150131",
-        "url": "https://leanpub.com/recipes-with-angular-js?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150131",
+        "url": "https://leanpub.com/recipes-with-angular-js/read"
       }
     ]
   }

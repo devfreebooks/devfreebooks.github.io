@@ -23,14 +23,8 @@
       "url": "https://devnewsletters.github.io?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
     },
     "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks",
-    "platforms": ["bitcoin", "nodejs", "angularjs",
-                  "meteor","go",
-                  "python", "java", "ios",
-                  "elixir", "php", "ruby",
-                  "django", "git", "groovy",
-                  "scala", "vim", "perl",
-                  "http", "haskell", "rails",
-                  "playframework", "javascript", "android",
-                  "emberjs", "backbone", "typescript"]
+    "platforms": ["bitcoin", "nodejs", "angularjs", "meteor","go", "python", "java", "ios", "elixir", "php", "ruby",
+                  "django", "git", "groovy", "scala", "vim", "perl", "http", "haskell", "rails", "playframework",
+                  "javascript", "android", "emberjs", "backbone", "typescript"]
   }
 }

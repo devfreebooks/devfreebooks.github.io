@@ -15,7 +15,7 @@
         "year": 2014, 
         "lang": "EN",
         "publish": true,
-        "published_at": "20150306",
+        "added_at": "20150306",
         "url": "http://www.swaroopch.com/notes/python/#_download"
       },
       {
@@ -27,7 +27,7 @@
         "image": "explore-flask.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150225",
+        "added_at": "20150225",
         "url": "https://exploreflask.com"
       },
       {
@@ -39,7 +39,7 @@
         "image": "python-practice-book.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150206",
+        "added_at": "20150206",
         "url": "http://anandology.com/python-practice-book/index.html"
       },
       {
@@ -51,7 +51,7 @@
         "image": "learn-python-the-hard-way.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150206",
+        "added_at": "20150206",
         "url": "http://learnpythonthehardway.org/book/"
       },
       {
@@ -63,7 +63,7 @@
         "image": "python-dive-into-python.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20040520",
+        "added_at": "20040520",
         "url": "http://www.diveintopython.net/"
       },
       {
@@ -75,7 +75,7 @@
         "image": "python-hitchhikers-guide-to-python.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20161106",
+        "added_at": "20161106",
         "url": "http://docs.python-guide.org/en/latest/"
       }
     ]

@@ -16,7 +16,7 @@
         "image": "objective-c-succinctly.jpg", 
         "lang": "EN",
         "publish": true,
-        "published_at": "20150216",
+        "added_at": "20150216",
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/objective-c"
       },
       {
@@ -28,7 +28,7 @@
         "image": "ios-succinctly.jpg", 
         "lang": "EN",
         "publish": true,
-        "published_at": "20150216",
+        "added_at": "20150216",
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/ios"
       },
       {
@@ -40,7 +40,7 @@
         "image": "ios8-day-by-day.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150214",
+        "added_at": "20150214",
         "url": "https://leanpub.com/ios8daybyday?a=2hxrOg_7DAAAx2pWvoaFpT"
       },
       {
@@ -52,7 +52,7 @@
         "image": "swift-cheat-sheet.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150214",
+        "added_at": "20150214",
         "url": "http://mhm5000.gitbooks.io/swift-cheat-sheet"
       }
     ]
