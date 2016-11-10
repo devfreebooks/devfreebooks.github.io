@@ -2,9 +2,6 @@
 - var total_books = sorted_platforms.reduce(function(total, platform) {
 -     return total + public[platform]._data.index.books.length;
 - }, 0);
-section.hidden-xs.hidden-sm.home-ads(style="visibility:hidden;")
-  section.col-md-3(style="visibility:visible;")
-      != partial("ads_square")
 section.row-fluid.clearfix
   form.center.hidden-xs.hidden-sm(action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top")
     img(border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1")
