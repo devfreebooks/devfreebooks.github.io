@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-10T19:36:04.026Z
+# rev 1 - 2016-11-10T21:40:21.948Z
 
 CACHE:
 404.html
@@ -31,6 +31,7 @@ assets/images/building-apis-with-nodejs.jpg
 assets/images/building-web-apps-with-go.jpg
 assets/images/coffeescript-ristretto.jpg
 assets/images/creative-scala.jpg
+assets/images/csharp.jpg
 assets/images/d3-tips-and-tricks.jpg
 assets/images/developing-backbonejs-applications.jpg
 assets/images/developing-games-with-ruby.jpg
@@ -40,6 +41,7 @@ assets/images/devfreebooks-thumb.png
 assets/images/devfreebooks.png
 assets/images/django-girls.jpg
 assets/images/django.jpg
+assets/images/dotnet.jpg
 assets/images/ecmascript-6-succinctly.jpg
 assets/images/ecmascript-language-specification.jpg
 assets/images/elixir-school.jpg
@@ -136,6 +138,7 @@ assets/js/application.js
 assets/js/html5shiv.min.js
 backbone/index.html
 bitcoin/index.html
+csharp/index.html
 django/index.html
 elixir/index.html
 emberjs/index.html
