@@ -1,27 +1,29 @@
 {
   "name": "devfreebooks",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A huge collection of free books for devs",
   "author": "Caio Ribeiro Pereira",
   "license": "MIT",
   "scripts": {
-    "start": "./node_modules/.bin/grunt serve",
-    "deploy": "./node_modules/.bin/grunt deploy"
+    "start": "grunt prebuild:dev && harp server . --port 3000",
+    "build": "grunt prebuild:prod && harp compile . www && grunt build:prod",
+    "deploy": "npm run build && grunt deploy:prod"
   },
-  "devDependencies": {
-    "grunt": "0.4.5",
+  "dependencies": {
+    "eslint": "3.9.1",
+    "eslint-config-airbnb-base": "10.0.1",
+    "eslint-plugin-import": "2.2.0",
+    "grunt": "1.0.1",
     "grunt-appcache": "0.2.0",
-    "grunt-cli": "1.2.0",
     "grunt-contrib-clean": "1.0.0",
     "grunt-contrib-compress": "1.3.0",
-    "grunt-contrib-concat": "1.0.1",
     "grunt-contrib-stylus": "1.2.0",
-    "grunt-contrib-uglify": "2.0.0",
     "grunt-env": "0.4.4",
-    "grunt-execute": "0.2.2",
     "grunt-gh-pages": "2.0.0",
-    "grunt-harp": "0.1.5",
-    "moment": "2.9.0",
-    "rss": "1.1.1"
+    "grunt-shell": "2.1.0",
+    "grunt-sitemaps": "^0.1.1",
+    "harp": "0.21.0",
+    "moment": "2.15.2",
+    "rss": "1.2.1"
   }
 }

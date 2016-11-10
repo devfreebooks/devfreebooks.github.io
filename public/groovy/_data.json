@@ -11,25 +11,25 @@
         "title": "Gradle Goodness Notebook",
         "description": "Learn more about Gradle features with code snippets and short articles. The articles and code will get you started quickly and will give more insight in Gradle.",
         "author": "Hubert A. Klein Ikkink",
-        "pages": 113, 
-        "year": 2012, 
+        "pages": 113,
+        "year": 2012,
         "image": "gradle-goodness-notebook.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150218",
-        "url": "https://leanpub.com/gradle-goodness-notebook?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150218",
+        "url": "https://leanpub.com/gradle-goodness-notebook/read"
       },
       {
         "title": "Spocklight Notebook",
         "description": "Learn more about the Spock framework features with code snippets and short articles. The articles and code will get you started quickly and will give more insight in Spock.",
         "author": "Hubert A. Klein Ikkink",
-        "pages": 40, 
-        "year": 2012, 
+        "pages": 40,
+        "year": 2012,
         "image": "spocklight-notebook.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150218",
-        "url": "https://leanpub.com/spockframeworknotebook?a=2hxrOg_7DAAAx2pWvoaFpT"
+        "added_at": "20150218",
+        "url": "https://leanpub.com/spockframeworknotebook/read"
       }
     ]
   }

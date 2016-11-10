@@ -16,7 +16,7 @@
         "image": "typescript-deep-dive.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150414",
+        "added_at": "20150414",
         "url": "http://basarat.gitbooks.io/typescript"
       },
       {
@@ -28,8 +28,8 @@
         "image": "typescript-succinctly.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150216",
-        "url": "http://www.syncfusion.com/resources/techportal/ebooks/typescript"
+        "added_at": "20150216",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/typescript"
       }
     ]
   }

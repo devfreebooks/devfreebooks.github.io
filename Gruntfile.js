@@ -1,130 +1,100 @@
-module.exports = function(grunt) {
+const harp = require('./harp.json');
 
-  var harp = require("./harp.json");
-
-  var config = {
-
+module.exports = (grunt) => {
+  const config = {
     // Clean folders =================================
     clean: {
-      www: ["www"]
+      www: ['www']
     },
-
-    // Concat ========================================
-    concat: {
-      options: {
-        separator: ";"
-      },
-      main: {
-        src: [
-          "public/assets/js/_main.js"
-        ],
-        dest: "public/assets/js/application.js"
-      }
-    },
-
-    // Execute  ======================================
-    execute: {
-      target: {
-        options: {
-          module: true
-        },
-        src: ["feed.js"]
-      }
-    },
-
     // ENV vars ======================================
     env: {
-      dev : {
-        NODE_ENV : "development"
-      },
-      prod: {
-        NODE_ENV : "production"
-      }
-    },
-
-    // Harp Compile ==================================
-    harp: {
       dev: {
-        server: true,
-        port: 3000
+        NODE_ENV: 'development'
       },
       prod: {
-        source: "./",
-        dest: "www"
+        NODE_ENV: 'production'
       }
     },
-
     // Stylus ========================================
     stylus: {
       main: {
         options: { compress: true },
-        files: { 'public/assets/css/application.css': 'public/assets/css/_application.styl' }
-      }
-    },
-
-    // JS Min ========================================
-    uglify: {
-      main: {
         files: {
-          "www/assets/js/application.js": ["public/assets/js/application.js"]
+          'public/assets/css/application.css': 'public/assets/css/_application.styl'
         }
       }
     },
-
     // Compress ======================================
     compress: {
       main: {
         options: {
-          mode: "gzip",
+          mode: 'gzip',
           level: 9,
           pretty: true
         },
         files: [
-            {expand: true, flatten: true, src: ["www/assets/js/*.js"], dest: "www/assets/js", ext: ".gz.js"}
-          , {expand: true, flatten: true, src: ["www/assets/css/*.css"], dest: "www/assets/css", ext: ".gz.css"}
+          { expand: true, flatten: true, src: ['www/assets/js/*.js'], dest: 'www/assets/js', ext: '.gz.js' },
+          { expand: true, flatten: true, src: ['www/assets/css/*.css'], dest: 'www/assets/css', ext: '.gz.css' }
         ]
       }
     },
-
-    // Cache Manifest ================================
+    // Exec Feed Generator ===========================
+    shell: {
+      feed: {
+        command: 'mkdir -p www && node feed.js'
+      }
+    },
+    // Manifest ======================================
     appcache: {
       options: {
-        basePath: "www",
+        basePath: 'www',
         baseUrl: harp.globals.root_url.production
       },
       all: {
-        dest: "www/manifest.appcache",
-        cache: "www/**/*",
-        network: "*"
+        dest: 'www/manifest.appcache',
+        cache: 'www/**/*',
+        network: '*'
       }
     },
-
-    // Github Pages ==================================
-    "gh-pages": {
-      options: {
-        base: "www",
-        repo: "git@github.com:devfreebooks/devfreebooks.github.io.git",
-        message: "Deploying DevFreeBooks",
-        branch: "master"
-      },
-      src: "**/*"
+    // Sitemap =======================================
+    sitemaps: {
+      default: {
+        options: {
+          baseUrl: harp.globals.root_url.production,
+          contentRoot: 'www/',
+          dest: 'www/'
+        },
+        files: [{
+          expand: true,
+          cwd: 'www/',
+          src: '**/*.html'
+        }]
+      }
     },
-
+    // Github Pages ==================================
+    'gh-pages': {
+      options: {
+        base: 'www',
+        repo: harp.globals.github_repo,
+        message: `Deploying ${harp.globals.title}`,
+        branch: 'master'
+      },
+      src: '**/*'
+    }
   };
 
   grunt.initConfig(config);
-  grunt.loadNpmTasks("grunt-gh-pages");
-  grunt.loadNpmTasks("grunt-harp");
-  grunt.loadNpmTasks("grunt-env");
-  grunt.loadNpmTasks("grunt-appcache");
-  grunt.loadNpmTasks("grunt-execute");
-  grunt.loadNpmTasks("grunt-contrib-compress");
-  grunt.loadNpmTasks("grunt-contrib-stylus");
-  grunt.loadNpmTasks("grunt-contrib-uglify");
-  grunt.loadNpmTasks("grunt-contrib-concat");
-  grunt.loadNpmTasks("grunt-contrib-clean");
+  grunt.loadNpmTasks('grunt-gh-pages');
+  grunt.loadNpmTasks('grunt-env');
+  grunt.loadNpmTasks('grunt-contrib-compress');
+  grunt.loadNpmTasks('grunt-contrib-stylus');
+  grunt.loadNpmTasks('grunt-contrib-clean');
+  grunt.loadNpmTasks('grunt-appcache');
+  grunt.loadNpmTasks('grunt-sitemaps');
+  grunt.loadNpmTasks('grunt-shell');
 
-  grunt.registerTask("default",["clean", "env:dev", "execute", "concat", "stylus", "harp:dev"]);
-  grunt.registerTask("serve", ["default"]);
-  grunt.registerTask("deploy", ["clean", "env:prod", "execute", "concat", "stylus", "harp:prod", "uglify", "compress", "appcache", "gh-pages"]);
+  grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'stylus']);
+  grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'stylus']);
+  grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'compress', 'sitemaps']);
+  grunt.registerTask('deploy:prod', ['gh-pages']);
 };

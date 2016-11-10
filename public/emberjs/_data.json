@@ -12,12 +12,12 @@
         "url": "http://ember.vicramon.com",
         "description": "This tutorial provides an introduction to the Ember.js framework. It shows you how to build an Ember.js app with a Ruby on Rails backend while explaining all the underlying concepts along the way.",
         "author": "Vic Ramon",
-        "pages": "22",
-        "year": "2014",
+        "pages": 22,
+        "year": 2014,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150414"
+        "added_at": "20150414"
       }
     ]
   }
-}          
+}

@@ -6,6 +6,8 @@
     "author": "Caio Ribeiro Pereira",
     "email": "caio.ribeiro.pereira@gmail.com",
     "github_url": "https://github.com/devfreebooks/devfreebooks.github.io",
+    "github_repo": "git@github.com:devfreebooks/devfreebooks.github.io.git",
+    "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSeXsmlLo3S7lJF82LGTOMoMpA4vg_T38Ez47gQoU6P6KaFwQg/viewform",
     "root_url": {
       "development": "http://localhost:3000/",
       "production": "https://devfreebooks.github.io/"
@@ -21,7 +23,7 @@
       "url": "https://devnewsletters.github.io?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
     },
     "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks",
-    "platforms": ["bitcoin", "csharp","nodejs", "angularjs",
+    "platforms": ["bitcoin", "csharp", "nodejs", "angularjs",
                   "meteor","go", "firefoxos",
                   "python", "java", "ios",
                   "elixir", "php", "ruby",

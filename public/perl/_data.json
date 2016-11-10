@@ -1,0 +1,35 @@
+{
+  "index": {
+    "name": "perl",
+    "subtitle": "Perl",
+    "about": "Perl is a high-level, general-purpose, gradually typed language. Perl is multi-paradigmatic. It supports Procedural, Object Oriented, and Functional programming.",
+    "site": "http://perl6.org",
+    "image": "perl.jpg",
+    "books": [
+      {
+        "title": "Perl 6 Introduction",
+        "description": "Perl 6 Introduction is intended to give you a quick overview of the Perl 6 programming language. For those who are new to Perl 6 it should get you up and running.",
+        "author": "Naoum Hankache",
+        "pages": 79,
+        "year": 2016,
+        "image": "perl6-introduction.jpg",
+        "lang": "EN",
+        "publish": true,
+        "url": "http://perl6intro.com",
+        "added_at": "20161109"
+      },
+      {
+        "title": "Modern Perl",
+        "description": "Modern Perl teaches you how Perl really works. It's the only book that explains Perl thoroughly, from its philosophical roots to the pragmatic decisions that help you solve real problems—and keep them solved.",
+        "author": "Chromatic",
+        "pages": 286,
+        "year": 2016,
+        "image": "modern-perl.jpg",
+        "lang": "EN",
+        "publish": true,
+        "url": "http://modernperlbooks.com/books/modern_perl_2016/index.htm",
+        "added_at": "20161110"
+      }
+    ]
+  }
+}

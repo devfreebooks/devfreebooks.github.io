@@ -6,6 +6,12 @@ This is the repository of the site https://devfreebooks.github.io to submit eboo
 
 **Before start it, all books you add must be freeware and for web developers**
 
+### Via Google docs
+
+You can submit a book via our [Google Docs Form](https://docs.google.com/forms/d/e/1FAIpQLSeXsmlLo3S7lJF82LGTOMoMpA4vg_T38Ez47gQoU6P6KaFwQg/viewform).
+
+### Via Pull Request
+
 First of all you need to [fork this repository](https://github.com/devfreebooks/devfreebooks.github.io/fork).
 
 With this project in your hands, edit the `/public/[platform-folder]/_data.json` and add your books respecting these parameters:
@@ -28,7 +34,7 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
       "lang": "EN", // book language. Ex.: EN, PT-BR, ES
       "publish": true, // Publish to devfreebooks site
       "url": "book's url to download",
-      "published_at": "20150202" // Current publish date in format YYYYMMDD
+      "added_at": "20150202" // Current date you added this book in format YYYYMMDD
     }
   ]
 },
@@ -57,7 +63,7 @@ Look this example (`public/nodejs/_data.json`):
         "lang": "EN",
         "publish": true,
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/nodejs",
-        "published_at": "20150202"
+        "added_at": "20150202"
       }
     ]
   }
@@ -95,7 +101,8 @@ To get and run this project:
 ``` bash
 git clone git@github.com:devfreebooks/devfreebooks.github.io.git
 cd devfreebooks
-grunt serve
+npm install
+npm start
 ```
 
 And access in your browser the url: [http://localhost:3000](http://localhost:3000).

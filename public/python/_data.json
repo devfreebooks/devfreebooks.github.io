@@ -15,7 +15,7 @@
         "year": 2014, 
         "lang": "EN",
         "publish": true,
-        "published_at": "20150306",
+        "added_at": "20150306",
         "url": "http://www.swaroopch.com/notes/python/#_download"
       },
       {
@@ -27,7 +27,7 @@
         "image": "explore-flask.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150225",
+        "added_at": "20150225",
         "url": "https://exploreflask.com"
       },
       {
@@ -39,7 +39,7 @@
         "image": "python-practice-book.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150206",
+        "added_at": "20150206",
         "url": "http://anandology.com/python-practice-book/index.html"
       },
       {
@@ -51,8 +51,32 @@
         "image": "learn-python-the-hard-way.jpg",
         "lang": "EN",
         "publish": true,
-        "published_at": "20150206",
+        "added_at": "20150206",
         "url": "http://learnpythonthehardway.org/book/"
+      },
+      {
+        "title": "Dive Into Python",
+        "description": "Python from novice to pro.",
+        "author": "Mark Pilgrim",
+        "pages": 327,
+        "year": 2004,
+        "image": "python-dive-into-python.jpg",
+        "lang": "EN",
+        "publish": true,
+        "added_at": "20040520",
+        "url": "http://www.diveintopython.net/"
+      },
+      {
+        "title": "The Hitchhiker’s Guide to Python!",
+        "description": "This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.",
+        "author": "Kenneth Reitz",
+        "pages": 119,
+        "year": 2016,
+        "image": "python-hitchhikers-guide-to-python.jpg",
+        "lang": "EN",
+        "publish": true,
+        "added_at": "20161106",
+        "url": "http://docs.python-guide.org/en/latest/"
       }
     ]
   }
