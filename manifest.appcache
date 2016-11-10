@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-10T21:40:21.948Z
+# rev 1 - 2016-11-10T21:59:40.905Z
 
 CACHE:
 404.html
@@ -31,6 +31,8 @@ assets/images/building-apis-with-nodejs.jpg
 assets/images/building-web-apps-with-go.jpg
 assets/images/coffeescript-ristretto.jpg
 assets/images/creative-scala.jpg
+assets/images/csharp-code-contracts-succinctly.jpg
+assets/images/csharp-succinctly.jpg
 assets/images/csharp.jpg
 assets/images/d3-tips-and-tricks.jpg
 assets/images/developing-backbonejs-applications.jpg
@@ -99,9 +101,11 @@ assets/images/node-express-and-libsass-project-from-scratch-workshop.jpg
 assets/images/nodejs-succinctly.jpg
 assets/images/nodejs.jpg
 assets/images/npm-recipes.jpg
+assets/images/object-oriented-programming-in-csharp-succinctly.jpg
 assets/images/objective-c-succinctly.jpg
 assets/images/perl.jpg
 assets/images/perl6-introduction.jpg
+assets/images/perl6.jpg
 assets/images/php-the-right-way.jpg
 assets/images/php.jpg
 assets/images/playframework.jpg
@@ -155,6 +159,7 @@ javascript/index.html
 meteor/index.html
 nodejs/index.html
 perl/index.html
+perl6/index.html
 php/index.html
 playframework/index.html
 python/index.html
