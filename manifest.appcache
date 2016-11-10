@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-10T10:33:20.354Z
+# rev 1 - 2016-11-10T12:00:27.838Z
 
 CACHE:
 404.html
@@ -40,7 +40,9 @@ assets/images/devfreebooks-thumb.png
 assets/images/devfreebooks.png
 assets/images/django-girls.jpg
 assets/images/django.jpg
+assets/images/ecmascript-6-succinctly.jpg
 assets/images/ecmascript-language-specification.jpg
+assets/images/elixir-school.jpg
 assets/images/elixir.jpg
 assets/images/eloquent-javascript.jpg
 assets/images/emberjs.jpg
@@ -82,12 +84,14 @@ assets/images/laravel-4-official-documentation.jpg
 assets/images/learn-javascript.jpg
 assets/images/learn-python-the-hard-way.jpg
 assets/images/learn-ruby-the-hard-way.jpg
+assets/images/learn-you-a-haskell-for-great-good.jpg
 assets/images/learning-javascript-design-patterns.jpg
 assets/images/lets-create-a-realtime-blackboard-with-meteor-streams.jpg
 assets/images/mastering-bitcoin.jpg
 assets/images/mastering-nodejs.jpg
 assets/images/meteor-tutorial.jpg
 assets/images/meteor.jpg
+assets/images/modern-perl.jpg
 assets/images/module-patterns.jpg
 assets/images/node-express-and-libsass-project-from-scratch-workshop.jpg
 assets/images/nodejs-succinctly.jpg
