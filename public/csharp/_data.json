@@ -2,8 +2,8 @@
   "index": {
     "name": "csharp",
     "subtitle": "Csharp",
-    "about": "C# (pronounced as see sharp) is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. It was developed by Microsoft within its .NET initiative and later approved as a standard by Ecma (ECMA-334) and ISO (ISO/IEC 23270:2006). C# is one of the programming languages designed for the Common Language Infrastructure.",
-    "site": "https://www.microsoft.com/net/",
+    "about": "C# (pronounced as see sharp) is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. It was developed by Microsoft within its .NET initiative and is one of the programming languages designed for the Common Language Infrastructure.",
+    "site": "https://msdn.microsoft.com/en-us/library/z1zx9t92.aspx",
     "image": "csharp.jpg",
     "description": "Read the best free ebooks about C#",
     "books": [
@@ -11,12 +11,11 @@
         "title": "C# School",
         "description": "14 lessons to get you started with C# and .NET",
         "author": "Faraz Rasheed",
-        "pages": 337, 
-        "year": 2006, 
-        "image": "csharp.jpg",
+        "pages": 337,
+        "year": 2006,
         "lang": "EN",
         "publish": true,
-        "published_at": "20150407",
+        "added_at": "20161110",
         "url": "http://ebooks.programmersheaven.com/csharp_ebook.pdf"
       }
     ]
