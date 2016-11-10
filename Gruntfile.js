@@ -56,6 +56,21 @@ module.exports = (grunt) => {
         network: '*'
       }
     },
+    // Sitemap =======================================
+    sitemaps: {
+      default: {
+        options: {
+          baseUrl: harp.globals.root_url.production,
+          contentRoot: 'www/',
+          dest: 'www/'
+        },
+        files: [{
+          expand: true,
+          cwd: 'www/',
+          src: '**/*.html'
+        }]
+      }
+    },
     // Github Pages ==================================
     'gh-pages': {
       options: {
@@ -75,10 +90,11 @@ module.exports = (grunt) => {
   grunt.loadNpmTasks('grunt-contrib-stylus');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-appcache');
+  grunt.loadNpmTasks('grunt-sitemaps');
   grunt.loadNpmTasks('grunt-shell');
 
   grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'stylus']);
   grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'stylus']);
-  grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'compress']);
+  grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'compress', 'sitemaps']);
   grunt.registerTask('deploy:prod', ['gh-pages']);
 };

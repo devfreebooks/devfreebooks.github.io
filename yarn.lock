@@ -1553,6 +1553,10 @@ grunt-shell@2.1.0:
     chalk "^1.0.0"
     npm-run-path "^2.0.0"
 
+grunt-sitemaps:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/grunt-sitemaps/-/grunt-sitemaps-0.1.1.tgz#07bb857f1da38ac8213e9bbaaf0adc23a2ce00c0"
+
 grunt@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/grunt/-/grunt-1.0.1.tgz#e8778764e944b18f32bb0f10b9078475c9dfb56b"
