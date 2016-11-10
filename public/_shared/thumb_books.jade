@@ -2,13 +2,16 @@ section.row
   .col-xs-12.col-sm-9
     h3 #{subtitle}
     p #{about}<br>Site: <a href="#{site}" target="_blank">#{site}</a>
-  .col-xs-12.col-sm-3
-    != partial("ads_square")
 h4 Books
 section.row
   - var image_path = root_url[environment] + "assets/images/"
+  - var sorted_books = books.sort(function(a,b) {
+  -   if (a.year < b.year) return 1;
+  -   if (a.year > b.year) return -1;
+  -   return 0;
+  - });
   each book in books
-    if !!book.publish
+    if book.publish
       - var book_id = book.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase()
       - var book_url = book.url + (book.url.indexOf("?") >= 0 ? "&" : "?") + utm;
       - var book_image = image_path + (book.image ? book.image : image)
@@ -20,7 +23,7 @@ section.row
           a(href="#{book_url}" target="_blank" title="#{book.title}" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');")
             img.img-responsive.img-rounded(src="#{book_image}")
           div.caption
-            h3.book-title #{book.title}
+            h3.book-title <span class="label label-danger hide" data-added="#{book.added_at}">Added</span> #{book.title}
             p.book-description #{book.description}
             p.book-metadata Author: #{book.author}
             p.book-metadata Year: <span class="label label-success">#{book.year}</span> Lang.: <span class="label label-success">#{book.lang.toUpperCase()}</span> Pages: <span class="label label-success">#{book.pages}</span>
