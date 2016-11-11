@@ -12,7 +12,7 @@ const feed = new RSS({
   description: harp.description,
   feed_url: `${rootUrl}rss.xml`,
   site_url: rootUrl,
-  image_url: `${imageRootUrl}${harp.slug_title}-128.png`,
+  image_url: `${imageRootUrl}${harp.slug_title}-thumb.png`,
   managingEditor: harp.author,
   pubDate: moment().format('LLLL'),
   ttl: 60
@@ -24,16 +24,12 @@ harp.platforms.forEach((platformName) => {
     const bookId = book.title.replace(/[^\w\s]/g, '').replace(/\s/g, '-').toLowerCase();
     const bookLink = `${rootUrl}${platformName}/#${bookId}`;
     const bookPublishedAt = moment(book.added_at || moment().format('YYYYMMDD'), 'YYYYMMDD');
-    const bookImage = imageRootUrl + (book.image || platform.image);
     books.push({
       title: `Book: ${book.title}`,
       description: book.description,
       url: bookLink,
       author: harp.author,
-      date: bookPublishedAt.format('ll'),
-      enclosure: {
-        url: bookImage
-      }
+      date: bookPublishedAt.format('ll')
     });
   });
 });
