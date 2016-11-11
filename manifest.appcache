@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-11T01:06:21.711Z
+# rev 1 - 2016-11-11T14:23:18.787Z
 
 CACHE:
 404.html
@@ -23,6 +23,7 @@ assets/images/angular-basics.jpg
 assets/images/angularjs-in-60-minutes.jpg
 assets/images/angularjs-succinctly.jpg
 assets/images/angularjs.jpg
+assets/images/automate-the-boring-stuff-with-python.jpg
 assets/images/backbone-tutorials.jpg
 assets/images/backbone.jpg
 assets/images/bitcoin.jpg
@@ -30,6 +31,7 @@ assets/images/build-web-application-with-golang.jpg
 assets/images/building-apis-with-nodejs.jpg
 assets/images/building-web-apps-with-go.jpg
 assets/images/coffeescript-ristretto.jpg
+assets/images/core-java-dzone-refcard.jpg
 assets/images/creative-scala.jpg
 assets/images/csharp-code-contracts-succinctly.jpg
 assets/images/csharp-succinctly.jpg
@@ -51,8 +53,10 @@ assets/images/elixir.jpg
 assets/images/eloquent-javascript.jpg
 assets/images/emberjs.jpg
 assets/images/explore-flask.jpg
+assets/images/getting-started-git-dzone-refcard.jpg
 assets/images/getting-started-with-django.jpg
 assets/images/getting-started-with-meteor-deployment.jpg
+assets/images/getting-started-with-scala-dzone-refcard.jpg
 assets/images/git-for-everyone.jpg
 assets/images/git-internals.jpg
 assets/images/git-succinctly.jpg
@@ -118,6 +122,8 @@ assets/images/python-hitchhikers-guide-to-python.jpg
 assets/images/python-practice-book.jpg
 assets/images/python.jpg
 assets/images/rails.jpg
+assets/images/react.jpg
+assets/images/reactjs-succinctly.jpg
 assets/images/real-world-haskell.jpg
 assets/images/recipes-with-angularjs.jpg
 assets/images/ruby-on-rails-tutorial-3rd-edition.jpg
@@ -127,6 +133,7 @@ assets/images/scala-by-example.jpg
 assets/images/scala.jpg
 assets/images/spocklight-notebook.jpg
 assets/images/swift-cheat-sheet.jpg
+assets/images/swift-essentials-dzone-refcard.jpg
 assets/images/the-little-go-book.jpg
 assets/images/typescript-deep-dive.jpg
 assets/images/typescript-succinctly.jpg
@@ -164,6 +171,7 @@ php/index.html
 playframework/index.html
 python/index.html
 rails/index.html
+react/index.html
 robots.txt
 rss.xml
 ruby/index.html
