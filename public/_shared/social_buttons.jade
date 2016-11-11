@@ -1,14 +1,16 @@
-div.col-sm-12.col-md-12
-  p.center Please share this project for your friends!
-  div.col-sm-3.col-md-2.col-md-offset-2
+section.row-fluid.clearfix.hidden-xs.hidden-sm
+  p.center Share us!
+  div.col-sm-2.col-sm-offset-1
     a(target="_blank" rel="nofollow" href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(root_url[environment])}&t=#{encodeURIComponent(title)}" class="btn btn-block btn-primary") <i class="icon-facebook"></i>&nbsp;Facebook
     br
-  div.col-sm-3.col-md-2
+  div.col-sm-2
     a(target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet?text=#{encodeURIComponent(title)}%20#{encodeURIComponent(description)}%20#{encodeURIComponent(root_url[environment])}" class="btn btn-block btn-info") <i class="icon-twitter"></i>&nbsp;Twitter
     br
-  div.col-sm-3.col-md-2
+  div.col-sm-2
     a(target="_blank" rel="nofollow" href="https://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(root_url[environment])}&title=#{encodeURIComponent(title)}&summary=#{description}&source=#{title}" class="btn btn-block btn-default") <i class="icon-linkedin"></i>&nbsp;LinkedIn
     br
-  div.col-sm-3.col-md-2
+  div.col-sm-2
     a(target="_blank" rel="nofollow" href="https://plus.google.com/share?url=#{encodeURIComponent(root_url[environment])}" class="btn btn-block btn-danger") <i class="icon-gplus"></i>&nbsp;Google+
     br
+  div.col-sm-2
+    a(target="_blank" rel="nofollow" href="http://feeds.feedburner.com/#{title}" class="btn btn-block btn-warning") <i class="icon-rss"></i>&nbsp;Feed
