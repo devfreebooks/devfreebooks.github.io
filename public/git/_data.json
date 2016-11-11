@@ -8,6 +8,18 @@
     "description": "Read the best free ebooks about Git.",
     "books": [
       {
+        "title": "Getting Started With Git - DZone Refcard",
+        "description": "This updated Refcard explains why so many developers are migrating to this exciting platform. Learn about creating a new Git repository, cloning existing projects, the remote workflow, and more to pave the way for limitless content version control.",
+        "author": "Matthew McCullough & Kurt Collins",
+        "pages": 6,
+        "year": 2016,
+        "image": "getting-started-git-dzone-refcard.jpg",
+        "lang": "EN",
+        "publish": true,
+        "added_at": "20161111",
+        "url": "https://dzone.com/refcardz/getting-started-git"
+      },
+      {
         "title": "Git Succinctly",
         "description": "With Git Succinctly by Ryan Hodson, you can get up and running with one of the fastest-spreading revision control systems out there.",
         "author": "Ryan Hodson",
@@ -17,7 +29,7 @@
         "lang": "EN",
         "publish": true,
         "added_at": "20150216",
-        "url": "http://www.syncfusion.com/resources/techportal/ebooks/git"
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/git"
       },
       {
         "title": "Git for Everyone",

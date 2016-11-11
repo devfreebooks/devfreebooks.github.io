@@ -8,6 +8,17 @@
     "description": "Read the best free ebooks about Go language.",
     "books": [
       {
+        "title": "Go Bootcamp",
+        "url": "http://www.golangbootcamp.com/book",
+        "description": "Everything you need to know to get started with Go.",
+        "author": "Matt Aimonetti",
+        "pages": 118,
+        "year": 2014,
+        "lang": "EN",
+        "publish": true,
+        "added_at": "20161111"
+      },
+      {
         "title": "Learning Go",
         "url": "https://www.miek.nl/go",
         "description": "Book for people who already know some programming languages and how to program.",

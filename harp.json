@@ -24,7 +24,7 @@
     },
     "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks",
     "platforms": ["bitcoin", "nodejs", "angularjs", "meteor","go", "python", "java", "ios", "elixir", "php", "ruby",
-                  "django", "git", "groovy", "scala", "vim", "perl", "perl6", "http", "haskell", "rails",
+                  "django", "git", "groovy", "scala", "vim", "perl", "perl6", "http", "haskell", "rails", "react",
                   "playframework", "javascript", "android", "emberjs", "backbone", "typescript", "csharp"]
   }
 }

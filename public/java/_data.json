@@ -8,6 +8,18 @@
     "description": "Read the best free ebooks about Java language.",
     "books": [
       {
+        "title": "Core Java - DZone Refcard",
+        "url": "https://dzone.com/refcardz/core-java",
+        "description": "This free, 6-page cheat sheet gives you an overview of key aspects of the Java language and references on the core library, commonly used tools, and new Java 8 features.",
+        "author": "Cay Hortsmann & Ivan Ivanov",
+        "pages": 6,
+        "year": 2016,
+        "image": "core-java-dzone-refcard.jpg",
+        "lang": "EN",
+        "publish": true,
+        "added_at": "20161111"
+      },
+      {
         "title": "Learn Programming with Java",
         "url": "https://www.learneroo.com/modules/11",
         "description": "Online Tutorial and Challenges to learn the basics of Java programming.",

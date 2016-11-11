@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "react",
+    "subtitle": "React",
+    "about": "A JavaScript library for building User Interfaces. Lots of people use React as the V in MVC. Since React makes no assumptions about the rest of your technology stack, it's easy to try it out on a small feature in an existing project.",
+    "site": "http://facebook.github.io/react",
+    "image": "react.jpg",
+    "description": "Read the best free ebooks about React.",
+    "books": [
+      {
+        "title": "React.js Succinctly",
+        "description": "In React.js Succinctly, author Samer Buna introduces the novel approach to building user interfaces that React provides, and walks readers through the basics of declarative user interfaces, React components, working with user input, and more.",
+        "author": "Samer Buna",
+        "pages": 102,
+        "year": 2016,
+        "image": "reactjs-succinctly.jpg",
+        "lang": "EN",
+        "publish": true,
+        "added_at": "20161111",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/Reactjs_Succinctly"
+      }
+    ]
+  }
+}
