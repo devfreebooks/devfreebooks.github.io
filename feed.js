@@ -1,9 +1,11 @@
 const harp = require('./harp.json').globals;
 const RSS = require('rss');
 const moment = require('moment');
-const fs = require('fs');
+const fs = require('fs-extra');
+const path = require('path');
 
 const rootUrl = harp.root_url.production;
+const categoryDir = path.join(__dirname, 'public/_categories');
 const imageRootUrl = `${rootUrl}assets/images/`;
 const outputFeed = 'www/rss.xml';
 const books = [];
@@ -18,11 +20,12 @@ const feed = new RSS({
   ttl: 60
 });
 
-harp.platforms.forEach((platformName) => {
-  const platform = require(`./public/${platformName}/_data.json`).index;
-  platform.books.forEach((book) => {
+fs.readdirSync(categoryDir).forEach((categoryFile) => {
+  const categoryName = categoryFile.replace('.json', '');
+  const category = require(path.join(categoryDir, categoryFile)).index;
+  category.books.forEach((book) => {
     const bookId = book.title.replace(/[^\w\s]/g, '').replace(/\s/g, '-').toLowerCase();
-    const bookLink = `${rootUrl}${platformName}/#${bookId}`;
+    const bookLink = `${rootUrl}${categoryName}/#${bookId}`;
     const bookPublishedAt = moment(book.added_at || moment().format('YYYYMMDD'), 'YYYYMMDD');
     books.push({
       title: `Book: ${book.title}`,
