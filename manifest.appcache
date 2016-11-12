@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-11T14:23:18.787Z
+# rev 1 - 2016-11-12T15:27:45.513Z
 
 CACHE:
 404.html
@@ -27,6 +27,7 @@ assets/images/automate-the-boring-stuff-with-python.jpg
 assets/images/backbone-tutorials.jpg
 assets/images/backbone.jpg
 assets/images/bitcoin.jpg
+assets/images/build-pacman.jpg
 assets/images/build-web-application-with-golang.jpg
 assets/images/building-apis-with-nodejs.jpg
 assets/images/building-web-apps-with-go.jpg
@@ -66,6 +67,8 @@ assets/images/gradle-goodness-notebook.jpg
 assets/images/groovy.jpg
 assets/images/haskell.jpg
 assets/images/heroku-nodejs.jpg
+assets/images/high-performance-browser-networking.jpg
+assets/images/html.jpg
 assets/images/html5-shoot-em-up-in-an-afternoon.jpg
 assets/images/http-succinctly.jpg
 assets/images/http.jpg
@@ -158,12 +161,13 @@ git/index.html
 go/index.html
 groovy/index.html
 haskell/index.html
-http/index.html
+html/index.html
 index.html
 ios/index.html
 java/index.html
 javascript/index.html
 meteor/index.html
+network-protocols/index.html
 nodejs/index.html
 perl/index.html
 perl6/index.html
