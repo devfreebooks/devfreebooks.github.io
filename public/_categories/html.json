@@ -8,15 +8,15 @@
     "description": "Read the best free ebooks about HTML.",
     "books": [
       {
-        "title": "Swift Essentials - DZone Refcard",
-        "description": "Get ahead of the fastest growing programming language. Swift is an open source, type-safe, object-oriented programming language that is used for more than client-side mobile apps. It is designed for developers to have an easier time writing and maintaining accurate code. ",
-        "author": "Alex Blewitt",
-        "pages": 6,
-        "year": 2016,
-        "image": "swift-essentials-dzone-refcard.jpg",
+        "title": "HTML5 for Web Designers",
+        "description": "HTML5 isn’t as confusing as it once was, but it still isn’t straightforward. It’s an evolutionary, rather than revolutionary, change in the ongoing story of markup—and if you’re currently creating websites with any version of HTML, you’re already using HTML5.",
+        "author": "Jeremy Keith & Rachel Andrew",
+        "pages": 92,
+        "year": 2010,
+        "image": "html5-for-web-designers.jpg",
         "lang": "EN",
-        "added_at": "20161111",
-        "url": "https://dzone.com/refcardz/swift-essentials"
+        "added_at": "20161112",
+        "url": "https://html5forwebdesigners.com/"
       }
     ]
   }
