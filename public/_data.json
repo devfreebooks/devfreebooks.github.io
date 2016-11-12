@@ -1,1 +1,36 @@
-{"index":{"categories":["android","angularjs","backbone","bitcoin","csharp","django","elixir","emberjs","git","go","groovy","haskell","html","ios","java","javascript","meteor","network-protocols","nodejs","perl","perl6","php","playframework","python","rails","react","ruby","scala","typescript","vim"]}}
+{
+  "index": {
+    "categories": [
+      "android",
+      "angularjs",
+      "backbone",
+      "bitcoin",
+      "csharp",
+      "django",
+      "elixir",
+      "emberjs",
+      "git",
+      "go",
+      "groovy",
+      "haskell",
+      "html",
+      "ios",
+      "java",
+      "javascript",
+      "meteor",
+      "network-protocols",
+      "nodejs",
+      "perl",
+      "perl6",
+      "php",
+      "playframework",
+      "python",
+      "rails",
+      "react",
+      "ruby",
+      "scala",
+      "typescript",
+      "vim"
+    ]
+  }
+}

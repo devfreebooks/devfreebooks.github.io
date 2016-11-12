@@ -1,21 +1,26 @@
-const fs = require('fs');
+const fs = require('fs-extra');
 const path = require('path');
 
-const PUBLIC_DIR = path.join(__dirname, 'public/_categories');
+const PUBLIC_DIR = path.join(__dirname, 'public');
+const CATEGORIES_DIR = path.join(PUBLIC_DIR, '_categories');
 const output = { index: { categories: [] } };
 
-console.log('Generating categories');
+console.log('Generating categories pages');
 
-fs.readdirSync(PUBLIC_DIR)
-  .forEach((file) => {
-    output.index.categories.push(file.replace('.json', ''));
-  }
-);
+fs.readdirSync(CATEGORIES_DIR).forEach((file) => {
+  const categoryName = file.replace('.json', '');
+  const categoryJSONPath = path.join(CATEGORIES_DIR, file);
+  const newCategoryPath = path.join(PUBLIC_DIR, categoryName);
+  const newCategoryJSONPath = path.join(newCategoryPath, '_data.json');
+  const newCategoryJADEPath = path.join(newCategoryPath, 'index.jade');
+  fs.emptyDirSync(newCategoryPath);
+  fs.copySync(categoryJSONPath, newCategoryJSONPath);
+  fs.writeFileSync(newCategoryJADEPath, '!= partial("../_shared/thumb_books")', 'utf8');
+  output.index.categories.push(categoryName);
+});
 
-fs.writeFileSync(
-  path.join(PUBLIC_DIR, '_data.json'),
-  JSON.stringify(output),
-  'utf8'
-);
+const categoriesPath = path.join(PUBLIC_DIR, '_data.json');
+fs.removeSync(categoriesPath);
+fs.writeJsonSync(categoriesPath, output);
 
 console.log('Categories generated successfully!');

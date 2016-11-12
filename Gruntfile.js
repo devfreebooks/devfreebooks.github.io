@@ -44,7 +44,7 @@ module.exports = (grunt) => {
         command: 'mkdir -p www && node feed.js'
       },
       categories: {
-        command: 'rm -rf public/_data.json && node categories.js'
+        command: 'node categories.js'
       }
     },
     // Manifest ======================================
