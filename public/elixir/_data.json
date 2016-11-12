@@ -14,8 +14,7 @@
         "pages": 32,
         "year": 2015,
         "image": "elixir-school.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161110",
         "url": "http://elixirschool.com"
       },
@@ -26,8 +25,7 @@
         "pages": 20,
         "year": 2014,
         "image": "web-development-using-elixir.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150214",
         "url": "https://leanpub.com/web-development-using-elixir?a=2hxrOg_7DAAAx2pWvoaFpT"
       }

@@ -14,8 +14,7 @@
         "pages": 113,
         "year": 2012,
         "image": "gradle-goodness-notebook.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150218",
         "url": "https://leanpub.com/gradle-goodness-notebook/read"
       },
@@ -26,8 +25,7 @@
         "pages": 40,
         "year": 2012,
         "image": "spocklight-notebook.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150218",
         "url": "https://leanpub.com/spockframeworknotebook/read"
       }

@@ -11,10 +11,9 @@
         "title": "Play Framework Recipes",
         "description": "This ebook covers Play Framework 2.x using Scala language.",
         "author": "Alvin Alexander",
-        "pages": 84, 
-        "year": 2013, 
+        "pages": 84,
+        "year": 2013,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150407",
         "url": "http://alvinalexander.com/downloads/PlayFrameworkRecipes-0_2.pdf"
       }

@@ -15,7 +15,6 @@
         "pages": 38,
         "year": 2016,
         "lang": "PT-BR",
-        "publish": true,
         "added_at": "20161111"
       },
       {
@@ -26,7 +25,6 @@
         "pages": 56,
         "year": 2013,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150414"
       },
       {
@@ -36,7 +34,6 @@
         "pages": 89,
         "year": 2008,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150306",
         "url": "http://files.swaroopch.com/vim/byte_of_vim_v051.pdf"
       },
@@ -47,7 +44,6 @@
         "pages": 49,
         "year": 2015,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150812",
         "url": "https://vimebook.com/en"
       }

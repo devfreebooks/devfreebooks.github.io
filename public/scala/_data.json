@@ -14,8 +14,7 @@
         "pages": 6,
         "year": 2016,
         "image": "getting-started-with-scala-dzone-refcard.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161111",
         "url": "https://dzone.com/refcardz/scala"
       },
@@ -26,8 +25,7 @@
         "pages": 58,
         "year": 2015,
         "image": "creative-scala.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150227",
         "url": "https://gumroad.com/l/creative-scala"
       },
@@ -38,8 +36,7 @@
         "pages": 145,
         "year": 2014,
         "image": "scala-by-example.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150227",
         "url": "http://www.scala-lang.org/docu/files/ScalaByExample.pdf"
       }

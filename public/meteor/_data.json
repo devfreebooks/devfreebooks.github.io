@@ -14,9 +14,8 @@
         "author": "David Turnbull",
         "pages": 7,
         "year": 2015,
-        "lang": "EN",
-        "image": "your-second-meteor-application.jpg",
-        "publish": true,
+        "lang": "EN",        "image": "your-second-meteor-application.jpg",
+
         "added_at": "20150625"
       },
       {
@@ -26,9 +25,8 @@
         "author": "David Turnbull",
         "pages": 7,
         "year": 2015,
-        "lang": "EN",
-        "image": "getting-started-with-meteor-deployment.jpg",
-        "publish": true,
+        "lang": "EN",        "image": "getting-started-with-meteor-deployment.jpg",
+
         "added_at": "20150625"
       },
       {
@@ -38,8 +36,7 @@
         "pages": 1,
         "year": 2015,
         "image": "meteor-tutorial.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150408",
         "url": "http://www.meteor-tutorial.org/book"
       },
@@ -50,8 +47,7 @@
         "pages": 75,
         "year": 2014,
         "image": "your-first-meteor-application.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150204",
         "url": "http://meteortips.com/book"
       },
@@ -62,8 +58,7 @@
         "pages": 24,
         "year": 2014,
         "image": "pro-meteor-meteor-internals-scaling-and-more.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150204",
         "url": "https://meteorhacks.com/ebook/pro-meteor.html"
       },
@@ -74,8 +69,7 @@
         "pages": 23,
         "year": 2013,
         "image": "lets-create-a-realtime-blackboard-with-meteor-streams.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150204",
         "url": "https://meteorhacks.com/realtime-blackboard.html"
       }

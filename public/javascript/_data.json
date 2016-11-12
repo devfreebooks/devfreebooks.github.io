@@ -14,8 +14,7 @@
         "pages": 254,
         "year": 2014,
         "image": "programming-javascript-applications.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150227",
         "url": "http://chimera.labs.oreilly.com/books/1234000000262/index.html"
       },
@@ -26,8 +25,7 @@
         "pages": 490,
         "year": 2014,
         "image": "eloquent-javascript.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150225",
         "url": "http://eloquentjavascript.net"
       },
@@ -37,8 +35,7 @@
         "author": "Alex Young",
         "pages": 81,
         "year": 2014,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150225",
         "url": "http://dailyjs.com/files/build-a-javascript-framework.pdf"
       },
@@ -49,8 +46,7 @@
         "pages": 252,
         "year": 2013,
         "image": "javascript-allonge.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150218",
         "url": "https://leanpub.com/javascript-allonge/read"
       },
@@ -61,8 +57,7 @@
         "pages": 142,
         "year": 2013,
         "image": "coffeescript-ristretto.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150218",
         "url": "https://leanpub.com/coffeescript-ristretto/read"
       },
@@ -73,8 +68,7 @@
         "pages": 364,
         "year": 2013,
         "image": "javascript-spessore.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150218",
         "url": "https://leanpub.com/javascript-spessore/read"
       },
@@ -85,8 +79,7 @@
         "pages": 101,
         "year": 2014,
         "image": "jquery-succinctly.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150216",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/jquery"
       },
@@ -97,8 +90,7 @@
         "pages": 68,
         "year": 2014,
         "image": "knockout-succinctly.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150216",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/knockoutjs"
       },
@@ -109,8 +101,7 @@
         "pages": 95,
         "year": 2014,
         "image": "html5-shoot-em-up-in-an-afternoon.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150214",
         "url": "https://leanpub.com/html5shootemupinanafternoon/read"
       },
@@ -121,8 +112,7 @@
         "pages": 37,
         "year": 2014,
         "image": "learn-javascript.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150214",
         "url": "http://gitbookio.gitbooks.io/javascript"
       },
@@ -133,8 +123,7 @@
         "pages": 591,
         "year": 2015,
         "image": "d3-tips-and-tricks.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150214",
         "url": "https://leanpub.com/D3-Tips-and-Tricks?a=2hxrOg_7DAAAx2pWvoaFpT"
       },
@@ -145,8 +134,7 @@
         "pages": 16,
         "year": 2014,
         "image": "human-javascript.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150202",
         "url": "http://read.humanjavascript.com/ch01-introduction.html"
       },
@@ -157,8 +145,7 @@
         "pages": 1,
         "year": 2014,
         "image": "understanding-ecmascript-6.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150202",
         "url": "https://leanpub.com/understandinges6/read"
       },
@@ -168,8 +155,7 @@
         "author": "Addy Osmani",
         "pages": 1,
         "year": 2013,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150202",
         "url": "http://addyosmani.com/writing-modular-js"
       },
@@ -179,8 +165,7 @@
         "author": "Addy Osmani",
         "pages": 1,
         "year": 2012,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150202",
         "url": "http://addyosmani.com/largescalejavascript/"
       },
@@ -191,8 +176,7 @@
         "pages": 254,
         "year": 2014,
         "image": "learning-javascript-design-patterns.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150202",
         "url": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/"
       },
@@ -203,8 +187,7 @@
         "pages": 258,
         "year": 2011,
         "image": "ecmascript-language-specification.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150202",
         "url": "http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf"
       },
@@ -215,8 +198,7 @@
         "pages": 143,
         "year": 2014,
         "image": "javascript-succinctly.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150204",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/javascript"
       },
@@ -227,8 +209,7 @@
         "pages": 106,
         "year": 2016,
         "image": "ecmascript-6-succinctly.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161110",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/ECMAScript_6_Succinctly"
       },
@@ -238,8 +219,7 @@
         "author": "Kyle Simpson",
         "pages": 88,
         "year": 2015,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going"
       },
@@ -249,8 +229,7 @@
         "author": "Kyle Simpson",
         "pages": 98,
         "year": 2014,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/README.md#you-dont-know-js-scope--closures"
       },
@@ -260,8 +239,7 @@
         "author": "Kyle Simpson",
         "pages": 174,
         "year": 2014,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes"
       },
@@ -271,8 +249,7 @@
         "author": "Kyle Simpson",
         "pages": 198,
         "year": 2015,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar"
       },
@@ -282,8 +259,7 @@
         "author": "Kyle Simpson",
         "pages": 296,
         "year": 2015,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance"
       },
@@ -293,8 +269,7 @@
         "author": "Kyle Simpson",
         "pages": 278,
         "year": 2015,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161110",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond"
       }

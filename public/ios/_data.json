@@ -14,8 +14,7 @@
         "pages": 6,
         "year": 2016,
         "image": "swift-essentials-dzone-refcard.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161111",
         "url": "https://dzone.com/refcardz/swift-essentials"
       },
@@ -26,8 +25,7 @@
         "pages": 118,
         "year": 2014,
         "image": "ios-succinctly.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150216",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/ios"
       },
@@ -38,8 +36,7 @@
         "pages": 315,
         "year": 2014,
         "image": "ios8-day-by-day.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150214",
         "url": "https://leanpub.com/ios8daybyday?a=2hxrOg_7DAAAx2pWvoaFpT"
       },
@@ -50,8 +47,7 @@
         "pages": 19,
         "year": 2014,
         "image": "swift-cheat-sheet.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150214",
         "url": "http://mhm5000.gitbooks.io/swift-cheat-sheet"
       }

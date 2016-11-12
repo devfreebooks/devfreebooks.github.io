@@ -16,7 +16,6 @@
         "pages": 400,
         "year": 2011,
         "lang": "EN",
-        "publish": true,
         "added_at": "20161110"
       },
       {
@@ -26,8 +25,7 @@
         "author": "Wikibooks",
         "pages": 607,
         "year": 2014,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150414"
       },
       {
@@ -36,8 +34,7 @@
         "author": "Simon Marlow",
         "pages": 143,
         "year": 2013,
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150319",
         "url": "http://chimera.labs.oreilly.com/books/1230000000929/index.html"
       },
@@ -48,8 +45,7 @@
         "pages": 40,
         "year": 2008,
         "image": "real-world-haskell.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150319",
         "url": "http://book.realworldhaskell.org/read"
       }

@@ -15,7 +15,6 @@
         "year": 2015,
         "image": "agile-android.jpg",
         "lang": "EN",
-        "publish": true,
         "added_at": "20150407",
         "url": "https://www.agiledroid.com"
       },
@@ -27,7 +26,6 @@
         "year": 2014,
         "image": "android-programming-succinctly.jpg",
         "lang": "EN",
-        "publish": true,
         "added_at": "20150407",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/android"
       }

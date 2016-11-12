@@ -16,7 +16,6 @@
         "year": 2013,
         "lang": "EN",
         "image": "developing-backbonejs-applications.jpg",
-        "publish": true,
         "added_at": "20150414"
       },
       {
@@ -28,7 +27,6 @@
         "year": 2013,
         "lang": "EN",
         "image": "backbone-tutorials.jpg",
-        "publish": true,
         "added_at": "20150414"
       }
     ]

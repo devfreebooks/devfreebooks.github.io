@@ -15,7 +15,6 @@
         "year": 2015,
         "lang": "EN",
         "image": "automate-the-boring-stuff-with-python.jpg",
-        "publish": true,
         "added_at": "20161111",
         "url": "https://automatetheboringstuff.com/"
       },
@@ -26,7 +25,6 @@
         "pages": 176,
         "year": 2014,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150306",
         "url": "http://www.swaroopch.com/notes/python/#_download"
       },
@@ -37,8 +35,7 @@
         "pages": 14,
         "year": 2014,
         "image": "explore-flask.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150225",
         "url": "https://exploreflask.com"
       },
@@ -49,8 +46,7 @@
         "pages": 36,
         "year": 2014,
         "image": "python-practice-book.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150206",
         "url": "http://anandology.com/python-practice-book/index.html"
       },
@@ -61,8 +57,7 @@
         "pages": 58,
         "year": 2014,
         "image": "learn-python-the-hard-way.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20150206",
         "url": "http://learnpythonthehardway.org/book/"
       },
@@ -73,8 +68,7 @@
         "pages": 327,
         "year": 2004,
         "image": "python-dive-into-python.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20040520",
         "url": "http://www.diveintopython.net/"
       },
@@ -85,8 +79,7 @@
         "pages": 119,
         "year": 2016,
         "image": "python-hitchhikers-guide-to-python.jpg",
-        "lang": "EN",
-        "publish": true,
+        "lang": "EN",        
         "added_at": "20161106",
         "url": "http://docs.python-guide.org/en/latest/"
       }

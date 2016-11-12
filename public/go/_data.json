@@ -15,7 +15,6 @@
         "pages": 118,
         "year": 2014,
         "lang": "EN",
-        "publish": true,
         "added_at": "20161111"
       },
       {
@@ -26,7 +25,6 @@
         "pages": 112,
         "year": 2015,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150414"
       },
       {
@@ -37,7 +35,6 @@
         "pages": 64,
         "year": 2013,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150414"
       },
       {
@@ -48,7 +45,6 @@
         "year": 2014,
         "image": "build-web-application-with-golang.jpg",
         "lang": "EN, JP, FR, CH",
-        "publish": true,
         "added_at": "20150312",
         "url": "https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details"
       },
@@ -60,7 +56,6 @@
         "year": 2014,
         "image": "the-little-go-book.jpg",
         "lang": "EN",
-        "publish": true,
         "added_at": "20150201",
         "url": "http://openmymind.net/The-Little-Go-Book"
       },
@@ -72,7 +67,6 @@
         "year": 2014,
         "image": "building-web-apps-with-go.jpg",
         "lang": "EN",
-        "publish": true,
         "added_at": "20150201",
         "url": "http://codegangsta.gitbooks.io/building-web-apps-with-go/"
       },
@@ -84,7 +78,6 @@
         "year": 2012,
         "image": "an-introduction-to-programming-in-go.jpg",
         "lang": "EN",
-        "publish": true,
         "added_at": "20150201",
         "url": "http://www.golang-book.com/books/intro"
       },
@@ -95,7 +88,6 @@
         "pages": 21,
         "year": 2014,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150407",
         "url": "https://leanpub.com/gocrypto/read?a=2hxrOg_7DAAAx2pWvoaFpT"
       }

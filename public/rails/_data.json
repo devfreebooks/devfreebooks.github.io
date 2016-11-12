@@ -15,7 +15,6 @@
         "pages": "159",
         "year": "2016",
         "lang": "EN",
-        "publish": true,
         "added_at": "20141203"
       },
       {
@@ -27,7 +26,6 @@
         "year": "2014",
         "lang": "EN",
         "image": "ruby-on-rails-tutorial-3rd-edition.jpg",
-        "publish": true,
         "added_at": "20150414"
       },
       {
@@ -37,7 +35,6 @@
         "pages": 11,
         "year": 2014,
         "lang": "EN",
-        "publish": true,
         "added_at": "20150328",
         "url": "http://apionrails.icalialabs.com/book"
       }

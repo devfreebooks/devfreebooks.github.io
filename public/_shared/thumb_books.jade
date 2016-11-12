@@ -11,25 +11,24 @@ section.row
   -   return 0;
   - });
   each book in books
-    if book.publish
-      - var book_id = book.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase()
-      - var book_url = book.url + (book.url.indexOf("?") >= 0 ? "&" : "?") + utm;
-      - var book_image = image_path + (book.image ? book.image : image)
-      - var book_thumb_url = root_url[environment] + name + '#' + book_id;
-      - var book_thumb_title = "Ebook: "+ book.title;
-      section.col-xs-12.col-sm-6.col-md-4
-        div(class="anchor" id="#{book_id}")
-        div(class="thumbnail")
-          a(href="#{book_url}" target="_blank" title="#{book.title}" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');")
-            img.img-responsive.img-rounded(src="#{book_image}")
-          div.caption
-            h3.book-title <span class="label label-danger hide" data-added="#{book.added_at}">Added</span> #{book.title}
-            p.book-description #{book.description}
-            p.book-metadata Author: #{book.author}
-            p.book-metadata Year: <span class="label label-success">#{book.year}</span> Lang.: <span class="label label-success">#{book.lang.toUpperCase()}</span> Pages: <span class="label label-success">#{book.pages}</span>
-            p.book-metadata Share:&nbsp;
-              <a href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(book_thumb_url)}&t=#{encodeURIComponent(book_thumb_title)}" target="_blank" rel="nofollow" class="btn btn-sm btn-primary"><i class="icon-facebook"></i></a>&nbsp;
-              <a href="https://twitter.com/intent/tweet?text=#{encodeURIComponent(book_thumb_title)}%20#{encodeURIComponent(book_thumb_url)}" target="_blank" rel="nofollow" class="btn btn-sm btn-info"><i class="icon-twitter"></i></a>&nbsp;
-              <a href="https://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(book_thumb_url)}&title=#{encodeURIComponent(book_thumb_title)}&summary=#{encodeURIComponent(book.description)}&source=#{title}" target="_blank" rel="nofollow" class="btn btn-sm btn-default"><i class="icon-linkedin"></i></a>&nbsp;
-              <a href="https://plus.google.com/share?url=#{encodeURIComponent(book_thumb_url)}&title=#{encodeURIComponent(book_thumb_title)}" target="_blank" rel="nofollow" class="btn btn-sm btn-danger"><i class="icon-gplus"></i></a>
-            p <a class="btn btn-success btn-block" href="#{book_url}" target="_blank" role="button" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');"><i class="icon-eye"></i>&nbsp;Read</a>
+    - var book_id = book.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase()
+    - var book_url = book.url + (book.url.indexOf("?") >= 0 ? "&" : "?") + utm;
+    - var book_image = image_path + (book.image ? book.image : image)
+    - var book_thumb_url = root_url[environment] + name + '#' + book_id;
+    - var book_thumb_title = "Ebook: "+ book.title;
+    section.col-xs-12.col-sm-6.col-md-4
+      div(class="anchor" id="#{book_id}")
+      div(class="thumbnail")
+        a(href="#{book_url}" target="_blank" title="#{book.title}" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');")
+          img.img-responsive.img-rounded(src="#{book_image}")
+        div.caption
+          h3.book-title <span class="label label-danger hide" data-added="#{book.added_at}">Added</span> #{book.title}
+          p.book-description #{book.description}
+          p.book-metadata Author: #{book.author}
+          p.book-metadata Year: <span class="label label-success">#{book.year}</span> Lang.: <span class="label label-success">#{book.lang.toUpperCase()}</span> Pages: <span class="label label-success">#{book.pages}</span>
+          p.book-metadata Share:&nbsp;
+            <a href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(book_thumb_url)}&t=#{encodeURIComponent(book_thumb_title)}" target="_blank" rel="nofollow" class="btn btn-sm btn-primary"><i class="icon-facebook"></i></a>&nbsp;
+            <a href="https://twitter.com/intent/tweet?text=#{encodeURIComponent(book_thumb_title)}%20#{encodeURIComponent(book_thumb_url)}" target="_blank" rel="nofollow" class="btn btn-sm btn-info"><i class="icon-twitter"></i></a>&nbsp;
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(book_thumb_url)}&title=#{encodeURIComponent(book_thumb_title)}&summary=#{encodeURIComponent(book.description)}&source=#{title}" target="_blank" rel="nofollow" class="btn btn-sm btn-default"><i class="icon-linkedin"></i></a>&nbsp;
+            <a href="https://plus.google.com/share?url=#{encodeURIComponent(book_thumb_url)}&title=#{encodeURIComponent(book_thumb_title)}" target="_blank" rel="nofollow" class="btn btn-sm btn-danger"><i class="icon-gplus"></i></a>
+          p <a class="btn btn-success btn-block" href="#{book_url}" target="_blank" role="button" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');"><i class="icon-eye"></i>&nbsp;Read</a>
