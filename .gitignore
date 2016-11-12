@@ -2,6 +2,13 @@
 www
 node_modules
 .grunt
-public/rss.xml
+!public/assets/**/*
+!public/about/*
+!public/_categories/*
+!public/_shared/*
+!public/*
 public/assets/css/application.css
 npm-debug.log
+public/rss.xml
+public/**/*.jade
+public/**/_data.json
