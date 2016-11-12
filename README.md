@@ -14,15 +14,15 @@ You can submit a book via our [Google Docs Form](https://docs.google.com/forms/d
 
 First of all you need to [fork this repository](https://github.com/devfreebooks/devfreebooks.github.io/fork).
 
-With this project in your hands, edit the `/public/[platform-folder]/_data.json` and add your books respecting these parameters:
+With this project in your hands, edit the `/public/_categories/[category-name].json` and add your books respecting these parameters:
 
 ``` javascript
 "index": {
-  "name": "platform_name", // lower case and underscored
-  "subtitle": "Platform name",
-  "about": "Platform description",
-  "site": "url of the official platform site",
-  "image": "platform-logo.jpg", // Platform image is required
+  "name": "category-name",
+  "subtitle": "Category's name",
+  "about": "Category's description",
+  "site": "url of the official category site",
+  "image": "category-image.jpg", // Category image is required
   "books": [
     {
       "title": "Book title",
@@ -33,7 +33,7 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
       "image": "cover.jpg", // Book cover image (optional)
       "lang": "EN", // book language. Ex.: EN, PT-BR, ES
       "url": "book's url to download",
-      "added_at": "20150202" // Current date you added this book in format YYYYMMDD
+      "added_at": "20161112" // Current date you added this book in format YYYYMMDD
     }
   ]
 },
@@ -41,7 +41,7 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
 
 Obs.: **All image must be an jpeg/jpg with 350x195 size**. If you don't add an `books.image` attribute the **default category image will replace it**.
 
-Look this example (`public/nodejs/_data.json`):
+Look this example (`public/_categories/nodejs.json`):
 
 ``` javascript
 {
@@ -54,52 +54,32 @@ Look this example (`public/nodejs/_data.json`):
     "books": [
       {
         "title": "Node.js Succinctly",
-        "description": "Use Node.js to create faster network and server-side applications on any scale, improve your existing database applications, or create web apps with JSON data.",
-        "author": "Agus Kurniawan",
-        "pages": 201,
-        "year": 2014,
+        "description": "Learn the basics of Node.js: non-blocking I/O, the event loop, modules, and the Node.js runtime environment. From there, dive into building practical solutions that interact with filesystems and streams, access databases, handle web server message queuing, and more.",
+        "author": "Emanuele DelBono",
+        "pages": 76,
+        "year": 2016,
         "image": "nodejs-succinctly.jpg",
-        "lang": "EN",
-        "url": "http://www.syncfusion.com/resources/techportal/ebooks/nodejs",
-        "added_at": "20150202"
+        "lang": "EN",        
+        "added_at": "20161112",
+        "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/nodejs"
       }
     ]
   }
 }
 ```
 
-If you wanna add a new platform (programming language or framework), first you need to add it into `global.platforms` attribute in the file `harp.json`:
-
-``` javascript
-{
-  "globals": {
-    "title": "DevFreeBooks",
-    "description": "A huge collection of free books for devs",
-    "name": "Caio Ribeiro Pereira",
-    "email": "caio.ribeiro.pereira@gmail.com",
-    "platforms": ["nodejs", "meteor", "go", "ruby"] // Just add here a new platform
-  }
-}
-```
-
 ## Development mode
 
-To run this project in **development mode**, you need have [Node.js](http://nodejs.org) and [Grunt](http://gruntjs.com) installed.
+To run this project in **development mode**, you must have installed the latest version of [Node.js](http://nodejs.org).
 
 To install Node.js, just [follow this wiki rules](http://nodejs.org/download)
-
-To install Grunt, just run the command below:
-
-``` bash
-npm install grunt-cli -g
-```
 
 To get and run this project:
 
 ``` bash
 git clone git@github.com:devfreebooks/devfreebooks.github.io.git
-cd devfreebooks
-npm install
+cd devfreebooks.github.io
+npm install # or using yarn: yarn install
 npm start
 ```
 
