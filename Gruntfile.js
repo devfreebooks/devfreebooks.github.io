@@ -42,6 +42,9 @@ module.exports = (grunt) => {
     shell: {
       feed: {
         command: 'mkdir -p www && node feed.js'
+      },
+      categories: {
+        command: 'rm -rf public/_data.json && node categories.js'
       }
     },
     // Manifest ======================================
@@ -93,8 +96,8 @@ module.exports = (grunt) => {
   grunt.loadNpmTasks('grunt-sitemaps');
   grunt.loadNpmTasks('grunt-shell');
 
-  grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'stylus']);
-  grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'stylus']);
+  grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'shell:categories', 'stylus']);
+  grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'shell:categories', 'stylus']);
   grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'compress', 'sitemaps']);
-  grunt.registerTask('deploy:prod', ['gh-pages']);
+  grunt.registerTask('deploy:prod', ['gh-pages', 'clean']);
 };

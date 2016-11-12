@@ -32,7 +32,6 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
       "year": 2014, // Publish year
       "image": "cover.jpg", // Book cover image (optional)
       "lang": "EN", // book language. Ex.: EN, PT-BR, ES
-      "publish": true, // Publish to devfreebooks site
       "url": "book's url to download",
       "added_at": "20150202" // Current date you added this book in format YYYYMMDD
     }
@@ -61,7 +60,6 @@ Look this example (`public/nodejs/_data.json`):
         "year": 2014,
         "image": "nodejs-succinctly.jpg",
         "lang": "EN",
-        "publish": true,
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/nodejs",
         "added_at": "20150202"
       }

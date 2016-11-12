@@ -1,0 +1,23 @@
+{
+  "index": {
+    "name": "html",
+    "subtitle": "HTML",
+    "about": "HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements and these elements form the building blocks of a website.",
+    "site": "https://developer.mozilla.org/en/docs/Web/HTML",
+    "image": "html.jpg",
+    "description": "Read the best free ebooks about HTML.",
+    "books": [
+      {
+        "title": "Swift Essentials - DZone Refcard",
+        "description": "Get ahead of the fastest growing programming language. Swift is an open source, type-safe, object-oriented programming language that is used for more than client-side mobile apps. It is designed for developers to have an easier time writing and maintaining accurate code. ",
+        "author": "Alex Blewitt",
+        "pages": 6,
+        "year": 2016,
+        "image": "swift-essentials-dzone-refcard.jpg",
+        "lang": "EN",
+        "added_at": "20161111",
+        "url": "https://dzone.com/refcardz/swift-essentials"
+      }
+    ]
+  }
+}
