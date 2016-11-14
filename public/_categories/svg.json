@@ -1,0 +1,34 @@
+{
+  "index": {
+    "name": "svg",
+    "subtitle": "svg",
+    "about": "Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation.",
+    "site": "https://www.w3.org/Graphics/SVG/",
+    "image": "SVG_logo.svg",
+    "description": "Read the best free ebooks about SVG.",
+    "books": [
+      {
+        "title": "SCALABLE, un libro sobre SVG",
+        "description": "A lo largo de 15 capítulos, 120 páginas y más de 70 ejemplos vamos a ver todo lo que podemos hacer con SVG.",
+        "author": "Jorge Aznar",
+        "pages": 146,
+        "year": 2014,
+        "image": "scalable.jpg",
+        "lang": "ES",
+        "added_at": "20161114",
+        "url": "https://leanpub.com/scalable/"
+      },
+      {
+        "title": "Pocket Guide to Writing SVG",
+        "description": "A pocket guide to writing SVG.",
+        "author": "Joni Trythall",
+        "pages": 1,
+        "year": 2014,
+        "image": "pocket-guide-writing-svg.svg",
+        "lang": "EN",
+        "added_at": "20161114",
+        "url": "http://svgpocketguide.com/book/"
+      }
+    ]
+  }
+}
