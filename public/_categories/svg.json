@@ -4,7 +4,7 @@
     "subtitle": "svg",
     "about": "Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation.",
     "site": "https://www.w3.org/Graphics/SVG/",
-    "image": "SVG_logo.svg",
+    "image": "logo-svg.jpg",
     "description": "Read the best free ebooks about SVG.",
     "books": [
       {
@@ -24,7 +24,7 @@
         "author": "Joni Trythall",
         "pages": 1,
         "year": 2014,
-        "image": "pocket-guide-writing-svg.svg",
+        "image": "pocket-guide-writing-svg.jpg",
         "lang": "EN",
         "added_at": "20161114",
         "url": "http://svgpocketguide.com/book/"
