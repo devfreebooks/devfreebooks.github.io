@@ -8,6 +8,7 @@
     "github_url": "https://github.com/devfreebooks/devfreebooks.github.io",
     "github_repo": "git@github.com:devfreebooks/devfreebooks.github.io.git",
     "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSeXsmlLo3S7lJF82LGTOMoMpA4vg_T38Ez47gQoU6P6KaFwQg/viewform",
+    "hackernews_id": "12909967",
     "root_url": {
       "development": "http://localhost:3000/",
       "production": "https://devfreebooks.github.io/"
