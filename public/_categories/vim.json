@@ -9,7 +9,7 @@
     "books": [
       {
         "title": "Vim para Noobs",
-        "url": "https://woliveiras.com.br/vimparanoobs",
+        "url": "https://woliveiras.com.br/vimparanoobs/",
         "description": "A free GitBook about Vim editor for Noobs become text hackers.",
         "author": "William Oliveira",
         "pages": 38,
