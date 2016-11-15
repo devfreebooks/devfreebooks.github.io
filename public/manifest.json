@@ -1,14 +1,20 @@
 {
   "name": "DevFreeBooks",
   "short_name": "DevFreeBooks",
-  "start_url": "/",
+  "start_url": "/?utm_source=webapp",
   "display": "standalone",
+  "orientation": "portrait",
   "theme_color": "#333333",
-  "background_color": "#FEFEFE",
+  "background_color": "#333333",
   "icons": [
     {
       "src": "assets/images/devfreebooks-128.png",
       "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/devfreebooks-splash.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
