@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-14T16:42:29.399Z
+# rev 1 - 2016-11-15T12:53:04.730Z
 
 CACHE:
 404.html
@@ -118,6 +118,7 @@ assets/images/perl6.jpg
 assets/images/php-the-right-way.jpg
 assets/images/php.jpg
 assets/images/playframework.jpg
+assets/images/pocket-guide-writing-svg.jpg
 assets/images/practical-angularjs.jpg
 assets/images/pro-git.jpg
 assets/images/pro-meteor-meteor-internals-scaling-and-more.jpg
@@ -132,11 +133,14 @@ assets/images/reactjs-succinctly.jpg
 assets/images/real-world-haskell.jpg
 assets/images/recipes-with-angularjs.jpg
 assets/images/ruby-on-rails-tutorial-3rd-edition.jpg
+assets/images/ruby-web-dev-the-other-way.jpg
 assets/images/ruby.jpg
 assets/images/rubykin.jpg
 assets/images/scala-by-example.jpg
 assets/images/scala.jpg
+assets/images/scalable.jpg
 assets/images/spocklight-notebook.jpg
+assets/images/svg.jpg
 assets/images/swift-cheat-sheet.jpg
 assets/images/swift-essentials-dzone-refcard.jpg
 assets/images/the-little-go-book.jpg
@@ -182,6 +186,7 @@ robots.txt
 rss.xml
 ruby/index.html
 scala/index.html
+svg/index.html
 typescript/index.html
 vim/index.html
 
