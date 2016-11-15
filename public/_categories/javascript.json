@@ -149,6 +149,17 @@
         "added_at": "20150202",
         "url": "https://leanpub.com/understandinges6/read"
       },
+	  {
+        "title": "Exploring ES6",
+        "description": "An in-depth book on ECMAScript 6, for JavaScript programmers.",
+        "author": "Axel Rauschmayer",
+        "pages": 620,
+        "year": 2016,
+        "image": "exploring-es6.jpg",
+        "lang": "EN",
+        "added_at": "20161115",
+        "url": "http://exploringjs.com/es6/index.html"
+      },
       {
         "title": "Writing Modular JavaScript With AMD, CommonJS & ES Harmony",
         "description": "In this article, we're going to look at three formats for writing modular JavaScript: AMD, CommonJS and proposals for the next version of JavaScript, Harmony.",
