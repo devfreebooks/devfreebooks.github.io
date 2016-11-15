@@ -40,15 +40,15 @@
         "url": "http://dailyjs.com/files/build-a-javascript-framework.pdf"
       },
       {
-        "title": "JavaScript Allongé",
-        "description": "A long pull of functions, combinators & decorators.",
+        "title": "JavaScript Allongé, the \"Six\" Edition",
+        "description": "A long pull of functions, combinators, & decorators, updated to include the latest ES-6 features.",
         "author": "Reginald Braithwaite",
-        "pages": 252,
-        "year": 2013,
+        "pages": 513,
+        "year": 2015,
         "image": "javascript-allonge.jpg",
         "lang": "EN",
-        "added_at": "20150218",
-        "url": "https://leanpub.com/javascript-allonge/read"
+        "added_at": "20161115",
+        "url": "https://leanpub.com/javascriptallongesix/read"
       },
       {
         "title": "CoffeeScript Ristretto",
