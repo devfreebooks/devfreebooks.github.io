@@ -1,0 +1,15 @@
+{
+  "name": "DevFreeBooks",
+  "short_name": "DevFreeBooks",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#333333",
+  "background_color": "#FEFEFE",
+  "icons": [
+    {
+      "src": "assets/images/devfreebooks-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}

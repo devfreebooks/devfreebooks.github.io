@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-15T13:16:11.632Z
+# rev 1 - 2016-11-15T13:50:39.318Z
 
 CACHE:
 404.html
@@ -172,6 +172,7 @@ index.html
 ios/index.html
 java/index.html
 javascript/index.html
+manifest.json
 meteor/index.html
 network-protocols/index.html
 nodejs/index.html
