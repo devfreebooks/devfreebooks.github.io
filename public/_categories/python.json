@@ -8,6 +8,16 @@
     "description": "Read the best free ebooks about Python language.",
     "books": [
       {
+        "title": "Web2Py",
+        "description": "Web2py is an open source python web development framework.",
+        "author": "Massimo Di Pierro",
+        "pages": 614,
+        "year": 2013,
+        "lang": "EN",
+        "added_at": "20161115",
+        "url": "http://www.web2py.com/book"
+      },
+      {
         "title": "Automate Boring Stuff With Python",
         "description": "In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand no prior programming experience required. ",
         "author": "Al Sweigart",
@@ -35,7 +45,7 @@
         "pages": 14,
         "year": 2014,
         "image": "explore-flask.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150225",
         "url": "https://exploreflask.com"
       },
@@ -46,7 +56,7 @@
         "pages": 36,
         "year": 2014,
         "image": "python-practice-book.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150206",
         "url": "http://anandology.com/python-practice-book/index.html"
       },
@@ -57,7 +67,7 @@
         "pages": 58,
         "year": 2014,
         "image": "learn-python-the-hard-way.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150206",
         "url": "http://learnpythonthehardway.org/book/"
       },
@@ -68,7 +78,7 @@
         "pages": 327,
         "year": 2004,
         "image": "python-dive-into-python.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20040520",
         "url": "http://www.diveintopython.net/"
       },
@@ -79,7 +89,7 @@
         "pages": 119,
         "year": 2016,
         "image": "python-hitchhikers-guide-to-python.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20161106",
         "url": "http://docs.python-guide.org/en/latest/"
       }

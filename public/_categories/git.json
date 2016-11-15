@@ -8,13 +8,24 @@
     "description": "Read the best free ebooks about Git.",
     "books": [
       {
+        "title": "Pro Git",
+        "description": "Pro Git is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. This book teaches you how to use it like a pro.",
+        "author": "Scott Chacon & Ben Straub",
+        "pages": 456,
+        "year": 2014,
+        "image": "pro-git.jpg",
+        "lang": "EN",
+        "added_at": "20161115",
+        "url": "https://git-scm.com/book/en/v2"
+      },
+      {
         "title": "Getting Started With Git - DZone Refcard",
         "description": "This updated Refcard explains why so many developers are migrating to this exciting platform. Learn about creating a new Git repository, cloning existing projects, the remote workflow, and more to pave the way for limitless content version control.",
         "author": "Matthew McCullough & Kurt Collins",
         "pages": 6,
         "year": 2016,
         "image": "getting-started-git-dzone-refcard.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20161111",
         "url": "https://dzone.com/refcardz/getting-started-git"
       },
@@ -25,7 +36,7 @@
         "pages": 59,
         "year": 2014,
         "image": "git-succinctly.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150216",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/git"
       },
@@ -36,7 +47,7 @@
         "pages": 58,
         "year": 2014,
         "image": "git-for-everyone.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150214",
         "url": "http://anotheruiguy.gitbooks.io/gitforeveryone"
       },
@@ -47,7 +58,7 @@
         "pages": 121,
         "year": 2008,
         "image": "git-internals.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20080314",
         "url": "https://github.com/pluralsight/git-internals-pdf"
       }

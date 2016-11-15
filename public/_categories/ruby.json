@@ -8,13 +8,24 @@
     "description": "Read the best free ebooks about Ruby language.",
     "books": [
       {
+        "title": "Ruby Web Dev: The Other Way",
+        "url": "https://leanpub.com/rwdtow/read",
+        "description": "This guide is an attempt to describe the way to build the web app with a real understanding of each component, with knowledge that is relevant in any web language and framework. To become a better web developer and demand for a better ecosystem!",
+        "author": "Ievgen Kuzminov",
+        "pages": 60,
+        "year": 2016,
+        "lang": "EN",
+        "image": "ruby-web-dev-the-other-way.jpg",
+        "added_at": "20161115"
+      },
+      {
         "title": "Sinatra Book",
         "url": "http://sinatra-org-book.herokuapp.com/download",
         "description": "This is a quick recipe book about how to create a Sinatra's project and deploy it into Heroku's platform.",
         "author": "Sinatra",
         "pages": 16,
         "year": 2012,
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150414"
       },
       {
@@ -24,7 +35,7 @@
         "pages": 123,
         "year": 2011,
         "image": "kestrels-quirky-birds-and-hopeless-egocentricity.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150218",
         "url": "https://leanpub.com/combinators"
       },
@@ -35,7 +46,7 @@
         "pages": 254,
         "year": 2014,
         "image": "developing-games-with-ruby.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150216",
         "url": "https://leanpub.com/developing-games-with-ruby/read"
       },
@@ -46,7 +57,7 @@
         "pages": 57,
         "year": 2014,
         "image": "learn-ruby-the-hard-way.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150216",
         "url": "http://learnrubythehardway.org/book"
       },
@@ -57,7 +68,7 @@
         "pages": 50,
         "year": 2014,
         "image": "rubykin.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150214",
         "url": "http://mrdougwright.gitbooks.io/rubykin"
       },
@@ -67,7 +78,7 @@
         "author": "Andrea Reginato",
         "pages": 30,
         "year": 2013,
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150328",
         "url": "http://betterspecs.org"
       }
