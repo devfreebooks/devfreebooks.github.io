@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-15T13:50:39.318Z
+# rev 1 - 2016-11-15T14:15:20.605Z
 
 CACHE:
 404.html
@@ -43,6 +43,7 @@ assets/images/developing-backbonejs-applications.jpg
 assets/images/developing-games-with-ruby.jpg
 assets/images/devfreebooks-128.png
 assets/images/devfreebooks-facebook.jpg
+assets/images/devfreebooks-splash.png
 assets/images/devfreebooks-thumb.png
 assets/images/devfreebooks.png
 assets/images/django-girls.jpg
