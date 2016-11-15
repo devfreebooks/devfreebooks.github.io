@@ -1,0 +1,23 @@
+{
+  "index": {
+    "name": "erlang",
+    "subtitle": "Erlang",
+    "about": "Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecom, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.",
+    "site": "https://www.erlang.org/",
+    "image": "erlang.jpg",
+    "description": "Read the best free ebooks about Erlang language.",
+    "books": [
+      {
+        "title": "Learn You Some Erlang for Great Good!",
+        "description": "Erlang is the language of choice for programmers who want to write robust, concurrent applications, but its strange syntax and functional design can intimidate the uninitiated. Luckily, there’s a new weapon in the battle against Erlang-phobia: Learn You Some Erlang for Great Good!",
+        "author": "Fred Hebert",
+        "pages": 624,
+        "year": 2013,
+        "image": "learn-you-some-erlang-for-great-good.jpg",
+        "lang": "EN",        
+        "added_at": "20161115",
+        "url": "http://learnyousomeerlang.com/content"
+      }
+    ]
+  }
+}
