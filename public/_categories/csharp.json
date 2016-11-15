@@ -49,6 +49,16 @@
         "lang": "EN",
         "added_at": "20161110",
         "url": "http://ebooks.programmersheaven.com/csharp_ebook.pdf"
+      },
+	  {
+        "title": "Threading in C#",
+        "description": "An extensive article on multithreading in C#. This tackles difficult issues such as thread safety, when to use Abort, Wait Handles vs Wait and Pulse, the implications of Apartment Threading in Windows Forms, using Thread Pooling, Synchronization Contexts, Memory Barriers and non-blocking synchronization constructs.",
+        "author": "Joseph Albahari",
+        "pages": 125,
+        "year": 2011,
+        "lang": "EN",
+        "added_at": "20161115",
+        "url": "http://www.albahari.com/threading/"
       }
     ]
   }
