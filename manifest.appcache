@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-15T14:15:20.605Z
+# rev 1 - 2016-11-16T11:20:21.856Z
 
 CACHE:
 404.html
@@ -55,7 +55,9 @@ assets/images/elixir-school.jpg
 assets/images/elixir.jpg
 assets/images/eloquent-javascript.jpg
 assets/images/emberjs.jpg
+assets/images/erlang.jpg
 assets/images/explore-flask.jpg
+assets/images/exploring-es6.jpg
 assets/images/getting-started-git-dzone-refcard.jpg
 assets/images/getting-started-with-django.jpg
 assets/images/getting-started-with-meteor-deployment.jpg
@@ -70,6 +72,7 @@ assets/images/groovy.jpg
 assets/images/haskell.jpg
 assets/images/heroku-nodejs.jpg
 assets/images/high-performance-browser-networking.jpg
+assets/images/higher-order-perl.jpg
 assets/images/html.jpg
 assets/images/html5-for-web-designers.jpg
 assets/images/html5-shoot-em-up-in-an-afternoon.jpg
@@ -99,6 +102,7 @@ assets/images/learn-javascript.jpg
 assets/images/learn-python-the-hard-way.jpg
 assets/images/learn-ruby-the-hard-way.jpg
 assets/images/learn-you-a-haskell-for-great-good.jpg
+assets/images/learn-you-some-erlang-for-great-good.jpg
 assets/images/learning-javascript-design-patterns.jpg
 assets/images/lets-create-a-realtime-blackboard-with-meteor-streams.jpg
 assets/images/mastering-bitcoin.jpg
@@ -163,6 +167,7 @@ csharp/index.html
 django/index.html
 elixir/index.html
 emberjs/index.html
+erlang/index.html
 favicon.ico
 git/index.html
 go/index.html
