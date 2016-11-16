@@ -9,6 +9,7 @@ node_modules
 !public/*
 public/assets/css/application.css
 npm-debug.log
+public/_data.json
 public/rss.xml
 public/**/*.jade
 public/**/_data.json
