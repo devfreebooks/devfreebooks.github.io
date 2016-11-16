@@ -16,6 +16,17 @@
         "lang": "EN",
         "url": "http://modernperlbooks.com/books/modern_perl_2016/index.html",
         "added_at": "20161110"
+      },
+	  {
+        "title": "Higher-Order Perl",
+        "description": "Higher-Order Perl is about functional programming techniques in Perl. It's about how to write functions that can modify and manufacture other functions.",
+        "author": "Mark Jason Dominus",
+        "pages": 592,
+        "year": 2005,
+        "image": "higher-order-perl.jpg",
+        "lang": "EN",
+        "url": "http://hop.perl.plover.com/book/",
+        "added_at": "20161115"
       }
     ]
   }
