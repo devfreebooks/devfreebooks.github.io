@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-16T11:20:21.856Z
+# rev 1 - 2016-11-16T19:03:25.280Z
 
 CACHE:
 404.html
@@ -55,6 +55,7 @@ assets/images/elixir-school.jpg
 assets/images/elixir.jpg
 assets/images/eloquent-javascript.jpg
 assets/images/emberjs.jpg
+assets/images/erlang-in-anger.jpg
 assets/images/erlang.jpg
 assets/images/explore-flask.jpg
 assets/images/exploring-es6.jpg
