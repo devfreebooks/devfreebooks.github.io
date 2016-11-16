@@ -1,0 +1,52 @@
+{
+  "index": {
+    "name": "ocalm",
+    "subtitle": "OCalm",
+    "about": "OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles.",
+    "site": "http://www.ocaml.org/",
+    "image": "ocalm.jpg",
+    "books": [
+      {
+        "title": "The OCaml System: Documentation and User's Manual",
+        "description": "This the official User's Manual. It serves as a complete reference guide to OCaml. Updated for each version of OCaml, it contains the description of the language, of its extensions, and the documentation of the tools and libraries included in the official distribution.",
+        "author": "Damien Doligez, Alain Frisch, Jacques Garrigue, Didier Rémy and Jérôme Vouillon",
+        "pages": 554,
+        "year": 2012,
+        "lang": "EN",
+        "url": "http://caml.inria.fr/distrib/ocaml-4.00/ocaml-4.00-refman.pdf",
+        "added_at": "20161116"
+      },
+	    {
+        "title": "Real World OCaml",
+        "description": "This hands-on book shows you how to take advantage of OCaml’s functional, imperative, and object-oriented programming styles with recipes for many real-world tasks.",
+        "author": "Jason Hickey, Anil Madhavapeddy, and Yaron Minsky",
+        "pages": 510,
+        "year": 2013,
+        "image": "real-world-ocaml.jpg",
+        "lang": "EN",
+        "url": "https://realworldocaml.org/v1/en/html/index.html",
+        "added_at": "20161116"
+      },
+      {
+        "title": "Unix System Programming in OCaml",
+        "description": "This is an excellent book on Unix system programming, with an emphasis on communications between processes. The main novelty of this work is the use of OCaml, instead of the C language that is customary in systems programming. This gives an unusual perspective on systems programming and on OCaml.",
+        "author": "Xavier Leroy and Didier Rémy",
+        "pages": 138,
+        "year": 2014,
+        "lang": "EN",
+        "url": "http://ocaml.github.io/ocamlunix/ocamlunix.pdf",
+        "added_at": "20161116"
+      },
+      {
+        "title": "Using, Understanding, and Unraveling OCaml",
+        "description": "This book describes both the OCaml language and the theoretical grounds behind its powerful type system.",
+        "author": "Didier Rémy",
+        "pages": 174,
+        "year": 2001,
+        "lang": "EN",
+        "url": "http://ocaml.github.io/ocamlunix/ocamlunix.pdf",
+        "added_at": "20161116"
+      }
+    ]
+  }
+}
