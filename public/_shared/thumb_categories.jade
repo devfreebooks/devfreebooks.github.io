@@ -11,11 +11,13 @@ section.row-fluid.clearfix
     <button class="btn btn-lg btn-info" type="submit" name="submit" style="text-decoration:none"><i class="icon-thumbs-up" title="Support our project doing a humble donation for us!"></i>&nbsp;Donate</button>
   p.center
     <strong>#{total_books}</strong> books and <strong>#{categories.length}</strong> categories
+!= partial("filters")
 section.row-fluid.clearfix
   .row-fluid
     each category in sorted_categories
       - var category_data = public[category]._data.index
-      .col-xs-12.col-sm-4.col-md-3
+      - var tags = category_data.tags.join(',')
+      .col-xs-12.col-sm-4.col-md-3(data-tags="#{tags}")
         .thumbnail
           a(href="#{root_url[environment]}#{category_data.name}" title="#{category_data.about}")
             img.img-responsive.img-rounded(src="#{root_url[environment]}assets/images/#{category_data.image}")

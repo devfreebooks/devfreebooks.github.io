@@ -2,6 +2,7 @@
   "index": {
     "name": "django",
     "subtitle": "Django",
+    "tags": ["framework"],
     "about": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.",
     "site": "https://www.djangoproject.com/",
     "image": "django.jpg",
@@ -14,7 +15,7 @@
         "pages": 1,
         "year": 2013,
         "image": "getting-started-with-django.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150225",
         "url": "http://www.gettingstartedwithdjango.com/introduction-and-launch.html"
       },
@@ -25,7 +26,7 @@
         "pages": 93,
         "year": 2014,
         "image": "django-girls.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150214",
         "url": "http://djangogirls.gitbooks.io/djangogirls-tutorial"
       },
@@ -35,7 +36,7 @@
         "author": "Nathan Yergler",
         "pages": 51,
         "year": 2015,
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20151018",
         "url": "http://www.effectivedjango.com/"
       }

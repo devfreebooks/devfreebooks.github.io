@@ -2,6 +2,7 @@
   "index": {
     "name": "scala",
     "subtitle": "Scala",
+    "tags": ["language"],
     "about": "Scala is an acronym for “Scalable Language”. This means that Scala grows with you. You can play with it by typing one-line expressions and observing the results. But you can also rely on it for large mission critical systems, as many companies, including Twitter, LinkedIn, or Intel do. To some, Scala feels like a scripting language. Its syntax is concise and low ceremony; its types get out of the way because the compiler can infer them. There’s a REPL and IDE worksheets for quick feedback.",
     "site": "http://www.scala-lang.org",
     "image": "scala.jpg",
@@ -14,7 +15,7 @@
         "pages": 6,
         "year": 2016,
         "image": "getting-started-with-scala-dzone-refcard.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20161111",
         "url": "https://dzone.com/refcardz/scala"
       },
@@ -25,7 +26,7 @@
         "pages": 58,
         "year": 2015,
         "image": "creative-scala.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150227",
         "url": "https://gumroad.com/l/creative-scala"
       },
@@ -36,7 +37,7 @@
         "pages": 145,
         "year": 2014,
         "image": "scala-by-example.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150227",
         "url": "http://www.scala-lang.org/docu/files/ScalaByExample.pdf"
       }

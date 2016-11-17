@@ -2,6 +2,7 @@
   "index": {
     "name": "ocalm",
     "subtitle": "OCalm",
+    "tags": ["language"],
     "about": "OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles.",
     "site": "http://www.ocaml.org/",
     "image": "ocalm.jpg",

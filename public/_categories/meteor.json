@@ -2,6 +2,7 @@
   "index": {
     "name": "meteor",
     "subtitle": "Meteor",
+    "tags": ["framework"],
     "about": "Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.",
     "site": "https://www.meteor.com",
     "image": "meteor.jpg",
@@ -36,7 +37,7 @@
         "pages": 1,
         "year": 2015,
         "image": "meteor-tutorial.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150408",
         "url": "http://www.meteor-tutorial.org/book"
       },
@@ -47,7 +48,7 @@
         "pages": 75,
         "year": 2014,
         "image": "your-first-meteor-application.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150204",
         "url": "http://meteortips.com/book"
       },
@@ -58,7 +59,7 @@
         "pages": 24,
         "year": 2014,
         "image": "pro-meteor-meteor-internals-scaling-and-more.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150204",
         "url": "https://meteorhacks.com/ebook/pro-meteor.html"
       },
@@ -69,7 +70,7 @@
         "pages": 23,
         "year": 2013,
         "image": "lets-create-a-realtime-blackboard-with-meteor-streams.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150204",
         "url": "https://meteorhacks.com/realtime-blackboard.html"
       }

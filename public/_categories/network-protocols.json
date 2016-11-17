@@ -2,6 +2,7 @@
   "index": {
     "name": "network-protocols",
     "subtitle": "Network Protocols",
+    "tags": ["conceptual"],
     "about": "A communication protocol is a system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity. These are the rules or standard that defines the syntax, semantics and synchronization of communication and possible error recovery methods. Protocols may be implemented by hardware, software, or a combination of both.",
     "site": "https://en.wikipedia.org/wiki/Lists_of_network_protocols",
     "image": "http.jpg",
@@ -14,7 +15,7 @@
         "pages": 400,
         "year": 2013,
         "image": "high-performance-browser-networking.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20161116",
         "url": "https://hpbn.co"
       },
@@ -25,7 +26,7 @@
         "pages": 33,
         "year": 2015,
         "image": "http2-explained.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150312",
         "url": "http://daniel.haxx.se/http2"
       },
@@ -36,7 +37,7 @@
         "pages": 55,
         "year": 2014,
         "image": "http-succinctly.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150407",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/http"
       }

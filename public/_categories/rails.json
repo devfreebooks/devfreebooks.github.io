@@ -2,6 +2,7 @@
   "index": {
     "name": "rails",
     "subtitle": "Ruby On Rails",
+    "tags": ["framework"],
     "about": "Ruby On Rails is an open-source web framework that's optimized for programmers happiness and sustainable productivity. It lets you write beautiful code by favoring convention over configuration.",
     "site": "http://rubyonrails.org",
     "image": "rails.jpg",

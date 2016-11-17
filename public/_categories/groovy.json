@@ -2,6 +2,7 @@
   "index": {
     "name": "groovy",
     "subtitle": "Groovy",
+    "tags": ["language"],
     "about": "Groovy is an agile and dynamic language for the Java Virtual Machine, builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk, makes modern programming features available to Java developers with almost-zero learning curve.",
     "site": "http://groovy.codehaus.org",
     "image": "groovy.jpg",
@@ -14,7 +15,7 @@
         "pages": 113,
         "year": 2012,
         "image": "gradle-goodness-notebook.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150218",
         "url": "https://leanpub.com/gradle-goodness-notebook/read"
       },
@@ -25,7 +26,7 @@
         "pages": 40,
         "year": 2012,
         "image": "spocklight-notebook.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150218",
         "url": "https://leanpub.com/spockframeworknotebook/read"
       }

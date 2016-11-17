@@ -2,6 +2,7 @@
   "index": {
     "name": "nodejs",
     "subtitle": "Node.js",
+    "tags": ["framework", "language"],
     "about": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
     "site": "http://nodejs.org",
     "image": "nodejs.jpg",
@@ -14,7 +15,7 @@
         "pages": 37,
         "year": 2014,
         "image": "module-patterns.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150214",
         "url": "https://leanpub.com/modulepatterns?a=2hxrOg_7DAAAx2pWvoaFpT"
       },
@@ -25,7 +26,7 @@
         "pages": 50,
         "year": 2014,
         "image": "node-express-and-libsass-project-from-scratch-workshop.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150131",
         "url": "http://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/"
       },
@@ -36,7 +37,7 @@
         "pages": 52,
         "year": 2014,
         "image": "npm-recipes.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150131",
         "url": "https://leanpub.com/npm-recipes"
       },
@@ -47,7 +48,7 @@
         "pages": 85,
         "year": 2011,
         "image": "mastering-nodejs.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150131",
         "url": "https://visionmedia.github.io/masteringnode/"
       },
@@ -58,7 +59,7 @@
         "pages": 76,
         "year": 2016,
         "image": "nodejs-succinctly.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150131",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/nodejs"
       },
@@ -69,7 +70,7 @@
         "pages": 11,
         "year": 2014,
         "image": "heroku-nodejs.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150131",
         "url": "http://samypesse.gitbooks.io/heroku-node/"
       },
@@ -79,7 +80,7 @@
         "author": "Mikito Takada",
         "pages": 14,
         "year": 2012,
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150131",
         "url": "http://book.mixu.net/node/index.html"
       }

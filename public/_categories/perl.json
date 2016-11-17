@@ -2,6 +2,7 @@
   "index": {
     "name": "perl",
     "subtitle": "Perl",
+    "tags": ["language"],
     "about": "Perl is a highly capable, feature-rich programming language with over 29 years of development.",
     "site": "https://www.perl.org/",
     "image": "perl.jpg",

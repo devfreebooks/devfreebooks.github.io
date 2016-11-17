@@ -2,6 +2,7 @@
   "index": {
     "name": "haskell",
     "subtitle": "Haskell",
+    "tags": ["language"],
     "about": "Haskell is an advanced purely-functional programming language. An open-source product of more than twenty years of cutting-edge research, it allows rapid development of robust, concise, correct software. With strong support for integration with other languages, built-in concurrency and parallelism, debuggers, profilers, rich libraries and an active community, Haskell makes it easier to produce flexible, maintainable, high-quality software.",
     "site": "https://www.haskell.org",
     "image": "haskell.jpg",
@@ -25,7 +26,7 @@
         "author": "Wikibooks",
         "pages": 607,
         "year": 2014,
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150414"
       },
       {
@@ -34,7 +35,7 @@
         "author": "Simon Marlow",
         "pages": 143,
         "year": 2013,
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150319",
         "url": "http://chimera.labs.oreilly.com/books/1230000000929/index.html"
       },
@@ -45,7 +46,7 @@
         "pages": 40,
         "year": 2008,
         "image": "real-world-haskell.jpg",
-        "lang": "EN",        
+        "lang": "EN",
         "added_at": "20150319",
         "url": "http://book.realworldhaskell.org/read"
       }
