@@ -9,6 +9,17 @@
     "description": "Read good and free ebooks about Scala language.",
     "books": [
       {
+        "title": "The Type Astronaut’s Guide to Shapeless",
+        "description": "This book is a guide to using shapeless¹, a library for generic programming in Scala.",
+        "author": "Dave Gurnell",
+        "pages": 107,
+        "year": 2016,
+        "image": "the-type-astronauts-guide-to-shapeless.jpg",
+        "lang": "EN",
+        "added_at": "20161117",
+        "url": "https://github.com/underscoreio/shapeless-guide"
+      },
+      {
         "title": "Getting Started with Scala - DZone Refcard",
         "description": "This 6 page cheat sheet covers creating a new Scala project, a tour of Scala's features, an introduction to classes and objects within Scala, and much more.",
         "author": "Ryan Knight & Nilanjan Raychaudhuri",
