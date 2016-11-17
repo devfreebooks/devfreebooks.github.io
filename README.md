@@ -20,6 +20,7 @@ With this project in your hands, edit the `/public/_categories/[category-name].j
 "index": {
   "name": "category-name",
   "subtitle": "Category's name",
+  "tags": ["category's tags"], // "used in the filters: 'framework', 'language', 'conceptual', 'frontend', 'mobile'"
   "about": "Category's description",
   "site": "url of the official category site",
   "image": "category-image.jpg", // Category image is required
@@ -48,6 +49,7 @@ Look this example (`public/_categories/nodejs.json`):
   "index": {
     "name": "nodejs",
     "subtitle": "Node.js",
+    "tags": ["language", "framework"],
     "about": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
     "site": "http://nodejs.org",
     "image": "nodejs.png",
