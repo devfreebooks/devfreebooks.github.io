@@ -2,7 +2,7 @@
   "index": {
     "name": "meteor",
     "subtitle": "Meteor",
-    "tags": ["framework"],
+    "tags": ["framework", "backend", "frontend"],
     "about": "Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.",
     "site": "https://www.meteor.com",
     "image": "meteor.jpg",

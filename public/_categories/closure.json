@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "clojure",
+    "subtitle": "Clojure",
+    "tags": ["language", "backend"],
+    "about": "Clojure is a dynamic, general-purpose programming language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming. Clojure is a compiled language, yet remains completely dynamic – every feature supported by Clojure is supported at runtime. Clojure provides easy access to the Java frameworks, with optional type hints and type inference, to ensure that calls to Java can avoid reflection.",
+    "site": "http://clojure.org/",
+    "image": "clojure.jpg",
+    "description": "Read the best free ebooks about Clojure language.",
+    "books": [
+      {
+        "title": "Clojure for the brave and true",
+        "description": "Complete, entertaining introduction to Clojure.",
+        "author": "Daniel Higginbotham",
+        "pages": 328,
+        "year": 2015,
+        "image": "clojure-for-the-brave-and-true.jpg",
+        "lang": "EN",
+        "added_at": "20161118",
+        "url": "http://www.braveclojure.com/"
+      }
+    ]
+  }
+}

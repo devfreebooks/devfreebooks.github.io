@@ -2,7 +2,7 @@
   "index": {
     "name": "html",
     "subtitle": "HTML",
-    "tags": ["frontend"],
+    "tags": ["frontend", "design-ux"],
     "about": "HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements and these elements form the building blocks of a website.",
     "site": "https://developer.mozilla.org/en/docs/Web/HTML",
     "image": "html.jpg",

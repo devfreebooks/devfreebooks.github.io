@@ -2,7 +2,7 @@
   "index": {
     "name": "git",
     "subtitle": "Git",
-    "tags": ["framework"],
+    "tags": ["framework", "tools"],
     "about": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
     "site": "http://git-scm.com",
     "image": "git.jpg",

@@ -2,7 +2,7 @@
   "index": {
     "name": "perl6",
     "subtitle": "Perl 6",
-    "tags": ["language"],
+    "tags": ["language", "backend"],
     "about": "Perl 6 is a high-level, general-purpose, gradually typed language. Perl 6 is multi-paradigmatic. It supports Procedural, Object Oriented, and Functional programming.",
     "site": "http://perl6.org",
     "image": "perl6.jpg",

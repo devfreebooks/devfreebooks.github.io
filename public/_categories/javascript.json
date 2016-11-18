@@ -2,12 +2,23 @@
   "index": {
     "name": "javascript",
     "subtitle": "JavaScript",
-    "tags": ["language"],
+    "tags": ["language", "frontend"],
     "about": "JavaScript is a lightweight, interpreted, object-oriented language with first-class functions, most known as the scripting language for Web pages, but used in many non-browser environments as well such as Node.js or Apache CouchDB. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.",
     "site": "https://developer.mozilla.org/en/docs/Web/JavaScript",
     "image": "javascript.jpg",
     "description": "Read the best free ebooks about JavaScript language.",
     "books": [
+      {
+        "title": "Speaking JavaScript: An In-Depth Guide for Programmers",
+        "description": "Speaking JavaScript helps you approach the language with four standalone sections. First, a quick-start guide teaches you just enough of the language to help you be productive right away. More experienced JavaScript programmers will find a complete and easy-to-read reference that covers each language feature in depth.",
+        "author": "Dr. Axel Rauschmayer",
+        "pages": 460,
+        "year": 2014,
+        "image": "speaking-javascript-an-in-depth-guide-for-programmers.jpg",
+        "lang": "EN",
+        "added_at": "20161118",
+        "url": "http://speakingjs.com/"
+      },
       {
         "title": "Programming JavaScript Applications",
         "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows.",

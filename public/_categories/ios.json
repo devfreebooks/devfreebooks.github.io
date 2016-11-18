@@ -2,7 +2,7 @@
   "index": {
     "name": "ios",
     "subtitle": "iOS",
-    "tags": ["mobile"],
+    "tags": ["language", "mobile"],
     "about": "iOS is the world’s most advanced mobile operating system, continually redefining what people can do with a mobile device. Together, the iOS SDK and Xcode IDE make it easy for developers to create revolutionary mobile apps.",
     "site": "https://developer.apple.com/technologies/ios",
     "image": "ios.jpg",

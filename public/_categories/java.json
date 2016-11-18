@@ -2,7 +2,7 @@
   "index": {
     "name": "java",
     "subtitle": "Java",
-    "tags": ["language"],
+    "tags": ["language", "backend"],
     "about": "Java is the foundation for virtually every type of networked application and is the global standard for developing and delivering embedded applications, games, Web content, and enterprise software. With more than 9 million developers worldwide, Java enables you to efficiently develop and deploy exciting applications and services.",
     "site": "https://www.oracle.com/java/index.html",
     "image": "java.jpg",
