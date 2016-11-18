@@ -92,16 +92,16 @@ module.exports = (grunt) => {
         cacheId: 'devfreebooks',
         workerFileName: 'sw.js',
         verbose: true,
-        handleFetch: true,
-        maximumFileSizeToCacheInBytes: 4194304
+        handleFetch: true
       },
       default: {
         staticFileGlobs: [
-          'www/index.html',
-          'www/manifest.json',
-          'www/favicon.ico',
-          'www/**/*.html',
-          'www/assets/**/*.{css,js,woff,ttf,svg,eot,gif,png,jpg,jpeg}'
+          'index.html',
+          '404.html',
+          'manifest.json',
+          'favicon.ico',
+          'assets/**/*.{css,js,woff,ttf,svg,eot,gif,png,jpg,jpeg}',
+          '**/index.html'
         ]
       }
     },
