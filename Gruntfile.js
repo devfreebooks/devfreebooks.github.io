@@ -89,7 +89,7 @@ module.exports = (grunt) => {
     'sw-precache': {
       options: {
         baseDir: 'www',
-        cacheId: 'devfreebooks',
+        cacheId: harp.globals.slug_title,
         workerFileName: 'sw.js',
         verbose: true,
         handleFetch: true
