@@ -24,6 +24,7 @@
     "grunt-gh-pages": "2.0.0",
     "grunt-shell": "2.1.0",
     "grunt-sitemaps": "^0.1.1",
+    "grunt-sw-precache": "^1.0.3",
     "harp": "0.21.0",
     "moment": "2.15.2",
     "rss": "1.2.1"

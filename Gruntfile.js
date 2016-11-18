@@ -85,6 +85,22 @@ module.exports = (grunt) => {
         }]
       }
     },
+    // SW PreCache ===================================
+    'sw-precache': {
+      options: {
+        baseDir: 'www',
+        cacheId: 'devfreebooks',
+        workerFileName: 'sw.js',
+        verbose: true
+      },
+      default: {
+        staticFileGlobs: [
+          'index.html',
+          '**/*.html',
+          'assets/**/*.{css,js,json,txt,ico,woff,ttf,svg,eot,gif,png,jpg,jpeg}'
+        ]
+      }
+    },
     // Github Pages ==================================
     'gh-pages': {
       options: {
@@ -105,11 +121,12 @@ module.exports = (grunt) => {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-appcache');
+  grunt.loadNpmTasks('grunt-sw-precache');
   grunt.loadNpmTasks('grunt-sitemaps');
   grunt.loadNpmTasks('grunt-shell');
 
   grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'shell:categories', 'stylus', 'imagemin']);
   grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'shell:categories', 'stylus', 'imagemin']);
-  grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'compress', 'sitemaps']);
+  grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'sw-precache', 'compress', 'sitemaps']);
   grunt.registerTask('deploy:prod', ['gh-pages', 'clean']);
 };

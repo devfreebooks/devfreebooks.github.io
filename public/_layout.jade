@@ -15,3 +15,4 @@ html(lang="en" manifest="#{manifest_url}" xmlns="http://www.w3.org/1999/xhtml" x
     script(src="#{root_url[environment]}assets/js/application.js")
     if environment == "production"
       != partial("_shared/google_analytics")
+      script(src="#{root_url[environment]}sw.js")
