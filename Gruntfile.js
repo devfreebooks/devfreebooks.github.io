@@ -38,6 +38,17 @@ module.exports = (grunt) => {
         ]
       }
     },
+    // Image Optim ===================================
+    imagemin: {
+      dynamic: {
+        files: [{
+          expand: true,
+          cwd: 'public/assets/images',
+          src: ['**/*.{png,jpg,gif}'],
+          dest: 'public/assets/images'
+        }]
+      }
+    },
     // Exec Feed Generator ===========================
     shell: {
       feed: {
@@ -92,12 +103,13 @@ module.exports = (grunt) => {
   grunt.loadNpmTasks('grunt-contrib-compress');
   grunt.loadNpmTasks('grunt-contrib-stylus');
   grunt.loadNpmTasks('grunt-contrib-clean');
+  grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-appcache');
   grunt.loadNpmTasks('grunt-sitemaps');
   grunt.loadNpmTasks('grunt-shell');
 
-  grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'shell:categories', 'stylus']);
-  grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'shell:categories', 'stylus']);
+  grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'shell:categories', 'stylus', 'imagemin']);
+  grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'shell:categories', 'stylus', 'imagemin']);
   grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'compress', 'sitemaps']);
   grunt.registerTask('deploy:prod', ['gh-pages', 'clean']);
 };
