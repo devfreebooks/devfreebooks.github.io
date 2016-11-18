@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-17T21:56:43.958Z
+# rev 1 - 2016-11-18T20:36:22.635Z
 
 CACHE:
 404.html
@@ -32,6 +32,8 @@ assets/images/build-pacman.jpg
 assets/images/build-web-application-with-golang.jpg
 assets/images/building-apis-with-nodejs.jpg
 assets/images/building-web-apps-with-go.jpg
+assets/images/clojure-for-the-brave-and-true.jpg
+assets/images/clojure.jpg
 assets/images/coffeescript-ristretto.jpg
 assets/images/core-java-dzone-refcard.jpg
 assets/images/creative-scala.jpg
@@ -147,6 +149,7 @@ assets/images/rubykin.jpg
 assets/images/scala-by-example.jpg
 assets/images/scala.jpg
 assets/images/scalable.jpg
+assets/images/speaking-javascript-an-in-depth-guide-for-programmers.jpg
 assets/images/spocklight-notebook.jpg
 assets/images/svg.jpg
 assets/images/swift-cheat-sheet.jpg
@@ -167,6 +170,7 @@ assets/js/application.js
 assets/js/html5shiv.min.js
 backbone/index.html
 bitcoin/index.html
+closure/index.html
 csharp/index.html
 django/index.html
 elixir/index.html
