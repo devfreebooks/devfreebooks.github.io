@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-18T21:17:39.239Z
+# rev 1 - 2016-11-18T21:34:32.922Z
 
 CACHE:
 404.html
@@ -170,6 +170,7 @@ assets/js/application.js
 assets/js/html5shiv.min.js
 backbone/index.html
 bitcoin/index.html
+clojure/index.html
 closure/index.html
 csharp/index.html
 django/index.html
