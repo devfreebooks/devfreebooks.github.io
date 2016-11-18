@@ -99,6 +99,8 @@ module.exports = (grunt) => {
           'index.html',
           '404.html',
           'manifest.json',
+          'robots.txt',
+          'manifest.appcache',
           'favicon.ico',
           'assets/**/*.{css,js,woff,ttf,svg,eot,gif,png,jpg,jpeg}',
           '**/index.html'
