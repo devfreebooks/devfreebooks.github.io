@@ -1,3 +1,6 @@
+[![OpenCollective](https://opencollective.com/devfreebooks/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/devfreebooks/sponsors/badge.svg)](#sponsors)
+
 # DevFreeBooks
 
 This is the repository of the site https://devfreebooks.github.io to submit ebook links.
@@ -90,6 +93,76 @@ And access in your browser the url: [http://localhost:3000](http://localhost:300
 ## Author
 
 Caio Ribeiro Pereira - [@crp_underground](http://twitter.com/crp_underground)
+
+
+## Backers
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/devfreebooks#backer)]
+
+<a href="https://opencollective.com/devfreebooks/backer/0/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/1/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/2/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/3/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/4/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/5/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/6/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/7/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/8/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/9/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/10/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/11/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/12/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/13/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/14/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/15/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/16/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/17/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/18/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/19/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/20/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/21/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/22/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/23/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/24/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/25/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/26/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/27/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/28/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/backer/29/website" target="_blank"><img src="https://opencollective.com/devfreebooks/backer/29/avatar.svg"></a>
+
+
+## Sponsors
+Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/devfreebooks#sponsor)]
+
+<a href="https://opencollective.com/devfreebooks/sponsor/0/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/1/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/2/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/3/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/4/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/5/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/6/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/7/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/8/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/9/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/10/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/10/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/11/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/11/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/12/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/12/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/13/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/13/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/14/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/14/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/15/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/15/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/16/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/16/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/17/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/17/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/18/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/18/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/19/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/19/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/20/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/20/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/21/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/21/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/22/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/22/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/23/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/23/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/24/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/24/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/25/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/25/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/26/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/26/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/27/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/27/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/28/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/28/avatar.svg"></a>
+<a href="https://opencollective.com/devfreebooks/sponsor/29/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/29/avatar.svg"></a>
 
 ## License
 
