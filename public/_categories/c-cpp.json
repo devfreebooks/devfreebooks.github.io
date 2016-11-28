@@ -1,0 +1,23 @@
+{
+  "index": {
+    "name": "c-cpp",
+    "subtitle": "C/C++",
+    "tags": ["language", "backend"],
+    "about": "C is a powerful system programming language, and C++ is an excellent general purpose programming language with modern bells and whistles.",
+    "site": "https://isocpp.org",
+    "image": "c_cpp.jpg",
+    "description": "Read the best free ebooks about C/C++ framework.",
+    "books": [
+      {
+        "title": "Object-Oriented Programming in C",
+        "url": "https://www.cs.rit.edu/~ats/books/ooc.pdf",
+        "description": "Use ANSI C to discover how object-oriented programming is done, what its techniques are, why they help solve bigger problems, and how to harness generality and program to catch mistakes earlier.",
+        "author": " Axel Schreiner",
+        "pages": 221,
+        "year": 1994,
+        "lang": "EN",
+        "added_at": "20161128"
+      }
+    ]
+  }
+}
