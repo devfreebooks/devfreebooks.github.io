@@ -1,8 +1,7 @@
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%
-}
+  -webkit-text-size-adjust: 100%}
 body {
   margin: 0;
 }
@@ -44,8 +43,7 @@ mark {
   color: #000;
 }
 small {
-  font-size: 80%
-}
+  font-size: 80%}
 sub, sup {
   font-size: 75%;
   line-height: 0;
@@ -1103,7 +1101,7 @@ textarea.input-lg, select[multiple].input-lg {
   cursor: not-allowed;
   pointer-events: none;
   opacity: .65;
-  filter: 'alpha(opacity=65)'
+  filter: 'alpha(opacity=65)';
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -1356,7 +1354,7 @@ input[type="submit"].btn-block, input[type="reset"].btn-block, input[type="butto
   text-decoration: none;
   background-color: transparent;
   background-image: none;
-  filter: 'progid:DXImageTransform.Microsoft.gradient(enabled=false)'
+  filter: 'progid:DXImageTransform.Microsoft.gradient(enabled=false)';
   cursor: not-allowed;
 }
 .open>.dropdown-menu {

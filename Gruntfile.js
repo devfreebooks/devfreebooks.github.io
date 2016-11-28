@@ -15,15 +15,6 @@ module.exports = (grunt) => {
         NODE_ENV: 'production'
       }
     },
-    // Stylus ========================================
-    stylus: {
-      main: {
-        options: { compress: true },
-        files: {
-          'public/assets/css/application.css': 'public/assets/css/_application.styl'
-        }
-      }
-    },
     // Compress ======================================
     compress: {
       main: {
@@ -123,16 +114,16 @@ module.exports = (grunt) => {
   grunt.loadNpmTasks('grunt-gh-pages');
   grunt.loadNpmTasks('grunt-env');
   grunt.loadNpmTasks('grunt-contrib-compress');
-  grunt.loadNpmTasks('grunt-contrib-stylus');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-appcache');
   grunt.loadNpmTasks('grunt-sw-precache');
   grunt.loadNpmTasks('grunt-sitemaps');
   grunt.loadNpmTasks('grunt-shell');
+  grunt.loadNpmTasks('grunt-newer');
 
-  grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'shell:categories', 'stylus', 'imagemin']);
-  grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'shell:categories', 'stylus', 'imagemin']);
+  grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'shell:categories', 'newer:imagemin']);
+  grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'shell:categories', 'newer:imagemin']);
   grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'sw-precache', 'compress', 'sitemaps']);
   grunt.registerTask('deploy:prod', ['gh-pages', 'clean']);
 };
