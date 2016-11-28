@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-28T16:40:47.498Z
+# rev 1 - 2016-11-28T22:52:54.269Z
 
 CACHE:
 404.html
@@ -32,6 +32,7 @@ assets/images/build-pacman.jpg
 assets/images/build-web-application-with-golang.jpg
 assets/images/building-apis-with-nodejs.jpg
 assets/images/building-web-apps-with-go.jpg
+assets/images/c_cpp.jpg
 assets/images/clojure-for-the-brave-and-true.jpg
 assets/images/clojure.jpg
 assets/images/coffeescript-ristretto.jpg
@@ -170,6 +171,7 @@ assets/js/application.js
 assets/js/html5shiv.min.js
 backbone/index.html
 bitcoin/index.html
+c-cpp/index.html
 clojure/index.html
 csharp/index.html
 django/index.html
