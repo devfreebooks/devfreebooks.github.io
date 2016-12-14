@@ -6,7 +6,7 @@
     "about": "C is a powerful system programming language, and C++ is an excellent general purpose programming language with modern bells and whistles.",
     "site": "https://isocpp.org",
     "image": "c_cpp.jpg",
-    "description": "Read the best free ebooks about C/C++ framework.",
+    "description": "Read the best free ebooks about C/C++ language.",
     "books": [
       {
         "title": "Object-Oriented Programming in C",

@@ -9,6 +9,17 @@
     "description": "Read the best free ebooks about React.",
     "books": [
       {
+        "title": "The Road to learn React",
+        "description": "A lot of roadmaps exist on how to master React. This book uses the common sense of these roads and weaves it into the implementation of an attractive real world app. You will build a React app, which consumes the Hacker News API. On the road you will learn ES6, React with all its basics and advanced concepts and internal state management.",
+        "author": "Robin Wieruch",
+        "pages": 101,
+        "year": 2016,
+        "image": "the-road-to-learn-react.jpg",
+        "lang": "EN",
+        "added_at": "20161214",
+        "url": "https://leanpub.com/the-road-to-learn-react"
+      },
+      {
         "title": "React.js Succinctly",
         "description": "In React.js Succinctly, author Samer Buna introduces the novel approach to building user interfaces that React provides, and walks readers through the basics of declarative user interfaces, React components, working with user input, and more.",
         "author": "Samer Buna",

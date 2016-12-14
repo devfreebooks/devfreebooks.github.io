@@ -1,0 +1,33 @@
+{
+  "index": {
+    "name": "d",
+    "subtitle": "D",
+    "tags": ["language", "backend"],
+    "about": "D is a systems programming language with C-like syntax and static typing. It combines efficiency, control and modeling power with safety and programmer productivity.",
+    "site": "https://dlang.org/",
+    "image": "d.jpg",
+    "description": "Read the best free ebooks about D language.",
+    "books": [
+      {
+        "title": "Programming in D",
+        "url": "http://ddili.org/ders/d.en/index.html",
+        "description": "This book aims to teach the D language to readers who are new to computer programming. Although having experience in other programming languages would certainly be helpful, this book starts from the basics.",
+        "author": "Ali Çehreli",
+        "pages": 760,
+        "year": 2015,
+        "lang": "EN",
+        "added_at": "20161214"
+      },
+      {
+        "title": "D Programming Language Specification",
+        "url": "http://dlang.org/dlangspec.pdf",
+        "description": "This is the specification for the D Programming Language.",
+        "author": "D Lang",
+        "pages": 552,
+        "year": 2014,
+        "lang": "EN",
+        "added_at": "20161214"
+      }
+    ]
+  }
+}
