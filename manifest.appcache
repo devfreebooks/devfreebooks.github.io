@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-12-02T11:48:02.850Z
+# rev 1 - 2016-12-14T14:08:16.387Z
 
 CACHE:
 404.html
@@ -41,6 +41,7 @@ assets/images/creative-scala.jpg
 assets/images/csharp-code-contracts-succinctly.jpg
 assets/images/csharp-succinctly.jpg
 assets/images/csharp.jpg
+assets/images/d.jpg
 assets/images/d3-tips-and-tricks.jpg
 assets/images/developing-backbonejs-applications.jpg
 assets/images/developing-games-with-ruby.jpg
@@ -156,6 +157,7 @@ assets/images/svg.jpg
 assets/images/swift-cheat-sheet.jpg
 assets/images/swift-essentials-dzone-refcard.jpg
 assets/images/the-little-go-book.jpg
+assets/images/the-road-to-learn-react.jpg
 assets/images/the-type-astronauts-guide-to-shapeless.jpg
 assets/images/typescript-deep-dive.jpg
 assets/images/typescript-succinctly.jpg
@@ -174,6 +176,7 @@ bitcoin/index.html
 c-cpp/index.html
 clojure/index.html
 csharp/index.html
+d/index.html
 django/index.html
 elixir/index.html
 emberjs/index.html
