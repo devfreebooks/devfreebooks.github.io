@@ -2,229 +2,229 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://devfreebooks.github.io/about/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/android/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/angularjs/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/backbone/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/bitcoin/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/c-cpp/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/clojure/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/csharp/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/d/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/django/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/elixir/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/emberjs/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/erlang/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/git/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/go/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/groovy/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/haskell/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/html/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/ios/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/java/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/javascript/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/meteor/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/network-protocols/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/nodejs/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/ocalm/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/perl/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/perl6/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/php/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/playframework/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/python/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/rails/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/react/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/ruby/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/scala/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/svg/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/typescript/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreebooks.github.io/vim/</loc>
-		<lastmod>2016-12-14T14:08:14.000Z</lastmod>
+		<lastmod>2017-01-04T19:50:18.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
