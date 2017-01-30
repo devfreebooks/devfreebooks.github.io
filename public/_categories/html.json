@@ -18,6 +18,17 @@
         "lang": "EN",
         "added_at": "20161112",
         "url": "https://html5forwebdesigners.com/"
+      },
+      {
+        "title": "Learn to Code HTML & CSS",
+        "description": "Learn to Code HTML & CSS is an interactive beginner’s guide with one express goal: teach you how to develop and style websites with HTML and CSS. Outlining the fundamentals, this book covers all of the common elements of front-end design and development.",
+        "author": "Shay Howe",
+        "pages": 304,
+        "year": 2013,
+        "image": "learn-to-code-html-and-css.jpg",
+        "lang": "EN",
+        "added_at": "20170130",
+        "url": "http://learn.shayhowe.com/"
       }
     ]
   }

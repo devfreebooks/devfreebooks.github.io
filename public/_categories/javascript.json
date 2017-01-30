@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about JavaScript language.",
     "books": [
       {
+        "title": "Clean Code concepts adapted for Javascript",
+        "description": "Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.",
+        "author": "Ryan McDermott",
+        "pages": 11,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20170130",
+        "url": "https://github.com/ryanmcdermott/clean-code-javascript"
+      },
+      {
         "title": "Speaking JavaScript: An In-Depth Guide for Programmers",
         "description": "Speaking JavaScript helps you approach the language with four standalone sections. First, a quick-start guide teaches you just enough of the language to help you be productive right away. More experienced JavaScript programmers will find a complete and easy-to-read reference that covers each language feature in depth.",
         "author": "Dr. Axel Rauschmayer",

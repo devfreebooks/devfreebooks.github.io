@@ -93,6 +93,16 @@
         "lang": "EN",
         "added_at": "20161106",
         "url": "http://docs.python-guide.org/en/latest/"
+      },
+      {
+        "title": "Python Basics",
+        "description": "Introduction to Python - Syntax, working with Shell commands, Files, Text Processing, and more.",
+        "author": "Sundeep Agarwal",
+        "pages": 119,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20170130",
+        "url": "https://github.com/learnbyexample/Python_Basics"
       }
     ]
   }

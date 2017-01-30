@@ -47,6 +47,16 @@
         "lang": "EN",
         "added_at": "20150812",
         "url": "https://vimebook.com/en"
+      },
+      {
+        "title": "The Vim Tutorial and Reference",
+        "description": "A complete ebook about Vim Tutorial and Vim References.",
+        "author": "Steve Oualline",
+        "pages": 804,
+        "year": 2007,
+        "lang": "EN",
+        "added_at": "20170130",
+        "url": "http://www.oualline.com/vim-book.html"
       }
     ]
   }
