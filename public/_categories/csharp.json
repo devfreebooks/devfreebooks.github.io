@@ -41,17 +41,7 @@
         "added_at": "20161110",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/csharpcontracts"
       },
-      {
-        "title": "C# School",
-        "description": "14 lessons to get you started with C# and .NET",
-        "author": "Faraz Rasheed",
-        "pages": 337,
-        "year": 2006,
-        "lang": "EN",
-        "added_at": "20161110",
-        "url": "http://ebooks.programmersheaven.com/csharp_ebook.pdf"
-      },
-	  {
+	    {
         "title": "Threading in C#",
         "description": "An extensive article on multithreading in C#. This tackles difficult issues such as thread safety, when to use Abort, Wait Handles vs Wait and Pulse, the implications of Apartment Threading in Windows Forms, using Thread Pooling, Synchronization Contexts, Memory Barriers and non-blocking synchronization constructs.",
         "author": "Joseph Albahari",
