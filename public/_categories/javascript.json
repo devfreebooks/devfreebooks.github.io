@@ -2,12 +2,23 @@
   "index": {
     "name": "javascript",
     "subtitle": "JavaScript",
-    "tags": ["language", "frontend"],
+    "tags": ["language", "frontend", "design-patterns"],
     "about": "JavaScript is a lightweight, interpreted, object-oriented language with first-class functions, most known as the scripting language for Web pages, but used in many non-browser environments as well such as Node.js or Apache CouchDB. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.",
     "site": "https://developer.mozilla.org/en/docs/Web/JavaScript",
     "image": "javascript.jpg",
     "description": "Read the best free ebooks about JavaScript language.",
     "books": [
+      {
+        "title": "JavaScript, ¡Inspírate!",
+        "description": "A simple and fun programming book that shows us how to program in JavaScript, from pseudocode to AJAX requests.",
+        "author": "Ulises Gascón",
+        "pages": 149,
+        "year": 2017,
+        "image": "javascript-inspirate.jpg",
+        "lang": "ES",
+        "added_at": "20170204",
+        "url": "https://leanpub.com/javascript-inspirate"
+      },
       {
         "title": "Clean Code concepts adapted for Javascript",
         "description": "Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.",
