@@ -9,6 +9,16 @@
     "description": "Read some best Haskell's ebook here for free.",
     "books": [
       {
+        "title": "¡Aprende Haskell por el bien de todos!",
+        "url": "http://aprendehaskell.es/main.html",
+        "description": "This is the spanish version of the book: Learn You a Haskell for Great Good.",
+        "author": "Álvaro Vilanova",
+        "pages": 400,
+        "year": 2013,
+        "lang": "ES",
+        "added_at": "20170204"
+      },
+      {
         "title": "Learn You a Haskell for Great Good",
         "url": "http://learnyouahaskell.com",
         "description": "This is Learn You a Haskell, the funkiest way to learn Haskell, which is the best functional programming language around. You may have heard of it. This guide is meant for people who have programmed already, but have yet to try functional programming.",

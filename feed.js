@@ -28,7 +28,7 @@ fs.readdirSync(categoryDir).forEach((categoryFile) => {
     const bookLink = `${rootUrl}${categoryName}/#${bookId}`;
     const bookPublishedAt = moment(book.added_at || moment().format('YYYYMMDD'), 'YYYYMMDD');
     books.push({
-      title: `Book: ${book.title}`,
+      title: `${book.paid_book ? 'Sponsored' : 'Free'} book: ${book.title}`,
       description: book.description,
       url: bookLink,
       author: harp.author,

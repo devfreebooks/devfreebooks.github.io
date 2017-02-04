@@ -2,7 +2,7 @@
   "index": {
     "name": "nodejs",
     "subtitle": "Node.js",
-    "tags": ["language", "backend"],
+    "tags": ["language", "backend", "design-patterns"],
     "about": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
     "site": "http://nodejs.org",
     "image": "nodejs.jpg",
@@ -18,6 +18,18 @@
         "lang": "EN",
         "added_at": "20150214",
         "url": "https://leanpub.com/modulepatterns?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Building APIs with Node.js",
+        "description": "Learn how to build scalable APIs using the Node.js platform and ES6 (EcmaScript 2015) with this quick, informative guide. Developing systems for the wide range of devices available in the modern world requires the construction of APIs designed to work only with data in a centralized manner, allowing client-side applications to be developed separately and have a unique interface for the final user. ",
+        "author": "Caio Ribeiro Pereira",
+        "pages": 137,
+        "year": 2016,
+        "image": "building-apis-with-nodejs.jpg",
+        "paid_book": true,
+        "lang": "EN",
+        "added_at": "20170204",
+        "url": "http://www.apress.com/br/book/9781484224410"
       },
       {
         "title": "Node, Express and libsass: project from scratch workshop",
