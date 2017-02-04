@@ -1,14 +1,14 @@
 section.row-fluid.clearfix.hidden-xs.hidden-sm.social-buttons
-  div.row.center
+  div.row
     .col-xs-12
-      p Share us!<br>
+      p.center Share us!<br>
         a.btn.btn-primary(target="_blank" rel="nofollow" href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(root_url[environment])}&t=#{encodeURIComponent(title)}") <i class="icon-facebook"></i>&nbsp;Facebook
         a.btn.btn-info(target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet?text=#{encodeURIComponent(title)}%20#{encodeURIComponent(description)}%20#{encodeURIComponent(root_url[environment])}") <i class="icon-twitter"></i>&nbsp;Twitter
         a.btn.btn-default(target="_blank" rel="nofollow" href="https://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(root_url[environment])}&title=#{encodeURIComponent(title)}&summary=#{description}&source=#{title}") <i class="icon-linkedin"></i>&nbsp;LinkedIn
         a.btn.btn-danger(target="_blank" rel="nofollow" href="https://plus.google.com/share?url=#{encodeURIComponent(root_url[environment])}") <i class="icon-gplus"></i>&nbsp;Google+
-  div.row.center
+  div.row
     .col-xs-12
-      p Follow us!<br>
+      p.center Follow us!<br>
         a.btn.btn-success(target="_blank" rel="nofollow" href="http://feeds.feedburner.com/#{title}") <i class="icon-rss"></i>&nbsp;Feed
         a.btn.btn-primary(target="_blank" rel="nofollow" href="https://www.facebook.com/#{slug_title}") <i class="icon-facebook"></i>&nbsp;Facebook
         a.btn.btn-danger(target="_blank" rel="nofollow" href="https://www.producthunt.com/posts/#{slug_title}") <i class="icon-producthunt"></i>&nbsp;ProductHunt

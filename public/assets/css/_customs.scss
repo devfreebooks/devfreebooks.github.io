@@ -1,46 +1,42 @@
-html{
+html {
   background:#434a54;
 }
-body{
+body {
   background:#FEFEFE;
 }
-.footer-about{
+.footer-about {
   text-align:center;
   color:#FFF;
 }
-.header{
+.header {
   margin-bottom:3.5em;
 }
-.book-title{
+.book-title {
   height:35px;
   line-height:1.5em;
 }
-.book-description{
+.book-description {
   height:175px;
 }
-.book-metadata{
+.book-metadata {
   text-align:right;
   font-size:.85em;
   line-height:1.2em;
 }
-.center{
-  text-align:center;
+.center {
+  text-align: center;
 }
-.navbar-brand{
-  padding:8px 15px;
+.navbar-brand {
+  padding: 8px 15px;
 }
-.jumbotron{
+.jumbotron {
   margin:50px 0;
 }
 .jumbotron .jumbotron-contents{
-  padding:20px 20px 5px;
+  padding: 20px 20px 5px;
 }
 .thumbnail-featured{
   background-color: #FFE;
-  -moz-transition: background-color 2.0s ease;
-  -webkit-transition: background-color 2.0s ease;
-  -ms-transition: background-color 2.0s ease;
-  -o-transition: background-color 2.0s ease;
   transition: background-color 2.0s ease;
 }
 .home-ads {
