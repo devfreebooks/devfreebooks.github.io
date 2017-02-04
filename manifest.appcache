@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-02-04T19:37:51.175Z
+# rev 1 - 2017-02-04T19:43:18.068Z
 
 CACHE:
 404.html
@@ -30,7 +30,7 @@ assets/images/backbone.jpg
 assets/images/bitcoin.jpg
 assets/images/build-pacman.jpg
 assets/images/build-web-application-with-golang.jpg
-assets/images/building-apis-with-nodejs.jpg
+assets/images/building-apis-with-nodejs.png
 assets/images/building-web-apps-with-go.jpg
 assets/images/c_cpp.jpg
 assets/images/clojure-for-the-brave-and-true.jpg
