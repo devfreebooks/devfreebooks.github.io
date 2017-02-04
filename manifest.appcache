@@ -1,17 +1,16 @@
 CACHE MANIFEST
-# rev 1 - 2017-02-04T19:43:18.068Z
+# rev 1 - 2017-02-04T19:49:27.507Z
 
 CACHE:
 404.html
-about/index.html
-android/index.html
-angularjs/index.html
+manifest.json
+robots.txt
+favicon.ico
 assets/css/application.css
 assets/font/fontello.eot
 assets/font/fontello.svg
 assets/font/fontello.ttf
 assets/font/fontello.woff
-assets/font/fontello.woff2
 assets/font/opensans.eot
 assets/font/opensans.svg
 assets/font/opensans.ttf
@@ -173,45 +172,6 @@ assets/images/your-second-meteor-application.jpg
 assets/js/aightjs.min.js
 assets/js/application.js
 assets/js/html5shiv.min.js
-backbone/index.html
-bitcoin/index.html
-c-cpp/index.html
-clojure/index.html
-csharp/index.html
-d/index.html
-django/index.html
-elixir/index.html
-emberjs/index.html
-erlang/index.html
-favicon.ico
-git/index.html
-go/index.html
-groovy/index.html
-haskell/index.html
-html/index.html
-index.html
-ios/index.html
-java/index.html
-javascript/index.html
-manifest.json
-meteor/index.html
-network-protocols/index.html
-nodejs/index.html
-ocalm/index.html
-perl/index.html
-perl6/index.html
-php/index.html
-playframework/index.html
-python/index.html
-rails/index.html
-react/index.html
-robots.txt
-rss.xml
-ruby/index.html
-scala/index.html
-svg/index.html
-typescript/index.html
-vim/index.html
 
 NETWORK:
 *
