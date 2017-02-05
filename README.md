@@ -85,28 +85,6 @@ Donate via Ethereum:
 
 [Donate via paypal](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=IkN3-8GHArBWpwToacqHTCv2NG9bLncWSNiqWOm81EbJhuAZ9-p08wQDquu&dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542)
 
-## Development mode
-
-To run this project in **development mode**, you must have installed the latest version of [Node.js](http://nodejs.org).
-
-To install Node.js, just [follow this wiki rules](http://nodejs.org/download)
-
-To get and run this project:
-
-``` bash
-git clone git@github.com:devfreebooks/devfreebooks.github.io.git
-cd devfreebooks.github.io
-npm install # or using yarn: yarn install
-npm start
-```
-
-And access in your browser the url: [http://localhost:3000](http://localhost:3000).
-
-## Author
-
-Caio Ribeiro Pereira - [@crp_underground](http://twitter.com/crp_underground)
-
-
 ## Backers
 Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/devfreebooks#backer)]
 
@@ -175,6 +153,28 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://opencollective.com/devfreebooks/sponsor/27/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/27/avatar.svg"></a>
 <a href="https://opencollective.com/devfreebooks/sponsor/28/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/28/avatar.svg"></a>
 <a href="https://opencollective.com/devfreebooks/sponsor/29/website" target="_blank"><img src="https://opencollective.com/devfreebooks/sponsor/29/avatar.svg"></a>
+
+## Development mode
+
+To run this project in **development mode**, you must have installed the latest version of [Node.js](http://nodejs.org).
+
+To install Node.js, just [follow this wiki rules](http://nodejs.org/download)
+
+To get and run this project:
+
+``` bash
+git clone git@github.com:devfreebooks/devfreebooks.github.io.git
+cd devfreebooks.github.io
+npm install # or using yarn: yarn install
+npm start
+```
+
+And access in your browser the url: [http://localhost:3000](http://localhost:3000).
+
+## Author
+
+Caio Ribeiro Pereira - [@crp_underground](http://twitter.com/crp_underground)
+
 
 ## License
 
