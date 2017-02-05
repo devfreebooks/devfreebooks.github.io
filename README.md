@@ -73,6 +73,18 @@ Look this example (`public/_categories/nodejs.json`):
 }
 ```
 
+## Donation
+
+Help us to keep this project up and running free for everybody, we will appreciate any kind of donation's value and below you can choose how to donate:
+
+Donate via Bitcoins:
+**12uZ7UpUvvTgDbP95ZSuBg38LyoEUJLaSd**
+
+Donate via Ethereum:
+**0x75b8eA6c67b3b21F420f974CD9495Ce6EF6fCdaa**
+
+[Donate via paypal](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=IkN3-8GHArBWpwToacqHTCv2NG9bLncWSNiqWOm81EbJhuAZ9-p08wQDquu&dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542)
+
 ## Development mode
 
 To run this project in **development mode**, you must have installed the latest version of [Node.js](http://nodejs.org).
