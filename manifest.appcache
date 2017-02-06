@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-02-06T14:31:29.045Z
+# rev 1 - 2017-02-06T21:09:57.241Z
 
 CACHE:
 404.html
@@ -158,6 +158,7 @@ assets/images/svg.jpg
 assets/images/swift-cheat-sheet.jpg
 assets/images/swift-essentials-dzone-refcard.jpg
 assets/images/the-little-go-book.jpg
+assets/images/the-majesty-of-vuejs-2.png
 assets/images/the-road-to-learn-react.jpg
 assets/images/the-type-astronauts-guide-to-shapeless.jpg
 assets/images/typescript-deep-dive.jpg
