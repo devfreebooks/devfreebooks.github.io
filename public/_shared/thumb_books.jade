@@ -19,7 +19,7 @@ section.row
     section.col-xs-12.col-sm-6.col-md-4
       div(class="anchor" id="#{book_id}")
       div(class="thumbnail#{book.paid_book ? ' thumbnail-featured' : ''}")
-        a(href="#{book_url}" target="_blank" title="#{book.title}" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');")
+        a(href="#{book_url}" target="_blank" title="#{book.title}" onclick="ga('send', 'event', '#{book.paid_book ? 'Paid Books' : 'Books'}', '#{subtitle}', '#{book.title}');")
           img.img-responsive.img-rounded(src="#{book_image}")
         div.caption
           h3.book-title <span class="label label-success hide" data-added="#{book.added_at}">Added</span> #{book.title}
@@ -31,4 +31,4 @@ section.row
             <a href="https://twitter.com/intent/tweet?text=#{encodeURIComponent(book_thumb_title)}%20#{encodeURIComponent(book_thumb_url)}" target="_blank" rel="nofollow" class="btn btn-sm btn-info"><i class="icon-twitter"></i></a>&nbsp;
             <a href="https://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(book_thumb_url)}&title=#{encodeURIComponent(book_thumb_title)}&summary=#{encodeURIComponent(book.description)}&source=#{title}" target="_blank" rel="nofollow" class="btn btn-sm btn-default"><i class="icon-linkedin"></i></a>&nbsp;
             <a href="https://plus.google.com/share?url=#{encodeURIComponent(book_thumb_url)}&title=#{encodeURIComponent(book_thumb_title)}" target="_blank" rel="nofollow" class="btn btn-sm btn-danger"><i class="icon-gplus"></i></a>
-          p <a class="btn btn-success btn-block" href="#{book_url}" target="_blank" role="button" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');"><i class="#{book.paid_book ? 'icon-heart-empty' : 'icon-thumbs-up'}"></i>&nbsp;#{book.paid_book ? 'Sponsored book' : 'Free book'}</a>
+          p <a class="btn btn-success btn-block" href="#{book_url}" target="_blank" role="button" onclick="ga('send', 'event', '#{book.paid_book ? 'Paid Books' : 'Books'}', '#{subtitle}', '#{book.title}');"><i class="#{book.paid_book ? 'icon-heart-empty' : 'icon-thumbs-up'}"></i>&nbsp;#{book.paid_book ? 'Sponsored book' : 'Free book'}</a>
