@@ -1,8 +1,17 @@
 div.social-footer.visible-xs.visible-sm
-  p.center Share us!
-  div.center.btn-group(role="group")
-    a.btn.btn-lg.btn-primary(target="_blank" rel="nofollow" href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(root_url[environment])}&t=#{encodeURIComponent(title)}") <i class="icon-facebook"></i>
-    a.btn.btn-lg.btn-info(target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet?text=#{encodeURIComponent(title)}%20#{encodeURIComponent(description)}%20#{encodeURIComponent(root_url[environment])}") <i class="icon-twitter"></i>
-    a.btn.btn-lg.btn-default(target="_blank" rel="nofollow" href="https://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(root_url[environment])}&title=#{encodeURIComponent(title)}&summary=#{description}&source=#{title}") <i class="icon-linkedin"></i>
-    a.btn.btn-lg.btn-danger(target="_blank" rel="nofollow" href="https://plus.google.com/share?url=#{encodeURIComponent(root_url[environment])}") <i class="icon-gplus"></i>
-    a.btn.btn-lg.btn-warning(target="_blank" rel="nofollow" href="http://feeds.feedburner.com/#{title}") <i class="icon-rss"></i>
+  .row
+    p.center Share us!
+    div.center.btn-group(role="group")
+      a.btn.btn-lg.btn-primary(target="_blank" rel="nofollow" href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(root_url[environment])}&t=#{encodeURIComponent(title)}") <i class="icon-facebook"></i>
+      a.btn.btn-lg.btn-info(target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet?text=#{encodeURIComponent(title)}%20#{encodeURIComponent(description)}%20#{encodeURIComponent(root_url[environment])}") <i class="icon-twitter"></i>
+      a.btn.btn-lg.btn-default(target="_blank" rel="nofollow" href="https://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(root_url[environment])}&title=#{encodeURIComponent(title)}&summary=#{description}&source=#{title}") <i class="icon-linkedin"></i>
+      a.btn.btn-lg.btn-danger(target="_blank" rel="nofollow" href="https://plus.google.com/share?url=#{encodeURIComponent(root_url[environment])}") <i class="icon-gplus"></i>
+      a.btn.btn-lg.btn-warning(target="_blank" rel="nofollow" href="http://feeds.feedburner.com/#{title}") <i class="icon-rss"></i>
+  .row
+    p.center Follow us!
+    div.center.btn-group(role="group")
+      a.btn.btn-lg.btn-primary(target="_blank" rel="nofollow" href="https://www.facebook.com/#{slug_title}") <i class="icon-facebook"></i>
+      a.btn.btn-lg.btn-info(target="_blank" rel="nofollow" href="https://twitter.com/crp_underground") <i class="icon-twitter"></i>
+      a.btn.btn-lg.btn-default(target="_blank" rel="nofollow" href="#{github_url}") <i class="icon-github"></i>
+      a.btn.btn-lg.btn-danger(target="_blank" rel="nofollow" href="https://www.producthunt.com/posts/#{slug_title}") <i class="icon-producthunt"></i>
+      a.btn.btn-lg.btn-warning(target="_blank" rel="nofollow" href="https://news.ycombinator.com/item?id=#{hackernews_id}") <i class="icon-hackernews"></i>
