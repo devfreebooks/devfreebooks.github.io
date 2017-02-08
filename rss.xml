@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for developers]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 08 Feb 2017 00:35:34 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 08 Feb 2017 00:35:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: The C Book, second edition]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for developers]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 08 Feb 2017 00:52:06 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 08 Feb 2017 00:52:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: An Introduction to GCC]]></title><description><![CDATA[
+        <article>
+          <figure style="text-align:center;">
+            <img src="https://devfreebooks.github.io/assets/images/an-introduction-to-gcc.jpg" title="An Introduction to GCC" />
+            <figcaption>An Introduction to GCC</figcaption>
+          </figure>
+          <p>
+            This manual provides a tutorial introduction to the GNU C and C++ compilers, gcc and g++. Many books teach the C and C++ languages, this book explains how to use the compiler itself. Based on years of observation of questions posted on mailing lists, it guides the reader straight to the important options of GCC!
+            <br />
+            Author: <b>Brian J. Gough</b> | Section: <b>C/C++</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>144</b> | Year: <b>2005</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/c-cpp/#an-introduction-to-gcc</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#an-introduction-to-gcc</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The C Book, second edition]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/c-cpp.png" title="The C Book, second edition" />
@@ -82,35 +96,7 @@
             Lang: <b>EN</b> | Pages: <b>137</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#building-apis-with-nodejs</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#building-apis-with-nodejs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 04 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Vim Tutorial and Reference]]></title><description><![CDATA[
-        <article>
-          <figure style="text-align:center;">
-            <img src="https://devfreebooks.github.io/assets/images/vim.png" title="The Vim Tutorial and Reference" />
-            <figcaption>The Vim Tutorial and Reference</figcaption>
-          </figure>
-          <p>
-            A complete ebook about Vim Tutorial and Vim References.
-            <br />
-            Author: <b>Steve Oualline</b> | Section: <b>Vim</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>804</b> | Year: <b>2007</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#the-vim-tutorial-and-reference</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#the-vim-tutorial-and-reference</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Clean Code concepts adapted for Javascript]]></title><description><![CDATA[
-        <article>
-          <figure style="text-align:center;">
-            <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Clean Code concepts adapted for Javascript" />
-            <figcaption>Clean Code concepts adapted for Javascript</figcaption>
-          </figure>
-          <p>
-            Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
-            <br />
-            Author: <b>Ryan McDermott</b> | Section: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>11</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#clean-code-concepts-adapted-for-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#clean-code-concepts-adapted-for-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Basics]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#building-apis-with-nodejs</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#building-apis-with-nodejs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 04 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Basics]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/python.png" title="Python Basics" />
@@ -124,7 +110,35 @@
             Lang: <b>EN</b> | Pages: <b>119</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#python-basics</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#python-basics</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn to Code HTML & CSS]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#python-basics</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#python-basics</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Clean Code concepts adapted for Javascript]]></title><description><![CDATA[
+        <article>
+          <figure style="text-align:center;">
+            <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Clean Code concepts adapted for Javascript" />
+            <figcaption>Clean Code concepts adapted for Javascript</figcaption>
+          </figure>
+          <p>
+            Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
+            <br />
+            Author: <b>Ryan McDermott</b> | Section: <b>JavaScript</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>11</b> | Year: <b>2016</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/javascript/#clean-code-concepts-adapted-for-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#clean-code-concepts-adapted-for-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Vim Tutorial and Reference]]></title><description><![CDATA[
+        <article>
+          <figure style="text-align:center;">
+            <img src="https://devfreebooks.github.io/assets/images/vim.png" title="The Vim Tutorial and Reference" />
+            <figcaption>The Vim Tutorial and Reference</figcaption>
+          </figure>
+          <p>
+            A complete ebook about Vim Tutorial and Vim References.
+            <br />
+            Author: <b>Steve Oualline</b> | Section: <b>Vim</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>804</b> | Year: <b>2007</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/vim/#the-vim-tutorial-and-reference</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#the-vim-tutorial-and-reference</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn to Code HTML & CSS]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/learn-to-code-html-and-css.jpg" title="Learn to Code HTML & CSS" />
@@ -320,21 +334,21 @@
             Lang: <b>EN</b> | Pages: <b>510</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#real-world-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#real-world-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mostly Adequate Guide to Functional Programming]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#real-world-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#real-world-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Allongé, the "Six" Edition]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
-            <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Mostly Adequate Guide to Functional Programming" />
-            <figcaption>Mostly Adequate Guide to Functional Programming</figcaption>
+            <img src="https://devfreebooks.github.io/assets/images/javascript-allonge.jpg" title="JavaScript Allongé, the "Six" Edition" />
+            <figcaption>JavaScript Allongé, the "Six" Edition</figcaption>
           </figure>
           <p>
-            Learn the functional programming paradigm using the world's most popular functional programming language: JavaScript.
+            A long pull of functions, combinators, & decorators, updated to include the latest ES-6 features.
             <br />
-            Author: <b>Frisby</b> | Section: <b>JavaScript</b>
+            Author: <b>Reginald Braithwaite</b> | Section: <b>JavaScript</b>
             <br />
-            Lang: <b>EN</b> | Pages: <b>62</b> | Year: <b>2015</b>
+            Lang: <b>EN</b> | Pages: <b>513</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#mostly-adequate-guide-to-functional-programming</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#mostly-adequate-guide-to-functional-programming</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Threading in C#]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Threading in C#]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/csharp.png" title="Threading in C#" />
@@ -362,21 +376,21 @@
             Lang: <b>EN</b> | Pages: <b>624</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/erlang/#learn-you-some-erlang-for-great-good</link><guid isPermaLink="true">https://devfreebooks.github.io/erlang/#learn-you-some-erlang-for-great-good</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Allongé, the "Six" Edition]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/erlang/#learn-you-some-erlang-for-great-good</link><guid isPermaLink="true">https://devfreebooks.github.io/erlang/#learn-you-some-erlang-for-great-good</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Exploring ES6]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
-            <img src="https://devfreebooks.github.io/assets/images/javascript-allonge.jpg" title="JavaScript Allongé, the "Six" Edition" />
-            <figcaption>JavaScript Allongé, the "Six" Edition</figcaption>
+            <img src="https://devfreebooks.github.io/assets/images/exploring-es6.jpg" title="Exploring ES6" />
+            <figcaption>Exploring ES6</figcaption>
           </figure>
           <p>
-            A long pull of functions, combinators, & decorators, updated to include the latest ES-6 features.
+            An in-depth book on ECMAScript 6, for JavaScript programmers.
             <br />
-            Author: <b>Reginald Braithwaite</b> | Section: <b>JavaScript</b>
+            Author: <b>Axel Rauschmayer</b> | Section: <b>JavaScript</b>
             <br />
-            Lang: <b>EN</b> | Pages: <b>513</b> | Year: <b>2015</b>
+            Lang: <b>EN</b> | Pages: <b>620</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pro Git]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#exploring-es6</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#exploring-es6</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pro Git]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/pro-git.jpg" title="Pro Git" />
@@ -432,21 +446,21 @@
             Lang: <b>EN</b> | Pages: <b>592</b> | Year: <b>2005</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/perl/#higherorder-perl</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#higherorder-perl</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Exploring ES6]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/perl/#higherorder-perl</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#higherorder-perl</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mostly Adequate Guide to Functional Programming]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
-            <img src="https://devfreebooks.github.io/assets/images/exploring-es6.jpg" title="Exploring ES6" />
-            <figcaption>Exploring ES6</figcaption>
+            <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Mostly Adequate Guide to Functional Programming" />
+            <figcaption>Mostly Adequate Guide to Functional Programming</figcaption>
           </figure>
           <p>
-            An in-depth book on ECMAScript 6, for JavaScript programmers.
+            Learn the functional programming paradigm using the world's most popular functional programming language: JavaScript.
             <br />
-            Author: <b>Axel Rauschmayer</b> | Section: <b>JavaScript</b>
+            Author: <b>Frisby</b> | Section: <b>JavaScript</b>
             <br />
-            Lang: <b>EN</b> | Pages: <b>620</b> | Year: <b>2016</b>
+            Lang: <b>EN</b> | Pages: <b>62</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#exploring-es6</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#exploring-es6</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pocket Guide to Writing SVG]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#mostly-adequate-guide-to-functional-programming</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#mostly-adequate-guide-to-functional-programming</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pocket Guide to Writing SVG]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/pocket-guide-writing-svg.jpg" title="Pocket Guide to Writing SVG" />
