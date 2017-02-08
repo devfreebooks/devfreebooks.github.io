@@ -26,10 +26,25 @@ fs.readdirSync(categoryDir).forEach((categoryFile) => {
   category.books.forEach((book) => {
     const bookId = book.title.replace(/[^\w\s]/g, '').replace(/\s/g, '-').toLowerCase();
     const bookLink = `${rootUrl}${categoryName}/#${bookId}`;
+    const bookImage = book.image || `${categoryName}.png`;
     const bookPublishedAt = moment(book.added_at || moment().format('YYYYMMDD'), 'YYYYMMDD');
     books.push({
       title: `${book.paid_book ? 'Sponsored' : 'Free'} book: ${book.title}`,
-      description: book.description,
+      description: `
+        <article>
+          <figure style="text-align:center;">
+            <img src="${imageRootUrl}${bookImage}" title="${book.title}" />
+            <figcaption>${book.title}</figcaption>
+          </figure>
+          <p>
+            ${book.description}
+            <br />
+            Author: <b>${book.author}</b> | Section: <b>${category.subtitle}</b>
+            <br />
+            Lang: <b>${book.lang}</b> | Pages: <b>${book.pages}</b> | Year: <b>${book.year}</b>
+          </p>
+        </article>
+      `,
       url: bookLink,
       author: harp.author,
       date: bookPublishedAt.format('ll')

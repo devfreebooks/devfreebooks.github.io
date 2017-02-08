@@ -7,7 +7,7 @@
   "scripts": {
     "clean": "node clean.js",
     "start": "npm run clean && grunt prebuild:dev && harp server . --port 3000",
-    "build": "grunt prebuild:prod && harp compile . www && grunt build:prod",
+    "build": "grunt prebuild:prod && harp compile . www && grunt build:prod && npm run clean",
     "deploy": "npm run build && grunt deploy:prod && npm run clean"
   },
   "dependencies": {
