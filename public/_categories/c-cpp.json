@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about C/C++ language.",
     "books": [
       {
+        "title": "The C Book, second edition",
+        "url": "http://publications.gbdirect.co.uk/c_book/",
+        "description": "This is not a tutorial introduction to C programming. The book is designed for programmers who already have some experience of using a modern high-level procedural programming language.",
+        "author": "Mike Banahan, Declan Brady and Mark Doran",
+        "pages": 333,
+        "year": 1991,
+        "lang": "EN",
+        "added_at": "20170207"
+      },
+      {
         "title": "Object-Oriented Programming in C",
         "url": "https://www.cs.rit.edu/~ats/books/ooc.pdf",
         "description": "Use ANSI C to discover how object-oriented programming is done, what its techniques are, why they help solve bigger problems, and how to harness generality and program to catch mistakes earlier.",

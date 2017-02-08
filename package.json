@@ -5,9 +5,10 @@
   "author": "Caio Ribeiro Pereira",
   "license": "MIT",
   "scripts": {
-    "start": "grunt prebuild:dev && harp server . --port 3000",
+    "clean": "node clean.js",
+    "start": "npm run clean && grunt prebuild:dev && harp server . --port 3000",
     "build": "grunt prebuild:prod && harp compile . www && grunt build:prod",
-    "deploy": "npm run build && grunt deploy:prod"
+    "deploy": "npm run build && grunt deploy:prod && npm run clean"
   },
   "dependencies": {
     "eslint": "3.9.1",
