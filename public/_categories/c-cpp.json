@@ -9,6 +9,17 @@
     "description": "Read the best free ebooks about C/C++ language.",
     "books": [
       {
+        "title": "An Introduction to GCC",
+        "url": "http://www.network-theory.co.uk/docs/gccintro/",
+        "description": "This manual provides a tutorial introduction to the GNU C and C++ compilers, gcc and g++. Many books teach the C and C++ languages, this book explains how to use the compiler itself. Based on years of observation of questions posted on mailing lists, it guides the reader straight to the important options of GCC!",
+        "author": "Brian J. Gough",
+        "image": "an-introduction-to-gcc.jpg",
+        "pages": 144,
+        "year": 2005,
+        "lang": "EN",
+        "added_at": "20170207"
+      },
+      {
         "title": "The C Book, second edition",
         "url": "http://publications.gbdirect.co.uk/c_book/",
         "description": "This is not a tutorial introduction to C programming. The book is designed for programmers who already have some experience of using a modern high-level procedural programming language.",
