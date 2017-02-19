@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-02-14T20:26:24.180Z
+# rev 1 - 2017-02-19T14:09:43.991Z
 
 CACHE:
 404.html
@@ -157,6 +157,8 @@ assets/images/scala.jpg
 assets/images/scalable.jpg
 assets/images/speaking-javascript-an-in-depth-guide-for-programmers.jpg
 assets/images/spocklight-notebook.jpg
+assets/images/survivejs-react.jpg
+assets/images/survivejs-webpack.jpg
 assets/images/svg.jpg
 assets/images/swift-cheat-sheet.jpg
 assets/images/swift-essentials-dzone-refcard.jpg
