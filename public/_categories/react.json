@@ -9,6 +9,28 @@
     "description": "Read the best free ebooks about React.",
     "books": [
       {
+        "title": "SurviveJS React",
+        "description": "Learn React while building a Kanban application. Beginner-intermediate.",
+        "author": "Juho Vepsäläinen",
+        "pages": 250,
+        "year": 2016,
+        "image": "survivejs-react.jpg",
+        "lang": "EN",
+        "added_at": "20170219",
+        "url": "https://survivejs.com/react/getting-started/"
+      },
+      {
+        "title": "SurviveJS Webpack",
+        "description": "Learn webpack while building configuration and going through its features. Beginner-intermediate.",
+        "author": "Juho Vepsäläinen",
+        "pages": 350,
+        "year": 2016,
+        "image": "survivejs-webpack.jpg",
+        "lang": "EN",
+        "added_at": "20170219",
+        "url": "https://survivejs.com/webpack/compared/"
+      },
+      {
         "title": "The Road to learn React",
         "description": "A lot of roadmaps exist on how to master React. This book uses the common sense of these roads and weaves it into the implementation of an attractive real world app. You will build a React app, which consumes the Hacker News API. On the road you will learn ES6, React with all its basics and advanced concepts and internal state management.",
         "author": "Robin Wieruch",
