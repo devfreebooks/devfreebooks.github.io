@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-03-01T13:51:21.445Z
+# rev 1 - 2017-03-15T15:21:29.177Z
 
 CACHE:
 404.html
@@ -166,6 +166,10 @@ assets/images/the-little-go-book.jpg
 assets/images/the-majesty-of-vuejs-2.png
 assets/images/the-road-to-learn-react.jpg
 assets/images/the-type-astronauts-guide-to-shapeless.jpg
+assets/images/think-dsp.jpg
+assets/images/think-java.jpg
+assets/images/think-ocaml.jpg
+assets/images/think-python.jpg
 assets/images/typescript-deep-dive.jpg
 assets/images/typescript-succinctly.jpg
 assets/images/typescript.jpg
