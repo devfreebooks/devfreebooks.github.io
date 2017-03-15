@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about C/C++ language.",
     "books": [
       {
+        "title": "How to Think Like a Computer Scientist: C++",
+        "url": "http://greenteapress.com/thinkcpp/index.html",
+        "description": "The goal of this book is to teach you to think like a computer scientist. I like the way computer scientists think because they combine some of the best features of Mathematics, Engineering, and Natural Science. Like mathematicians, computer scientists use formal languages to denote ideas.",
+        "author": "Allen Downey",
+        "pages": 191,
+        "year": 2012,
+        "lang": "EN",
+        "added_at": "20170315"
+      },
+      {
         "title": "An Introduction to GCC",
         "url": "http://www.network-theory.co.uk/docs/gccintro/",
         "description": "This manual provides a tutorial introduction to the GNU C and C++ compilers, gcc and g++. Many books teach the C and C++ languages, this book explains how to use the compiler itself. Based on years of observation of questions posted on mailing lists, it guides the reader straight to the important options of GCC!",

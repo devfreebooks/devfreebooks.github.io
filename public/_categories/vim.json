@@ -9,6 +9,16 @@
     "description": "Read good ebooks about VIM only here and for free!",
     "books": [
       {
+        "title": "Vim Reference",
+        "description": "Vim reference guide for beginner to intermediate users",
+        "author": "Sundeep Agarwal",
+        "pages": 39,
+        "year": 2016,
+        "lang": "EN",
+        "url": "https://www.gitbook.com/book/learnbyexample/vim-reference/details",
+        "added_at": "20170315"
+      },
+      {
         "title": "Vim para Noobs",
         "url": "https://woliveiras.com.br/vimparanoobs/",
         "description": "A free GitBook about Vim editor for Noobs become text hackers.",

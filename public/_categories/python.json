@@ -9,6 +9,28 @@
     "description": "Read the best free ebooks about Python language.",
     "books": [
       {
+        "title": "Think Python",
+        "description": "Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.",
+        "author": "Allen Downey",
+        "pages": 244,
+        "year": 2015,
+        "lang": "EN",
+        "image": "think-python.jpg",
+        "added_at": "20170315",
+        "url": "http://greenteapress.com/wp/think-python-2e"
+      },
+      {
+        "title": "Think DSP",
+        "description": "Think DSP is an introduction to Digital Signal Processing in Python.",
+        "author": "Allen Downey",
+        "pages": 164,
+        "year": 2014,
+        "lang": "EN",
+        "image": "think-dsp.jpg",
+        "added_at": "20170315",
+        "url": "http://greenteapress.com/wp/think-dsp"
+      },
+      {
         "title": "Web2Py",
         "description": "Web2py is an open source python web development framework.",
         "author": "Massimo Di Pierro",

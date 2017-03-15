@@ -9,6 +9,17 @@
     "description": "Read the best free ebooks about Java language.",
     "books": [
       {
+        "title": "Think Java",
+        "description": "Think Java is an introduction to computer science and programming intended for people with little or no experience. We start with the most basic concepts and are careful to define all terms when they are first used.",
+        "author": "Allen Downey",
+        "pages": 291,
+        "year": 2016,
+        "image": "think-java.jpg",
+        "lang": "EN",
+        "url": "http://greenteapress.com/wp/think-java/",
+        "added_at": "20170315"
+      },
+      {
         "title": "Core Java - DZone Refcard",
         "url": "https://dzone.com/refcardz/core-java",
         "description": "This free, 6-page cheat sheet gives you an overview of key aspects of the Java language and references on the core library, commonly used tools, and new Java 8 features.",

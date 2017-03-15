@@ -8,6 +8,17 @@
     "image": "ocalm.jpg",
     "books": [
       {
+        "title": "Think OCalm",
+        "description": "How to Think Like a Computer Scientist is an introductory programming textbook based on the OCaml language. It is intended for newcomers to programming and also those who know some programming but want to learn programming in the function-oriented paradigm using OCaml.",
+        "author": "Allen Downey",
+        "pages": 142,
+        "year": 2008,
+        "image": "think-ocaml.jpg",
+        "lang": "EN",
+        "url": "http://greenteapress.com/thinkocaml/index.html",
+        "added_at": "20170315"
+      },
+      {
         "title": "The OCaml System: Documentation and User's Manual",
         "description": "This the official User's Manual. It serves as a complete reference guide to OCaml. Updated for each version of OCaml, it contains the description of the language, of its extensions, and the documentation of the tools and libraries included in the official distribution.",
         "author": "Damien Doligez, Alain Frisch, Jacques Garrigue, Didier Rémy and Jérôme Vouillon",

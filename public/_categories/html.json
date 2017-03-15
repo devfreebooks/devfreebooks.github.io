@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about HTML.",
     "books": [
       {
+        "title": "HTML and CSS is hard",
+        "description": "A friendly web development tutorial for complete beginners.",
+        "author": "Oliver James",
+        "pages": 200,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20170315",
+        "url": "https://internetingishard.com/html-and-css/"
+      },
+      {
         "title": "HTML5 for Web Designers",
         "description": "HTML5 isn’t as confusing as it once was, but it still isn’t straightforward. It’s an evolutionary, rather than revolutionary, change in the ongoing story of markup—and if you’re currently creating websites with any version of HTML, you’re already using HTML5.",
         "author": "Jeremy Keith & Rachel Andrew",
