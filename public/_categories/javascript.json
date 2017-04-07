@@ -9,18 +9,6 @@
     "description": "Read the best free ebooks about JavaScript language.",
     "books": [
       {
-        "title": "The Majesty of Vue.js 2",
-        "description": "Learn Vue.js 2 from scratch. This book will guide you through the path of the rapidly spreading Javascript Framework Vue.js!",
-        "author": "Alex Kyriakidis, Kostas Maniatis, Evan You",
-        "pages": 257,
-        "year": 2017,
-        "image": "the-majesty-of-vuejs-2.png",
-        "lang": "EN",
-        "paid_book": true,
-        "added_at": "20170206",
-        "url": "https://leanpub.com/vuejs2"
-      },
-      {
         "title": "JavaScript, ¡Inspírate!",
         "description": "A simple and fun programming book that shows us how to program in JavaScript, from pseudocode to AJAX requests.",
         "author": "Ulises Gascón",

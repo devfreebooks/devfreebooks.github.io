@@ -9,18 +9,6 @@
     "description": "Read the best free ebooks about PHP language.",
     "books": [
       {
-        "title": "Laravel 5.4 For Beginners",
-        "description": "Laravel 5.4 for Beginners stands you up quickly Laravel, Mix and Vue.js.  A step by step approach to building a sample chat application.",
-        "author": "Bill Keck",
-        "pages": 745,
-        "year": 2017,
-        "image": "laravel-for-beginners.png",
-        "lang": "EN",
-        "paid_book": true,
-        "added_at": "20170207",
-        "url": "https://leanpub.com/laravel-5-4-for-beginners"
-      },
-      {
         "title": "PHP The Right Way",
         "description": "PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.",
         "author": "Josh Lockhart",
