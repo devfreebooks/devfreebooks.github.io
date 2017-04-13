@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-04-07T14:18:33.696Z
+# rev 1 - 2017-04-13T17:42:44.339Z
 
 CACHE:
 404.html
@@ -15,6 +15,7 @@ assets/font/opensans.eot
 assets/font/opensans.svg
 assets/font/opensans.ttf
 assets/font/opensans.woff
+assets/images/ads-banner.jpg
 assets/images/agile-android.jpg
 assets/images/an-introduction-to-gcc.jpg
 assets/images/an-introduction-to-programming-in-go.jpg
