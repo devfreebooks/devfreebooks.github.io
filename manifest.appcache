@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2018-02-15T23:35:50.226Z
+# rev 1 - 2018-02-15T23:57:08.768Z
 
 CACHE:
 404.html
@@ -32,6 +32,7 @@ assets/images/bitcoin.jpg
 assets/images/build-pacman.jpg
 assets/images/build-web-application-with-golang.jpg
 assets/images/building-apis-with-nodejs.png
+assets/images/building-machine-learning-systems-with-python.jpg
 assets/images/building-web-apps-with-go.jpg
 assets/images/c_cpp.jpg
 assets/images/clojure-for-the-brave-and-true.jpg
@@ -114,6 +115,7 @@ assets/images/learn-to-code-html-and-css.jpg
 assets/images/learn-you-a-haskell-for-great-good.jpg
 assets/images/learn-you-some-erlang-for-great-good.jpg
 assets/images/learning-javascript-design-patterns.jpg
+assets/images/learning-python.jpg
 assets/images/lets-create-a-realtime-blackboard-with-meteor-streams.jpg
 assets/images/mastering-bitcoin.jpg
 assets/images/mastering-nodejs.jpg
@@ -121,6 +123,7 @@ assets/images/meteor-tutorial.jpg
 assets/images/meteor.jpg
 assets/images/modern-perl.jpg
 assets/images/module-patterns.jpg
+assets/images/neural-network-programming-with-java.jpg
 assets/images/node-express-and-libsass-project-from-scratch-workshop.jpg
 assets/images/nodejs-succinctly.jpg
 assets/images/nodejs.jpg
@@ -171,6 +174,8 @@ assets/images/think-dsp.jpg
 assets/images/think-java.jpg
 assets/images/think-ocaml.jpg
 assets/images/think-python.jpg
+assets/images/thinking-in-html.jpg
+assets/images/thinking-in-javascript.jpg
 assets/images/typescript-deep-dive.jpg
 assets/images/typescript-succinctly.jpg
 assets/images/typescript.jpg
