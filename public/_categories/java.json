@@ -9,6 +9,17 @@
     "description": "Read the best free ebooks about Java language.",
     "books": [
       {
+        "title": "Neural Network Programming with Java",
+        "description": "Neural networks are very intelligent algorithmic systems. Learn how to create them with Java with this guide dedicated to cutting-edge neural network development.",
+        "author": "Alan M. Souza & Fabio M. Soares",
+        "pages": 244,
+        "year": 2016,
+        "image": "neural-network-programming-with-java.jpg",
+        "lang": "EN",
+        "url": "https://www.packtpub.com/packt/free-ebook/neural-networks-java",
+        "added_at": "20180216"
+      },
+      {
         "title": "Think Java",
         "description": "Think Java is an introduction to computer science and programming intended for people with little or no experience. We start with the most basic concepts and are careful to define all terms when they are first used.",
         "author": "Allen Downey",

@@ -9,6 +9,28 @@
     "description": "Read the best free ebooks about Python language.",
     "books": [
       {
+        "title": "Building Machine Learning Systems with Python",
+        "description": "Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need.",
+        "author": "Willi Richert & Luis Pedro Coelho",
+        "pages": 290,
+        "year": 2013,
+        "lang": "EN",
+        "image": "building-machine-learning-systems-with-python.jpg",
+        "added_at": "20180216",
+        "url": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms"
+      },
+      {
+        "title": "Learning Python",
+        "description": "This book goes deeper than simply showing you how to build a Python app, giving you the fundamentals of Python programming that every developer needs to know to make the most of the language. Packed with tutorials and examples this title features everything from data structures, writing reusable code, testing, paradigms, and how Python can be adapted. This eBook will help transform you from a complete beginner to someone ready to bring the best out of their projects.",
+        "author": "Fabrizio Romano",
+        "pages": 443,
+        "year": 2015,
+        "lang": "EN",
+        "image": "learning-python.jpg",
+        "added_at": "20180216",
+        "url": "https://www.packtpub.com/packt/free-ebook/learning-python"
+      },
+      {
         "title": "Think Python",
         "description": "Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.",
         "author": "Allen Downey",
