@@ -13,11 +13,6 @@
       "development": "http://localhost:3000/",
       "production": "https://devfreebooks.github.io/"
     },
-    "devfreecasts": {
-      "title": "DevFreeCasts",
-      "about": "A huge collection of free screencasts for developers",
-      "url": "https://devfreecasts.github.io?utm_source=devfreebooks"
-    },
     "devnewsletters": {
       "title": "DevNewsletters",
       "about": "A collection of newsletters for developers subscribe",
