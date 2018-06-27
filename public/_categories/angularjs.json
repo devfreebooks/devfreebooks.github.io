@@ -9,6 +9,17 @@
     "description": "Read the best free ebooks about AngularJS framework.",
     "books": [
       {
+        "title": "AngularJS Essentials",
+        "description": "Discover the best practices of the AngularJS framework and its most important concepts such as AngularJS directives, expressions, filters, and modules. This free eBook guides you through the steps of building your very own web application with AngularJS.",
+        "author": "Rodrigo Branas",
+        "pages": 180,
+        "year": 2014,
+        "image": "angularjs-essentials.jpg",
+        "lang": "EN",
+        "added_at": "20180627",
+        "url": "https://www.packtpub.com/packt/free-ebook/angularjs-essentials"
+      },
+      {
         "title": "Angular Basics",
         "description": "A free interactive book, covering directives, modules, services, controllers, routing, and more.",
         "author": "Chris Smith",

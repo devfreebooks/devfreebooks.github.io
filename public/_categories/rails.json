@@ -9,6 +9,17 @@
     "description": "Read a list with best free ebook about Ruby On Rails web framework.",
     "books": [
       {
+        "title": "Rails Testing Handbook",
+        "url": "https://semaphoreci.com/ebooks/rails-testing-handbook",
+        "description": "Tired of fragile code? This free hands-on book will teach you how to build better Rails apps with confidence. Learn practical behavior-driven development (BDD) from the makers of Semaphore CI/CD.",
+        "author": "Marko Anastasov, Igor Šarčević",
+        "pages": 61,
+        "year": "2018",
+        "lang": "EN",
+        "image": "rails-testing-handbook.jpg",
+        "added_at": "20180627"
+      },
+      {
         "title": "Learn Ruby On Rails",
         "url": "https://www.softcover.io/read/e8898d1d/learn-rails-1",
         "description": "Called 'the best book for beginners'",

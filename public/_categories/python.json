@@ -9,6 +9,28 @@
     "description": "Read the best free ebooks about Python language.",
     "books": [
       {
+        "title": "Advanced Machine Learning with Python",
+        "description": "Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python.",
+        "author": "John Hearty",
+        "pages": 278,
+        "year": 2016,
+        "lang": "EN",
+        "image": "advanced-machine-learning-with-python.jpg",
+        "added_at": "20180627",
+        "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning"
+      },
+      {
+        "title": "Python Data Science Handbook",
+        "description": "Essential Tools for Working with Data",
+        "author": "Jake VanderPlas",
+        "pages": 541,
+        "year": 2016,
+        "lang": "EN",
+        "image": "python-data-science-handbook.jpg",
+        "added_at": "20180627",
+        "url": "https://jakevdp.github.io/PythonDataScienceHandbook/"
+      },
+      {
         "title": "Building Machine Learning Systems with Python",
         "description": "Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need.",
         "author": "Willi Richert & Luis Pedro Coelho",

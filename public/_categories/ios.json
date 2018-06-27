@@ -9,6 +9,17 @@
     "description": "Read the best free ebooks about iOS mobile platform.",
     "books": [
       {
+        "title": "Mastering iOS Game Development",
+        "description": "iOS is an operating system for Apple manufactured phones and tablets. Mobile gaming is one of the fastest-growing industries, and compatibility with iOS is now becoming the norm for game developers. SpriteKit is part of the native SDK from Apple, and enables developers to make simple entry into game development without unnecessary overhead and a long learning process.",
+        "author": "Miguel DeQuadros",
+        "pages": 228,
+        "year": 2015,
+        "image": "mastering-ios-game-development.jpg",
+        "lang": "EN",
+        "added_at": "20180627",
+        "url": "https://www.packtpub.com/packt/free-ebook/mastering-ios-gamedev"
+      },
+      {
         "title": "Swift Essentials - DZone Refcard",
         "description": "Get ahead of the fastest growing programming language. Swift is an open source, type-safe, object-oriented programming language that is used for more than client-side mobile apps. It is designed for developers to have an easier time writing and maintaining accurate code. ",
         "author": "Alex Blewitt",
