@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about iOS mobile platform.",
     "books": [
       {
+        "title": "Swift Essentials - 2nd Edition",
+        "description": "Swift was considered one of the biggest innovations last year, and certainly with Swift 2 announced at WWDC in 2015, this segment of the developer space will continue to be hot and dominating. This is a fast-paced guide to provide an overview of Swift programming and then walks you through in detail how to write iOS applications. Progress through chapters on custom views, networking, parsing and build a complete application as a Git repository, all by using Swift as the core language",
+        "author": "Dr Alex Blewitt",
+        "pages": 248,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20190125",
+        "url": "https://www.packtpub.com/packt/free-ebook/swift-essentials"
+      },
+      {
         "title": "Mastering iOS Game Development",
         "description": "iOS is an operating system for Apple manufactured phones and tablets. Mobile gaming is one of the fastest-growing industries, and compatibility with iOS is now becoming the norm for game developers. SpriteKit is part of the native SDK from Apple, and enables developers to make simple entry into game development without unnecessary overhead and a long learning process.",
         "author": "Miguel DeQuadros",

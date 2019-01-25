@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about C#",
     "books": [
       {
+        "title": "SQL Server for C# Developers Succinctly",
+        "description": "Developers of C# applications with a SQL Server database can learn to connect to a database using classic ADO.NET and look at different methods of developing databases using the Entity Framework. This book addresses common pitfalls, why databases run slowly, how to troubleshoot performance issues, and how to test and deploy SQL Server databases. The first half has a focus on C# and development while the second half focuses on troubleshooting using the SQL Server tools.",
+        "author": "Sander Rossel",
+        "pages": 96,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20190125",
+        "url": "https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly"
+      },
+      {
         "title": "C# Succinctly",
         "description": "C# is a general purpose, object-oriented, component-based programming language. As a general purpose language, there are a number of ways to apply C# to accomplish many different tasks. With C# Succinctly by Joe Mayo, you will quickly learn the syntax you need to build your own C# applications. ",
         "author": "Joe Mayo",

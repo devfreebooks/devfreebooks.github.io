@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about Node.js.",
     "books": [
       {
+        "title": "Construindo APIs testáveis com Node.js",
+        "description": "This ebook uses best practices examples about how to build Node.js and tests APIs; This is a guide for beginners and advanced developers.",
+        "author": "Waldemar Neto",
+        "pages": 200,
+        "year": 2017,
+        "lang": "BR",
+        "added_at": "20190125",
+        "url": "https://leanpub.com/construindo-apis-testaveis-com-nodejs/"
+      },
+      {
         "title": "Aplicações web realtime com Node.js",
         "description": "Node.js is a powerful platform. It allows to write serve-side Javascript applications, making use of the language's syntax familiarity to write scalable applications. As Node.js makes use of an object-oriented model and events, focussed in non-blocking I/O, developing on it may be different to whom is used to traditional web applications. In this book, Caio Ribeiro Pereira breaks this wall, clearly showing this paradigm change, besides focusing in importante topics, the main API's and frameworks as Express and Socket.IO.",
         "author": "Caio Ribeiro Pereira",

@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about JavaScript language.",
     "books": [
       {
+        "title": "JavaScript Notes for Professionals book",
+        "description": "The JavaScript Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA.",
+        "author": "GoalKicker",
+        "pages": 480,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190125",
+        "url": "http://goalkicker.com/JavaScriptBook/"
+      },
+      {
         "title": "JavaScript Awesome Tips (Br Version)",
         "description": "This is a cookbook with a collection of useful tips and tricks to apply in JavaScript/Node.js, each tip shows a problem and some magical solutions in pratical codes.",
         "author": "Caio R Pereira",

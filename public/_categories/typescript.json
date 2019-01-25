@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about TypeScript language.",
     "books": [
       {
+        "title": "TypeScript Notes for Professionals book",
+        "description": "The TypeScript Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters.",
+        "author": "GoalKicker",
+        "pages": 97,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190125",
+        "url": "https://goalkicker.com/TypeScriptBook2/"
+      },
+      {
         "title": "Deep Dive in TypeScript",
         "description": "The definitive guide to TypeScript. Dive into all the details that a JavaScript developer needs to know to be a great TypeScript developer.",
         "author": "Basarat Ali Syed",

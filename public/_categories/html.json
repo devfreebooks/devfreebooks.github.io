@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about HTML.",
     "books": [
       {
+        "title": "HTML5 Notes for Professionals book",
+        "description": "The HTML5 Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified.",
+        "author": "GoalKicker",
+        "pages": 122,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190125",
+        "url": "https://goalkicker.com/HTML5Book/"
+      },
+      {
         "title": "Thinking in HTML",
         "description": "Get started with JavaScript and learn one of the most important languages in web development today. With helpful tips and code examples, discover how you can create websites with impressive and dynamic functionality. Explore JavaScript’s in-built features and find out how to customize them in this accessible and free guide.",
         "author": "Aravind Shenoy",
