@@ -14,7 +14,6 @@
         "author": "Sean Callan",
         "pages": 32,
         "year": 2015,
-        "image": "elixir-school.jpg",
         "lang": "EN",
         "added_at": "20161110",
         "url": "http://elixirschool.com"
@@ -25,7 +24,6 @@
         "author": "Shane Logsdon",
         "pages": 20,
         "year": 2014,
-        "image": "web-development-using-elixir.jpg",
         "lang": "EN",
         "added_at": "20150214",
         "url": "https://leanpub.com/web-development-using-elixir?a=2hxrOg_7DAAAx2pWvoaFpT"

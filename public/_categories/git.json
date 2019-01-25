@@ -14,7 +14,6 @@
         "author": "Scott Chacon & Ben Straub",
         "pages": 456,
         "year": 2014,
-        "image": "pro-git.jpg",
         "lang": "EN",
         "added_at": "20161115",
         "url": "https://git-scm.com/book/en/v2"
@@ -25,7 +24,6 @@
         "author": "Matthew McCullough & Kurt Collins",
         "pages": 6,
         "year": 2016,
-        "image": "getting-started-git-dzone-refcard.jpg",
         "lang": "EN",
         "added_at": "20161111",
         "url": "https://dzone.com/refcardz/getting-started-git"
@@ -36,7 +34,6 @@
         "author": "Ryan Hodson",
         "pages": 59,
         "year": 2014,
-        "image": "git-succinctly.jpg",
         "lang": "EN",
         "added_at": "20150216",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/git"
@@ -47,7 +44,6 @@
         "author": "Dale Sande",
         "pages": 58,
         "year": 2014,
-        "image": "git-for-everyone.jpg",
         "lang": "EN",
         "added_at": "20150214",
         "url": "http://anotheruiguy.gitbooks.io/gitforeveryone"
@@ -58,7 +54,6 @@
         "author": "Scott Chacon",
         "pages": 121,
         "year": 2008,
-        "image": "git-internals.jpg",
         "lang": "EN",
         "added_at": "20080314",
         "url": "https://github.com/pluralsight/git-internals-pdf"

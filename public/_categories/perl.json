@@ -23,7 +23,6 @@
         "author": "Chromatic",
         "pages": 286,
         "year": 2016,
-        "image": "modern-perl.jpg",
         "lang": "EN",
         "url": "http://modernperlbooks.com/books/modern_perl_2016/index.html",
         "added_at": "20161110"
@@ -34,7 +33,6 @@
         "author": "Mark Jason Dominus",
         "pages": 592,
         "year": 2005,
-        "image": "higher-order-perl.jpg",
         "lang": "EN",
         "url": "http://hop.perl.plover.com/book/",
         "added_at": "20161115"

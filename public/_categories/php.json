@@ -14,7 +14,6 @@
         "author": "Josh Lockhart",
         "pages": 1,
         "year": 2015,
-        "image": "php-the-right-way.jpg",
         "lang": "EN",
         "added_at": "20150216",
         "url": "http://www.phptherightway.com"
@@ -25,7 +24,6 @@
         "author": "Brujah",
         "pages": 344,
         "year": 2015,
-        "image": "laravel-4-official-documentation.jpg",
         "lang": "EN",
         "added_at": "20150214",
         "url": "https://leanpub.com/l4?a=2hxrOg_7DAAAx2pWvoaFpT"

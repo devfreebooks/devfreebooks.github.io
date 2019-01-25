@@ -15,7 +15,6 @@
         "pages": 278,
         "year": 2016,
         "lang": "EN",
-        "image": "advanced-machine-learning-with-python.jpg",
         "added_at": "20180627",
         "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning"
       },
@@ -26,7 +25,6 @@
         "pages": 541,
         "year": 2016,
         "lang": "EN",
-        "image": "python-data-science-handbook.jpg",
         "added_at": "20180627",
         "url": "https://jakevdp.github.io/PythonDataScienceHandbook/"
       },
@@ -37,7 +35,6 @@
         "pages": 290,
         "year": 2013,
         "lang": "EN",
-        "image": "building-machine-learning-systems-with-python.jpg",
         "added_at": "20180216",
         "url": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms"
       },
@@ -48,7 +45,6 @@
         "pages": 443,
         "year": 2015,
         "lang": "EN",
-        "image": "learning-python.jpg",
         "added_at": "20180216",
         "url": "https://www.packtpub.com/packt/free-ebook/learning-python"
       },
@@ -59,7 +55,6 @@
         "pages": 244,
         "year": 2015,
         "lang": "EN",
-        "image": "think-python.jpg",
         "added_at": "20170315",
         "url": "http://greenteapress.com/wp/think-python-2e"
       },
@@ -70,7 +65,6 @@
         "pages": 164,
         "year": 2014,
         "lang": "EN",
-        "image": "think-dsp.jpg",
         "added_at": "20170315",
         "url": "http://greenteapress.com/wp/think-dsp"
       },
@@ -91,7 +85,6 @@
         "pages": 479,
         "year": 2015,
         "lang": "EN",
-        "image": "automate-the-boring-stuff-with-python.jpg",
         "added_at": "20161111",
         "url": "https://automatetheboringstuff.com/"
       },
@@ -111,7 +104,6 @@
         "author": "Robert Picard",
         "pages": 14,
         "year": 2014,
-        "image": "explore-flask.jpg",
         "lang": "EN",
         "added_at": "20150225",
         "url": "https://exploreflask.com"
@@ -122,7 +114,6 @@
         "author": "Anand Chitipothu",
         "pages": 36,
         "year": 2014,
-        "image": "python-practice-book.jpg",
         "lang": "EN",
         "added_at": "20150206",
         "url": "http://anandology.com/python-practice-book/index.html"
@@ -133,7 +124,6 @@
         "author": "Zed A. Shaw",
         "pages": 58,
         "year": 2014,
-        "image": "learn-python-the-hard-way.jpg",
         "lang": "EN",
         "added_at": "20150206",
         "url": "http://learnpythonthehardway.org/book/"
@@ -144,7 +134,6 @@
         "author": "Mark Pilgrim",
         "pages": 327,
         "year": 2004,
-        "image": "python-dive-into-python.jpg",
         "lang": "EN",
         "added_at": "20040520",
         "url": "http://www.diveintopython.net/"
@@ -155,7 +144,6 @@
         "author": "Kenneth Reitz",
         "pages": 119,
         "year": 2016,
-        "image": "python-hitchhikers-guide-to-python.jpg",
         "lang": "EN",
         "added_at": "20161106",
         "url": "http://docs.python-guide.org/en/latest/"

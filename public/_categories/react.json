@@ -14,7 +14,6 @@
         "author": "Juho Vepsäläinen",
         "pages": 250,
         "year": 2016,
-        "image": "survivejs-react.jpg",
         "lang": "EN",
         "added_at": "20170219",
         "url": "https://survivejs.com/react/getting-started/"
@@ -25,7 +24,6 @@
         "author": "Juho Vepsäläinen",
         "pages": 350,
         "year": 2016,
-        "image": "survivejs-webpack.jpg",
         "lang": "EN",
         "added_at": "20170219",
         "url": "https://survivejs.com/webpack/compared/"
@@ -36,7 +34,6 @@
         "author": "Robin Wieruch",
         "pages": 101,
         "year": 2016,
-        "image": "the-road-to-learn-react.jpg",
         "lang": "EN",
         "added_at": "20161214",
         "url": "https://leanpub.com/the-road-to-learn-react"
@@ -47,7 +44,6 @@
         "author": "Samer Buna",
         "pages": 102,
         "year": 2016,
-        "image": "reactjs-succinctly.jpg",
         "lang": "EN",
         "added_at": "20161111",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/Reactjs_Succinctly"

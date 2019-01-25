@@ -13,7 +13,6 @@
         "author": "Allen Downey",
         "pages": 142,
         "year": 2008,
-        "image": "think-ocaml.jpg",
         "lang": "EN",
         "url": "http://greenteapress.com/thinkocaml/index.html",
         "added_at": "20170315"
@@ -34,7 +33,6 @@
         "author": "Jason Hickey, Anil Madhavapeddy, and Yaron Minsky",
         "pages": 510,
         "year": 2013,
-        "image": "real-world-ocaml.jpg",
         "lang": "EN",
         "url": "https://realworldocaml.org/v1/en/html/index.html",
         "added_at": "20161116"

@@ -23,7 +23,6 @@
         "url": "http://learnyouahaskell.com",
         "description": "This is Learn You a Haskell, the funkiest way to learn Haskell, which is the best functional programming language around. You may have heard of it. This guide is meant for people who have programmed already, but have yet to try functional programming.",
         "author": "Miran Lipovača",
-        "image": "learn-you-a-haskell-for-great-good.jpg",
         "pages": 400,
         "year": 2011,
         "lang": "EN",
@@ -55,7 +54,6 @@
         "author": "Bryan O'Sullivan",
         "pages": 40,
         "year": 2008,
-        "image": "real-world-haskell.jpg",
         "lang": "EN",
         "added_at": "20150319",
         "url": "http://book.realworldhaskell.org/read"

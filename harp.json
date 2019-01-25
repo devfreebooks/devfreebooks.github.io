@@ -2,13 +2,16 @@
   "globals": {
     "title": "DevFreeBooks",
     "slug_title": "devfreebooks",
-    "description": "A collection of free books for developers",
+    "description": "A collection of free books for devs",
     "author": "Caio Ribeiro Pereira",
     "email": "caio.ribeiro.pereira@gmail.com",
+    "twitter": "crp_underground",
     "github_url": "https://github.com/devfreebooks/devfreebooks.github.io",
     "github_repo": "git@github.com:devfreebooks/devfreebooks.github.io.git",
     "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSeXsmlLo3S7lJF82LGTOMoMpA4vg_T38Ez47gQoU6P6KaFwQg/viewform",
     "hackernews_id": "12909967",
+    "header_color": "#333333",
+    "google_search_console": "57vcywZyI5D313Nwa4fNZJKGhqXTW8wwnl9xfcx58zw",
     "root_url": {
       "development": "http://localhost:3000/",
       "production": "https://devfreebooks.github.io/"

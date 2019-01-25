@@ -14,7 +14,6 @@
         "author": "Rodrigo Branas",
         "pages": 180,
         "year": 2014,
-        "image": "angularjs-essentials.jpg",
         "lang": "EN",
         "added_at": "20180627",
         "url": "https://www.packtpub.com/packt/free-ebook/angularjs-essentials"
@@ -25,7 +24,6 @@
         "author": "Chris Smith",
         "pages": 14,
         "year": 2015,
-        "image": "angular-basics.jpg",
         "lang": "EN",
         "added_at": "20150319",
         "url": "http://www.angularjsbook.com"
@@ -36,7 +34,6 @@
         "author": "Frederik Dietz",
         "pages": 112,
         "year": 2013,
-        "image": "angularjs-succinctly.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/angularjs"
@@ -47,7 +44,6 @@
         "author": "Dan Wahlin",
         "pages": 102,
         "year": 2013,
-        "image": "angularjs-in-60-minutes.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf"
@@ -58,7 +54,6 @@
         "author": "Dinis Cruz",
         "pages": 103,
         "year": 2014,
-        "image": "practical-angularjs.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "https://leanpub.com/Practical_AngularJS/read"
@@ -69,7 +64,6 @@
         "author": "Frederik Dietz",
         "pages": 103,
         "year": 2013,
-        "image": "recipes-with-angularjs.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "https://leanpub.com/recipes-with-angular-js/read"

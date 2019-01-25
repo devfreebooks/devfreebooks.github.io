@@ -9,14 +9,24 @@
     "description": "Read the best free ebooks about Meteor web framework.",
     "books": [
       {
+        "title": "Meteor - Construindo aplicações realtime com JavaScript",
+        "url": "http://www.casadocodigo.com.br/products/livro-meteor",
+        "description": "JavaScript is nowadays a real choice for building server-side applications. Work with the same front-end language is a great advantage too. There are a lot of full-stack web frameworks, but Meteor is one that stand out. In this book, you will learn how to create a real-time social network, exploring the main native components of Meteor. Technically, you will learn how to build amazing templates using Handlebars, how to use Facebook API for sign-in and sign-up users, how to persist data into NoSQL MongoDB and how to develop an application using advanced concepts of reactive programming and Meteor PubSub.",
+        "author": "Caio Ribeiro Pereira",
+        "paid_book": true,
+        "pages": 153,
+        "year": 2015,
+        "lang": "BR",
+        "added_at": "20190125"
+      },
+      {
         "title": "Your Second Meteor Application",
         "url": "http://meteortips.com/second-meteor-tutorial",
         "description": "Your Second Meteor Application is a free, online book about the Meteor JavaScript framework that helps beginning web developers build a complete to-do list application with the Meteor JavaScript framework.",
         "author": "David Turnbull",
         "pages": 7,
         "year": 2015,
-        "lang": "EN",        "image": "your-second-meteor-application.jpg",
-
+        "lang": "EN",
         "added_at": "20150625"
       },
       {
@@ -26,8 +36,7 @@
         "author": "David Turnbull",
         "pages": 7,
         "year": 2015,
-        "lang": "EN",        "image": "getting-started-with-meteor-deployment.jpg",
-
+        "lang": "EN",
         "added_at": "20150625"
       },
       {
@@ -36,7 +45,6 @@
         "author": "Matthew Platts",
         "pages": 1,
         "year": 2015,
-        "image": "meteor-tutorial.jpg",
         "lang": "EN",
         "added_at": "20150408",
         "url": "http://www.meteor-tutorial.org/book"
@@ -47,7 +55,6 @@
         "author": "David Turnbull",
         "pages": 75,
         "year": 2014,
-        "image": "your-first-meteor-application.jpg",
         "lang": "EN",
         "added_at": "20150204",
         "url": "http://meteortips.com/book"
@@ -58,7 +65,6 @@
         "author": "Arunoda Susiripala",
         "pages": 24,
         "year": 2014,
-        "image": "pro-meteor-meteor-internals-scaling-and-more.jpg",
         "lang": "EN",
         "added_at": "20150204",
         "url": "https://meteorhacks.com/ebook/pro-meteor.html"
@@ -69,7 +75,6 @@
         "author": "Arunoda Susiripala",
         "pages": 23,
         "year": 2013,
-        "image": "lets-create-a-realtime-blackboard-with-meteor-streams.jpg",
         "lang": "EN",
         "added_at": "20150204",
         "url": "https://meteorhacks.com/realtime-blackboard.html"

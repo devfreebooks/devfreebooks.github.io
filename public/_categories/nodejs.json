@@ -9,12 +9,22 @@
     "description": "Read the best free ebooks about Node.js.",
     "books": [
       {
+        "title": "Aplicações web realtime com Node.js",
+        "description": "Node.js is a powerful platform. It allows to write serve-side Javascript applications, making use of the language's syntax familiarity to write scalable applications. As Node.js makes use of an object-oriented model and events, focussed in non-blocking I/O, developing on it may be different to whom is used to traditional web applications. In this book, Caio Ribeiro Pereira breaks this wall, clearly showing this paradigm change, besides focusing in importante topics, the main API's and frameworks as Express and Socket.IO.",
+        "author": "Caio Ribeiro Pereira",
+        "pages": 185,
+        "year": 2013,
+        "paid_book": true,
+        "lang": "BR",
+        "added_at": "20190125",
+        "url": "https://www.casadocodigo.com.br/products/livro-nodejs"
+      },
+      {
         "title": "Module Patterns",
         "description": "The first short book of this series is a short introduction that sets the foundation of the next books to come. It shows what you can do with JavaScript and the Node module system to create and consume different types of modules: Singletons, Closure-based and prototype-based pseudo-classes, façades and others.",
         "author": "Pedro Teixeira",
         "pages": 37,
         "year": 2014,
-        "image": "module-patterns.jpg",
         "lang": "EN",
         "added_at": "20150214",
         "url": "https://leanpub.com/modulepatterns?a=2hxrOg_7DAAAx2pWvoaFpT"
@@ -25,7 +35,6 @@
         "author": "Caio Ribeiro Pereira",
         "pages": 137,
         "year": 2016,
-        "image": "building-apis-with-nodejs.png",
         "paid_book": true,
         "lang": "EN",
         "added_at": "20170204",
@@ -37,7 +46,6 @@
         "author": "Dale Sandle",
         "pages": 50,
         "year": 2014,
-        "image": "node-express-and-libsass-project-from-scratch-workshop.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "http://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/"
@@ -48,7 +56,6 @@
         "author": "Seth Vincent",
         "pages": 52,
         "year": 2014,
-        "image": "npm-recipes.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "https://leanpub.com/npm-recipes"
@@ -59,7 +66,6 @@
         "author": "TJ Holowaychuk",
         "pages": 85,
         "year": 2011,
-        "image": "mastering-nodejs.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "https://visionmedia.github.io/masteringnode/"
@@ -70,7 +76,6 @@
         "author": "Emanuele DelBono",
         "pages": 76,
         "year": 2016,
-        "image": "nodejs-succinctly.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/nodejs"
@@ -81,7 +86,6 @@
         "author": "Samy Pessé",
         "pages": 11,
         "year": 2014,
-        "image": "heroku-nodejs.jpg",
         "lang": "EN",
         "added_at": "20150131",
         "url": "http://samypesse.gitbooks.io/heroku-node/"

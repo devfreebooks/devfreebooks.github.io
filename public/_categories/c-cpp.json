@@ -23,7 +23,6 @@
         "url": "http://www.network-theory.co.uk/docs/gccintro/",
         "description": "This manual provides a tutorial introduction to the GNU C and C++ compilers, gcc and g++. Many books teach the C and C++ languages, this book explains how to use the compiler itself. Based on years of observation of questions posted on mailing lists, it guides the reader straight to the important options of GCC!",
         "author": "Brian J. Gough",
-        "image": "an-introduction-to-gcc.jpg",
         "pages": 144,
         "year": 2005,
         "lang": "EN",

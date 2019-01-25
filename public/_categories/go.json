@@ -44,7 +44,6 @@
         "author": "Astaxie",
         "pages": 293,
         "year": 2014,
-        "image": "build-web-application-with-golang.jpg",
         "lang": "EN, JP, FR, CH",
         "added_at": "20150312",
         "url": "https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details"
@@ -55,7 +54,6 @@
         "author": "Karl Seguin",
         "pages": 50,
         "year": 2014,
-        "image": "the-little-go-book.jpg",
         "lang": "EN",
         "added_at": "20150201",
         "url": "http://openmymind.net/The-Little-Go-Book"
@@ -66,7 +64,6 @@
         "author": "Jeremy Saenz",
         "pages": 24,
         "year": 2014,
-        "image": "building-web-apps-with-go.jpg",
         "lang": "EN",
         "added_at": "20150201",
         "url": "http://codegangsta.gitbooks.io/building-web-apps-with-go/"
@@ -77,7 +74,6 @@
         "author": "Caleb Doxsey",
         "pages": 165,
         "year": 2012,
-        "image": "an-introduction-to-programming-in-go.jpg",
         "lang": "EN",
         "added_at": "20150201",
         "url": "http://www.golang-book.com/books/intro"

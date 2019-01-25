@@ -14,7 +14,6 @@
         "author": "Dave Gurnell",
         "pages": 107,
         "year": 2016,
-        "image": "the-type-astronauts-guide-to-shapeless.jpg",
         "lang": "EN",
         "added_at": "20161117",
         "url": "https://github.com/underscoreio/shapeless-guide"
@@ -25,7 +24,6 @@
         "author": "Ryan Knight & Nilanjan Raychaudhuri",
         "pages": 6,
         "year": 2016,
-        "image": "getting-started-with-scala-dzone-refcard.jpg",
         "lang": "EN",
         "added_at": "20161111",
         "url": "https://dzone.com/refcardz/scala"
@@ -36,7 +34,6 @@
         "author": "Dave Gurnell and Noel Welsh",
         "pages": 58,
         "year": 2015,
-        "image": "creative-scala.jpg",
         "lang": "EN",
         "added_at": "20150227",
         "url": "https://gumroad.com/l/creative-scala"
@@ -47,7 +44,6 @@
         "author": "Martin Odersky",
         "pages": 145,
         "year": 2014,
-        "image": "scala-by-example.jpg",
         "lang": "EN",
         "added_at": "20150227",
         "url": "http://www.scala-lang.org/docu/files/ScalaByExample.pdf"

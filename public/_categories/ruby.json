@@ -16,7 +16,6 @@
         "pages": 60,
         "year": 2016,
         "lang": "EN",
-        "image": "ruby-web-dev-the-other-way.jpg",
         "added_at": "20161115"
       },
       {
@@ -35,7 +34,6 @@
         "author": "Reginald Braithwaite",
         "pages": 123,
         "year": 2011,
-        "image": "kestrels-quirky-birds-and-hopeless-egocentricity.jpg",
         "lang": "EN",
         "added_at": "20150218",
         "url": "https://leanpub.com/combinators"
@@ -46,7 +44,6 @@
         "author": "Tomas Varaneckas",
         "pages": 254,
         "year": 2014,
-        "image": "developing-games-with-ruby.jpg",
         "lang": "EN",
         "added_at": "20150216",
         "url": "https://leanpub.com/developing-games-with-ruby/read"
@@ -57,7 +54,6 @@
         "author": "Zed A. Shaw",
         "pages": 57,
         "year": 2014,
-        "image": "learn-ruby-the-hard-way.jpg",
         "lang": "EN",
         "added_at": "20150216",
         "url": "http://learnrubythehardway.org/book"
@@ -68,7 +64,6 @@
         "author": "Doug Wright",
         "pages": 50,
         "year": 2014,
-        "image": "rubykin.jpg",
         "lang": "EN",
         "added_at": "20150214",
         "url": "http://mrdougwright.gitbooks.io/rubykin"

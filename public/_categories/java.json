@@ -14,7 +14,6 @@
         "author": "Alan M. Souza & Fabio M. Soares",
         "pages": 244,
         "year": 2016,
-        "image": "neural-network-programming-with-java.jpg",
         "lang": "EN",
         "url": "https://www.packtpub.com/packt/free-ebook/neural-networks-java",
         "added_at": "20180216"
@@ -25,7 +24,6 @@
         "author": "Allen Downey",
         "pages": 291,
         "year": 2016,
-        "image": "think-java.jpg",
         "lang": "EN",
         "url": "http://greenteapress.com/wp/think-java/",
         "added_at": "20170315"
@@ -37,7 +35,6 @@
         "author": "Cay Hortsmann & Ivan Ivanov",
         "pages": 6,
         "year": 2016,
-        "image": "core-java-dzone-refcard.jpg",
         "lang": "EN",
         "added_at": "20161111"
       },
@@ -57,7 +54,6 @@
         "author": "Oracle",
         "pages": 780,
         "year": 2014,
-        "image": "java-language-specification-8.jpg",
         "lang": "EN",
         "added_at": "20150210",
         "url": "http://docs.oracle.com/javase/specs/jls/se8/jls8.pdf"
@@ -68,52 +64,47 @@
         "author": "Oracle",
         "pages": 626,
         "year": 2014,
-        "image": "java-virtual-machine-specification-8.jpg",
         "lang": "EN",
         "added_at": "20150210",
         "url": "http://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf"
       },
       {
-        "title": "Java and Object Oriented",
+        "title": "Java e Orientação Objetos",
         "description": "This is a free ebook which shows the main concepts about Object Oriented Programming using Java language.",
         "author": "Caelum",
         "pages": 304,
         "year": 2014,
-        "image": "java-orientacao-objetos.jpg",
-        "lang": "PT-BR",
+        "lang": "BR",
         "added_at": "20150210",
         "url": "https://www.caelum.com.br/apostila-java-orientacao-objetos"
       },
       {
-        "title": "Java for Web Developing",
+        "title": "Java para Web",
         "description": "This is a free ebook which shows the main concepts about web developing system using JavaEE.",
         "author": "Caelum",
         "pages": 284,
         "year": 2014,
-        "image": "java-web.jpg",
-        "lang": "PT-BR",
+        "lang": "BR",
         "added_at": "20150210",
         "url": "https://www.caelum.com.br/apostila-java-web"
       },
       {
-        "title": "Java Tests, JSF and Design Patterns",
+        "title": "Java Tests, JSF e Design Patterns",
         "description": "This is a free ebook which shows useful frameworks for testing, JSF for Java Web and the principles about Design Patterns for Java.",
         "author": "Caelum",
         "pages": 178,
         "year": 2014,
-        "image": "java-testes-jsf-web-services-design-patterns.jpg",
-        "lang": "PT-BR",
+        "lang": "BR",
         "added_at": "20150210",
         "url": "https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns"
       },
       {
-        "title": "Algorithms and Data Structures with Java",
+        "title": "Algoritmos e Estrutura de Dados com Java",
         "description": "This is a free ebook which shows the main algorithms and data structures examples using Java language.",
         "author": "Caelum",
         "pages": 157,
         "year": 2014,
-        "image": "java-estrutura-dados.jpg",
-        "lang": "PT-BR",
+        "lang": "BR",
         "added_at": "20150210",
         "url": "https://www.caelum.com.br/apostila-java-estrutura-dados"
       }

@@ -15,7 +15,6 @@
         "pages": 98,
         "year": 2015,
         "lang": "EN",
-        "image": "csharp-succinctly.jpg",
         "added_at": "20161110",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/csharp"
       },
@@ -26,7 +25,6 @@
         "pages": 95,
         "year": 2016,
         "lang": "EN",
-        "image": "object-oriented-programming-in-csharp-succinctly.jpg",
         "added_at": "20161110",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/oop-csharp"
       },
@@ -37,7 +35,6 @@
         "pages": 90,
         "year": 2016,
         "lang": "EN",
-        "image": "csharp-code-contracts-succinctly.jpg",
         "added_at": "20161110",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/csharpcontracts"
       },

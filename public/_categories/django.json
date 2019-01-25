@@ -14,7 +14,6 @@
         "author": "Kenneth Love",
         "pages": 1,
         "year": 2013,
-        "image": "getting-started-with-django.jpg",
         "lang": "EN",
         "added_at": "20150225",
         "url": "http://www.gettingstartedwithdjango.com/introduction-and-launch.html"
@@ -25,7 +24,6 @@
         "author": "DjangoGirls",
         "pages": 93,
         "year": 2014,
-        "image": "django-girls.jpg",
         "lang": "EN",
         "added_at": "20150214",
         "url": "http://djangogirls.gitbooks.io/djangogirls-tutorial"

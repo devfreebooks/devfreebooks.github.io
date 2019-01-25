@@ -3,15 +3,15 @@
 meta(http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1")
 meta(charset="utf-8")
 title #{page_title}
-meta(name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no")
+meta(name="viewport" content="width=device-width, initial-scale=1")
 meta(name="apple-mobile-web-app-capable" content="yes")
-meta(name="apple-mobile-web-app-status-bar-style" content="#333333")
+meta(name="apple-mobile-web-app-status-bar-style" content="#{header_color}")
 meta(name="apple-mobile-web-app-title" content="#{title}")
 meta(name="mobile-web-app-capable" content="yes")
 meta(name="application-name" content="#{title}")
-meta(name="theme-color" content="#333333")
+meta(name="theme-color" content="#{header_color}")
 meta(name="msapplication-TileImage" content="#{root_url[environment]}assets/images/#{slug_title}-128.png")
-meta(name="msapplication-TileColor" content="#333333")
+meta(name="msapplication-TileColor" content="#{header_color}")
 meta(name="msapplication-tap-highlight" content="no")
 meta(name="author" content="#{title}")
 meta(name="description" content="#{description}")
@@ -21,13 +21,35 @@ meta(property="og:url" content="#{root_url[environment]}")
 meta(property="og:site_name" content="#{title}")
 meta(property="og:image" content="#{root_url[environment]}assets/images/#{slug_title}-thumb.png")
 meta(property="og:type" content="website")
-meta(name="google-site-verification" content="57vcywZyI5D313Nwa4fNZJKGhqXTW8wwnl9xfcx58zw")
+meta(name="twitter:card" content="summary")
+meta(name="twitter:url" content="#{page_url}")
+meta(name="twitter:title" content="#{page_title}")
+meta(name="twitter:description" content="#{description}")
+meta(name="twitter:image" content="#{root_url[environment]}assets/images/#{slug_title}-128.png")
+meta(name="twitter:site" content="#{title}")
+meta(name="twitter:creator" content="@#{twitter}")
+meta(name="google-site-verification" content="#{google_search_console}")
 link(rel="manifest" href="#{root_url[environment]}manifest.json")
+link(rel="preload" href="#{root_url[environment]}assets/css/application.css" as="style")
 link(rel="stylesheet" href="#{root_url[environment]}assets/css/application.css" type="text/css")
 link(rel="icon" href="#{root_url[environment]}assets/images/#{slug_title}-128.png" sizes="128x128")
 link(rel="shortcut icon" href="#{root_url[environment]}favicon.ico" type="image/x-icon")
 link(rel="canonical" href="#{page_url}")
-!= "<!--[if lt IE 8]>"
-  script(src="#{root_url[environment]}assets/js/aightjs.min.js")
-  script(src="#{root_url[environment]}assets/js/html5shiv.min.js")
-!= "<![endif]-->"
+script(type="application/ld+json").
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "#{page_title}",
+    "author": {
+      "@type": "Author",
+      "name": "#{title}"
+    },
+    "description": "#{description}",
+    "url": "#{page_url}",
+    "image": "#{root_url[environment]}assets/images/#{slug_title}-thumb.png",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "#{email}",
+      "contactType": "Support"
+    }
+  }

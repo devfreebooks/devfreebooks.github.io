@@ -1,15 +1,8 @@
-header.header
-  nav.navbar.navbar-inverse.navbar-fixed-top(role="navigation")
-    div.navbar-header
-      button.navbar-toggle(type="button")
-        span.icon-bar
-        span.icon-bar
-        span.icon-bar
-      a.navbar-brand(href="#{root_url[environment]}")
-        img.img-responsive(src="#{root_url[environment]}assets/images/#{slug_title}.png" width="180" alt="#{title} - #{description}" title="#{title} - #{description}")
-    div.navbar-right.navbar-collapse.hidden-xs
-      ul.nav.navbar-nav
-        li
-          a.navbar-link(href="#{devnewsletters.url}" target="_blank" title="#{devnewsletters.about}" rel="me") <i class="icon-play"></i>&nbsp;#{devnewsletters.title}
-        li
-          a.navbar-link(href="#{root_url[environment]}about") <i class="icon-user-circle"></i>&nbsp;About
+header(uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky")
+  nav.uk-navbar-container.uk-container-expand(uk-navbar="mode: click" style="background-color: #{header_color}")
+    div.uk-navbar-left(style="float:left")
+      a.uk-navbar-item.uk-logo(href="#{root_url[environment]}" title="#{title}" rel="me")
+        img(src="#{root_url[environment]}assets/images/#{slug_title}.png" width="175" alt="#{description}")
+    div.uk-navbar-right(style="float:right")
+      .uk-navbar-item
+        a.uk-button.uk-button-secondary(href="#{root_url[environment]}about" rel="me" title="About #{title}") About
