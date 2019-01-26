@@ -2,8 +2,9 @@
 www
 node_modules
 .grunt
-!public/_categories/*
 npm-debug.log
 public/_data.json
 public/rss.xml
+!public/about/index.jade
 public/**/_data.json
+public/**/index.jade

@@ -1,19 +1,19 @@
-section.uk-section.uk-padding-small(class="uk-child-width-1-2@s uk-child-width-1-3@m uk-grid" style="background-color:#{header_color}")
-  div.uk-text-center.uk-light.uk-padding-small
+section.uk-section.uk-padding-small(class="uk-flex uk-flex-center uk-align-center" style="background-color:#{header_color}" uk-grid="")
+  div.uk-text-center.uk-light.uk-padding-small(class="uk-width-1-3@m uk-width-1-1@s")
     span Share us
     br
     a.uk-icon-button.uk-margin-small-right(style="background-color:#3B5999" target="_blank" rel="nofollow" href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(root_url[environment])}&t=#{encodeURIComponent(title)}" uk-icon="facebook")
     a.uk-icon-button.uk-margin-small-right(style="background-color:#55ACEE" target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet?text=#{encodeURIComponent(title)}%20#{encodeURIComponent(description)}%20#{encodeURIComponent(root_url[environment])}" uk-icon="twitter")
     a.uk-icon-button.uk-margin-small-right(style="background-color:#0077B5" target="_blank" rel="nofollow" href="https://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(root_url[environment])}&title=#{encodeURIComponent(title)}&summary=#{description}&source=#{title}" uk-icon="linkedin")
     a.uk-icon-button.uk-margin-small-right(style="background-color:#25D366" target="_blank" rel="nofollow" href="whatsapp://send?text=#{encodeURIComponent(title)}%20#{encodeURIComponent(description)}%20#{encodeURIComponent(root_url[environment])}" uk-icon="whatsapp")
-  div.uk-text-center.uk-light.uk-padding-small
+  div.uk-text-center.uk-light.uk-padding-small(class="uk-width-1-3@m uk-width-1-1@s")
     span Follow us
     br
     a.uk-icon-button.uk-margin-small-right(style="background-color:#F57D00" target="_blank" rel="nofollow" href="http://feeds.feedburner.com/#{title}" uk-icon="rss")
     a.uk-icon-button.uk-margin-small-right(style="background-color:#55ACEE" target="_blank" rel="nofollow" href="https://twitter.com/#{twitter}" uk-icon="twitter")
     a.uk-icon-button.uk-margin-small-right(style="background-color:#DA552F;text-decoration:none" target="_blank" rel="nofollow" href="https://www.producthunt.com/posts/#{slug_title}") P
     a.uk-icon-button.uk-margin-small-right(target="_blank" rel="nofollow" href="#{github_url}" uk-icon="github")
-  div.uk-text-center.uk-padding-small
+  div.uk-text-center.uk-padding-small(class="uk-width-1-3@m uk-width-1-1@s")
     span.uk-light Submit your book
     br
     a.uk-button.uk-button-primary.uk-margin-small-right.uk-margin-small-bottom(href="#{root_url[environment]}about" rel="me") Advertise
