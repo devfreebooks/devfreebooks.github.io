@@ -19,7 +19,7 @@
         "url": "http://goalkicker.com/JavaScriptBook/"
       },
       {
-        "title": "JavaScript Awesome Tips (Br Version)",
+        "title": "JavaScript Dicas Incríveis",
         "description": "This is a cookbook with a collection of useful tips and tricks to apply in JavaScript/Node.js, each tip shows a problem and some magical solutions in pratical codes.",
         "author": "Caio R Pereira",
         "pages": 40,
@@ -27,7 +27,7 @@
         "paid_book": true,
         "lang": "BR",
         "added_at": "20180626",
-        "url": "https://leanpub.com/javascript-awesome-tips-br-version"
+        "url": "https://leanpub.com/javascript-dicas-incriveis"
       },
       {
         "title": "Thinking in JavaScript",
