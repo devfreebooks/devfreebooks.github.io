@@ -1,0 +1,43 @@
+{
+  "index": {
+    "name": "ai",
+    "subtitle": "Artificial Intelligence",
+    "tags": ["ai"],
+    "about": "In computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals. Computer science defines AI research as the study of \"intelligent agents\": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.",
+    "site": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "image": "ai.jpg",
+    "description": "Read the best free ebooks about Artificial Intelligence.",
+    "books": [
+      {
+        "title": "Artificial Intelligence with Python",
+        "description": "Artificial Intelligence is becoming increasingly relevant in the modern world where everything is driven by technology and data. It is used extensively across many fields such as search engines, image recognition, robotics, finance, and so on. We will explore various real-world scenarios in this book and you’ll learn about various algorithms that can be used to build Artificial Intelligence applications.",
+        "author": "Prateek Joshi",
+        "pages": 446,
+        "year": 2017,
+        "lang": "EN",
+        "added_at": "20190125",
+        "url": "https://www.packtpub.com/packt/free-ebook/python-ai"
+      },
+      {
+        "title": "Advanced Machine Learning with Python",
+        "description": "Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python.",
+        "author": "John Hearty",
+        "pages": 278,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20180627",
+        "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning"
+      },
+      {
+        "title": "Building Machine Learning Systems with Python",
+        "description": "Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need.",
+        "author": "Willi Richert & Luis Pedro Coelho",
+        "pages": 290,
+        "year": 2013,
+        "lang": "EN",
+        "added_at": "20180216",
+        "url": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "index": {
+    "name": "flutter",
+    "subtitle": "Flutter",
+    "tags": ["mobile"],
+    "about": "Flutter is an open-source mobile application development SDK created by Google. It is used to develop applications for Android and iOS, as well as being the primary method of creating applications for Google Fuchsia.",
+    "site": "https://flutter.io",
+    "image": "flutter.jpg",
+    "description": "Read the best free ebooks about Flutter mobile platform.",
+    "books": [
+      {
+        "title": "Flutter Cookbook",
+        "description": "This cookbook contains recipes that demonstrate how to solve common problems while writing Flutter apps. Each recipe is self-contained and can be used as a reference to help you build up an application.",
+        "author": "Google",
+        "pages": 56,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190126",
+        "url": "https://flutter.io/docs/cookbook"
+      }
+    ]
+  }
+}

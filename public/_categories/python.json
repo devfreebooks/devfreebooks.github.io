@@ -9,16 +9,6 @@
     "description": "Read the best free ebooks about Python language.",
     "books": [
       {
-        "title": "Artificial Intelligence with Python",
-        "description": "Artificial Intelligence is becoming increasingly relevant in the modern world where everything is driven by technology and data. It is used extensively across many fields such as search engines, image recognition, robotics, finance, and so on. We will explore various real-world scenarios in this book and you’ll learn about various algorithms that can be used to build Artificial Intelligence applications.",
-        "author": "Prateek Joshi",
-        "pages": 446,
-        "year": 2017,
-        "lang": "EN",
-        "added_at": "20190125",
-        "url": "https://www.packtpub.com/packt/free-ebook/python-ai"
-      },
-      {
         "title": "Raspberry Pi cookbook for Python Programmers",
         "description": "The Raspberry Pi Cookbook has over 50 tailor-made recipes for programmers to get the most out of Raspberry Pi using Python to unleash its huge potential.",
         "author": "Tim Cox",
@@ -49,16 +39,6 @@
         "url": "https://www.packtpub.com/free-ebook/mastering-python"
       },
       {
-        "title": "Advanced Machine Learning with Python",
-        "description": "Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python.",
-        "author": "John Hearty",
-        "pages": 278,
-        "year": 2016,
-        "lang": "EN",
-        "added_at": "20180627",
-        "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning"
-      },
-      {
         "title": "Python Data Science Handbook",
         "description": "Essential Tools for Working with Data",
         "author": "Jake VanderPlas",
@@ -67,16 +47,6 @@
         "lang": "EN",
         "added_at": "20180627",
         "url": "https://jakevdp.github.io/PythonDataScienceHandbook/"
-      },
-      {
-        "title": "Building Machine Learning Systems with Python",
-        "description": "Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need.",
-        "author": "Willi Richert & Luis Pedro Coelho",
-        "pages": 290,
-        "year": 2013,
-        "lang": "EN",
-        "added_at": "20180216",
-        "url": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms"
       },
       {
         "title": "Learning Python",
