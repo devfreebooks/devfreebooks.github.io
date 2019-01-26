@@ -1,0 +1,24 @@
+- let sponsored_books = [];
+- categories.forEach((c) => {
+-   const category = public[c]._data.index;
+-   const paid_books = category.books.filter(b => b.paid_book).map(b => Object.assign(b, { category_image: category.image }));
+-   if (paid_books && paid_books.length) {
+-     sponsored_books = sponsored_books.concat(paid_books);
+-   }
+- });
+p.uk-text-bold Sponsored books
+div(uk-slider="finite: true; autoplay: true")
+  ul(class="uk-slider-items uk-child-width-1-2@s uk-child-width-1-3@m uk-grid")
+    each book in sponsored_books
+      - const book_url = book.url + (book.url.indexOf('?') >= 0 ? '&' : '?') + utm;
+      li
+        div.uk-card.uk-card-default.uk-box-shadow-medium
+          div.uk-card-header.uk-padding-small
+            a.uk-button-text(href="#{book_url}" rel="colleague" target="_blank" title="#{book.title}") 
+              div.uk-grid-small.uk-flex-middle(uk-grid="")
+                div.uk-width-auto
+                  img.uk-border-rounded(src="#{root_url[environment]}assets/images/#{book.category_image}" width="100")
+                div.uk-width-expand
+                  h6.uk-text-bold.uk-margin-remove-bottom #{book.title}
+                  p.uk-text-meta.uk-margin-remove-top Pages: #{book.pages} | Year: #{book.year} | Lang: #{book.lang}
+  ul.uk-slider-nav.uk-dotnav.uk-flex-center.uk-margin

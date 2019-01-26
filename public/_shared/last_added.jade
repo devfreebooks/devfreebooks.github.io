@@ -1,0 +1,25 @@
+- let all_books = [];
+- categories.forEach((c) => {
+-   const category = public[c]._data.index;
+-   const books = category.books.map(b => Object.assign(b, { category_image: category.image }))
+-   all_books = all_books.concat(books);
+- });
+- const last_added_books = all_books.sort((a,b) => {
+-   if (Number(a.added_at) < Number(b.added_at)) return 1;
+-   if (Number(a.added_at) > Number(b.added_at)) return -1;
+-   return 0;
+- });
+- last_added_books.length = 20;
+p.uk-text-bold Last added
+  div.uk-panel.uk-panel-scrollable.uk-padding-remove
+    ul.uk-list.uk-list-striped
+      each book in last_added_books
+        - const book_url = book.url + (book.url.indexOf('?') >= 0 ? '&' : '?') + utm;
+        li
+          a.uk-button-text(href="#{book_url}" rel="colleague" target="_blank" title="#{book.title}") 
+            div.uk-grid-small.uk-flex-middle(uk-grid="")
+              div.uk-width-auto
+                img.uk-border-rounded(src="#{root_url[environment]}assets/images/#{book.category_image}" width="64")
+              div.uk-width-expand
+                h6.uk-text-bold.uk-margin-remove-bottom #{book.title}
+                p.uk-text-meta.uk-margin-remove-top Pages: #{book.pages} | Lang: #{book.lang}<br>Added: #{book.added_at.replace(/^([0-9]{4})([0-9]{2})([0-9]{2})$/, '$1-$2-$3')}
