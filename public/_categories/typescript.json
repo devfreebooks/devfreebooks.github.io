@@ -2,7 +2,7 @@
   "index": {
     "name": "typescript",
     "subtitle": "TypeScript",
-    "tags": ["frontend", "language"],
+    "tags": ["frontend"],
     "about": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
     "site": "http://www.typescriptlang.org",
     "image": "typescript.jpg",

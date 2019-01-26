@@ -2,7 +2,7 @@
   "index": {
     "name": "vim",
     "subtitle": "Vim",
-    "tags": ["tool"],
+    "tags": ["tools"],
     "about": "Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.",
     "site": "http://www.vim.org",
     "image": "vim.jpg",

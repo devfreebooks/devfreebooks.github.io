@@ -2,7 +2,7 @@
   "index": {
     "name": "c-cpp",
     "subtitle": "C/C++",
-    "tags": ["language", "backend"],
+    "tags": ["language"],
     "about": "C is a powerful system programming language, and C++ is an excellent general purpose programming language with modern bells and whistles.",
     "site": "https://isocpp.org",
     "image": "c_cpp.jpg",

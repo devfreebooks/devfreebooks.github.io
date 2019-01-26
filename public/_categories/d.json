@@ -2,7 +2,7 @@
   "index": {
     "name": "d",
     "subtitle": "D",
-    "tags": ["language", "backend"],
+    "tags": ["language"],
     "about": "D is a systems programming language with C-like syntax and static typing. It combines efficiency, control and modeling power with safety and programmer productivity.",
     "site": "https://dlang.org/",
     "image": "d.jpg",
