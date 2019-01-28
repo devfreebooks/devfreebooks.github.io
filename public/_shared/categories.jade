@@ -11,16 +11,15 @@ div(uk-filter="target: .js-filter")
     each tag in tags.sort()
       li(uk-filter-control="[data-tags*='#{tag}']")
         a.uk-button.uk-button-default.uk-margin-small-bottom(href="#") #{tag.replace(/\-/g, ' ').toUpperCase()}
-  ul(class="uk-text-center uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@l uk-grid uk-light js-filter" uk-grid="")
+  ul(class="uk-text-center uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@l uk-grid uk-light js-filter" uk-grid)
     each category in categories.sort()
       - const category_data = public[category]._data.index;
       - const tags = category_data.tags.join(' ').trim();
       li(data-tags="#{tags}")
         div
-          div.uk-card.uk-card-default.uk-box-shadow-small
+          div.uk-card.uk-card-default.uk-box-shadow-medium
             a(href="#{root_url[environment]}#{category_data.name}" title="#{category_data.about}" rel="me")
               div.uk-card-media-top.uk-overflow-hidden.uk-animation-toggle(tabindex="0")
                 img(src="#{root_url[environment]}assets/images/#{category_data.image}" alt="#{category_data.subtitle}" uk-scrollspy="cls: uk-animation-kenburns; repeat: true")
-              div.uk-card-footer
-                p.uk-align-center
-                  span.uk-label #{category_data.subtitle} (#{category_data.books.length} books)
+              div.uk-card-footer.uk-text-center
+                p.uk-label #{category_data.subtitle} (#{category_data.books.length} books)

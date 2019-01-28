@@ -11,6 +11,7 @@
     "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSeXsmlLo3S7lJF82LGTOMoMpA4vg_T38Ez47gQoU6P6KaFwQg/viewform",
     "hackernews_id": "12909967",
     "header_color": "#333333",
+    "highlight_color": "#ffeaa7",
     "google_search_console": "57vcywZyI5D313Nwa4fNZJKGhqXTW8wwnl9xfcx58zw",
     "root_url": {
       "development": "http://localhost:3000/",

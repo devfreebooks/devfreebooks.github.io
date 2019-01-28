@@ -20,7 +20,7 @@ section.uk-padding.uk-padding-small
   ul.uk-list.uk-list-striped
     each book in sorted_books
       - const book_url = book.url + (book.url.indexOf("?") >= 0 ? "&" : "?") + utm;
-      li
+      li(style="background-color:#{book.paid_book ? highlight_color : 'transparent' }")
         a.uk-button-text(style="text-decoration:none" href="#{book_url}" rel="colleague" target="_blank" title="#{book.title}" onclick="ga('send', 'event', '#{book.paid_book ? 'Paid Books' : 'Books'}', '#{subtitle}', '#{book.title}');") 
           div.uk-grid-small.uk-flex-top(uk-grid="")
             div.uk-width-auto

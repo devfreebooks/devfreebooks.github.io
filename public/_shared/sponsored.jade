@@ -12,7 +12,7 @@ div(uk-slider="finite: true; autoplay: true")
     each book in sponsored_books
       - const book_url = book.url + (book.url.indexOf('?') >= 0 ? '&' : '?') + utm;
       li
-        div.uk-card.uk-card-default.uk-box-shadow-medium
+        div.uk-card.uk-card-default.uk-box-shadow-medium(style="background-color:#{highlight_color}")
           div.uk-card-header.uk-padding-small
             a.uk-button-text(href="#{book_url}" rel="colleague" target="_blank" title="#{book.title}") 
               div.uk-grid-small.uk-flex-middle(uk-grid="")
