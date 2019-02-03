@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about React.",
     "books": [
       {
+        "title": "The React Handbook",
+        "description": "The React Handbook follows the 80/20 rule: learn in 20% of the time the 80% of a topic. I find this approach gives a well-rounded overview. This book does not try to cover everything under the sun related to React.",
+        "author": "Flavio Copes",
+        "pages": 220,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190203",
+        "url": "https://flaviocopes.com/page/ebooks/"
+      },
+      {
         "title": "SurviveJS React",
         "description": "Learn React while building a Kanban application. Beginner-intermediate.",
         "author": "Juho Vepsäläinen",

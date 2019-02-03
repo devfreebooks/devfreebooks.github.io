@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about JavaScript language.",
     "books": [
       {
+        "title": "The JavaScript Handbook",
+        "description": "JavaScript is one of the most popular programming languages in the world, and now widely used also outside of the browser. The rise of Node.js in the last few years unlocked backend development, once the domain of Java, Ruby, Python, PHP, and more traditional server-side languages. Learn all about it!",
+        "author": "Flavio Copes",
+        "pages": 171,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190203",
+        "url": "https://flaviocopes.com/page/ebooks/"
+      },
+      {
         "title": "JavaScript Notes for Professionals book",
         "description": "The JavaScript Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA.",
         "author": "GoalKicker",

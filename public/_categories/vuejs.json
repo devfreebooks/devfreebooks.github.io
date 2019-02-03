@@ -1,0 +1,23 @@
+{
+  "index": {
+    "name": "vuejs",
+    "subtitle": "VueJS",
+    "tags": ["framework", "frontend"],
+    "about": "Vue is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.",
+    "site": "https://vuejs.org/",
+    "image": "vuejs.jpg",
+    "description": "Read the best free ebooks about VueJS framework.",
+    "books": [
+      {
+        "title": "The Vue Handbook",
+        "description": "Vue is a very impressive project. It's a very popular JavaScript framework, one that's experiencing a huge growth. In this book you will learn how to use the essential of this simple, tiny and very performant JavaScript framework.",
+        "author": "Flavio Copes",
+        "pages": 122,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190103",
+        "url": "https://vuehandbook.com/"
+      }
+    ]
+  }
+}

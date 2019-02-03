@@ -9,6 +9,26 @@
     "description": "Read the best free ebooks about Node.js.",
     "books": [
       {
+        "title": "The Node.js Handbook",
+        "description": "This book is a getting started guide to Node.js, the server-side JavaScript runtime environment. Node.js is built on top of the Google Chrome V8 JavaScript engine, and it's mainly used to create web servers",
+        "author": "Flavio Copes",
+        "pages": 189,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190203",
+        "url": "https://flaviocopes.com/page/ebooks/"
+      },
+      {
+        "title": "The Express.js Handbook",
+        "description": "Express is a Node.js Web Framework. Node.js is an amazing tool for building networking services and applications. Express builds on top of its features to provide easy to use functionality that satisfy the needs of the Web Server use case.",
+        "author": "Flavio Copes",
+        "pages": 61,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190203",
+        "url": "https://flaviocopes.com/page/ebooks/"
+      },
+      {
         "title": "Construindo APIs testáveis com Node.js",
         "description": "This ebook uses best practices examples about how to build Node.js and tests APIs; This is a guide for beginners and advanced developers.",
         "author": "Waldemar Neto",
