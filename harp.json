@@ -22,6 +22,11 @@
       "about": "A collection of newsletters for developers subscribe",
       "url": "https://devnewsletters.github.io?utm_source=devfreebooks"
     },
+    "codebanca": {
+      "title": "Codebanca",
+      "about": "A newsletter app for developers and software engineers",
+      "url": "https://codebanca.com?utm_source=devfreebooks"
+    },
     "watchcoins": {
       "title": "WatchCoins",
       "about": "Track bitcoins/altcoins quotations in realtime",
