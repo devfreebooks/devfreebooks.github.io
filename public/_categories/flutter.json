@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about Flutter mobile platform.",
     "books": [
       {
+        "title": "Flutter Tutorials Handbook",
+        "description": "This cookbook contains recipes that demonstrate how to solve common problems while writing Flutter apps. Each recipe is self-contained and can be used as a reference to help you build up an application.",
+        "author": "Raunak Hajela",
+        "pages": 43,
+        "year": 2018,
+        "lang": "EN",
+        "added_at": "20190214",
+        "url": "https://kodestat.gitbook.io/flutter/"
+      },
+      {
         "title": "Flutter Cookbook",
         "description": "This cookbook contains recipes that demonstrate how to solve common problems while writing Flutter apps. Each recipe is self-contained and can be used as a reference to help you build up an application.",
         "author": "Google",
