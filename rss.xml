@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for devs]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 14 Feb 2019 20:59:12 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 14 Feb 2019 20:59:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: Flutter Tutorials Handbook]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for devs]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 21 Feb 2019 00:49:52 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 21 Feb 2019 00:49:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: Flutter Tutorials Handbook]]></title><description><![CDATA[
         <article>
           <p>
             This cookbook contains recipes that demonstrate how to solve common problems while writing Flutter apps. Each recipe is self-contained and can be used as a reference to help you build up an application.
@@ -268,17 +268,17 @@
             Lang: <b>EN</b> | Pages: <b>180</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-essentials</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-essentials</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 27 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Sponsored book: JavaScript Dicas Incríveis]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-essentials</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-essentials</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 27 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Sponsored book: JavaScript Awesome Tips]]></title><description><![CDATA[
         <article>
           <p>
             This is a cookbook with a collection of useful tips and tricks to apply in JavaScript/Node.js, each tip shows a problem and some magical solutions in pratical codes.
             <br />
             Author: <b>Caio R Pereira</b> | Category: <b>JavaScript</b>
             <br />
-            Lang: <b>BR</b> | Pages: <b>40</b> | Year: <b>2018</b>
+            Lang: <b>BR</b> | Pages: <b>50</b> | Year: <b>2018</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-dicas-incrveis</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-dicas-incrveis</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 26 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building Machine Learning Systems with Python]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-awesome-tips</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-awesome-tips</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 26 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building Machine Learning Systems with Python]]></title><description><![CDATA[
         <article>
           <p>
             Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need.
