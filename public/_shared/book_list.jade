@@ -16,6 +16,7 @@ section.uk-padding.uk-padding-small
       h3.uk-text-large.uk-text-bold.uk-margin-remove-bottom #{subtitle}
       p.uk-text-meta.uk-margin-remove-top #{about}<br>Site: <a class="uk-button-text" href="#{site}" target="_blank">#{site}</a>
 section.uk-padding.uk-padding-small
+  != partial("ads_banner")
   p.uk-text-bold Book list
   ul.uk-list.uk-list-striped
     each book in sorted_books
@@ -34,3 +35,4 @@ section.uk-padding.uk-padding-small
                 button.uk-button.uk-button-primary Sponsored book
               else
                 button.uk-button.uk-button-default Free book
+  != partial("ads_banner")
