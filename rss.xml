@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for devs]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 18 Sep 2020 21:13:07 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 18 Sep 2020 21:13:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Sponsored book: Beginning App Development with Flutter: Create Cross-Platform Mobile Apps]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for devs]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 18 Sep 2020 22:40:39 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 18 Sep 2020 22:40:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: Flutter Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            In Flutter Succinctly, Ed Freitas will take you through creating a fully functional app to help you assess whether Flutter is the right choice for your mobile development needs.
+            <br />
+            Author: <b>Ed Freitas</b> | Category: <b>Flutter</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>129</b> | Year: <b>2019</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/flutter/#flutter-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/flutter/#flutter-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Sep 2020 03:00:00 GMT</pubDate></item><item><title><![CDATA[Sponsored book: Beginning App Development with Flutter: Create Cross-Platform Mobile Apps]]></title><description><![CDATA[
         <article>
           <p>
             This book breaks down complex concepts and tasks into easily digestible segments with examples, pictures, and hands-on labs with starters and solutions.
@@ -8,7 +18,47 @@
             Lang: <b>EN</b> | Pages: <b>336</b> | Year: <b>2019</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/flutter/#beginning-app-development-with-flutter-create-crossplatform-mobile-apps</link><guid isPermaLink="true">https://devfreebooks.github.io/flutter/#beginning-app-development-with-flutter-create-crossplatform-mobile-apps</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Sep 2020 03:00:00 GMT</pubDate></item><item><title><![CDATA[Sponsored book: Pro React 16]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/flutter/#beginning-app-development-with-flutter-create-crossplatform-mobile-apps</link><guid isPermaLink="true">https://devfreebooks.github.io/flutter/#beginning-app-development-with-flutter-create-crossplatform-mobile-apps</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Sep 2020 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Java Web Scraping Handbook]]></title><description><![CDATA[
+        <article>
+          <p>
+            This book will teach you how to extract data from any website with Java, how to deal with AJAX / Javascript heavy websites, break captchas, deploy your scrapers in the cloud and many other advanced techniques.
+            <br />
+            Author: <b>Kevin Sahin</b> | Category: <b>Java</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>130</b> | Year: <b>2019</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/java/#the-java-web-scraping-handbook</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#the-java-web-scraping-handbook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Sep 2020 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building Browser Extension]]></title><description><![CDATA[
+        <article>
+          <p>
+            Get Started with Cross Browser WebExtension Development using Javascript API's.
+            <br />
+            Author: <b>Viswaprasath</b> | Category: <b>JavaScript</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>74</b> | Year: <b>2018</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/javascript/#building-browser-extension</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#building-browser-extension</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Sep 2020 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript RegExp]]></title><description><![CDATA[
+        <article>
+          <p>
+            Scripting and automation tasks often need to extract particular portions of text from input data or modify them from one format to another. This book will help you learn JavaScript Regular Expressions, a mini-programming language for all sorts of text processing needs.
+            <br />
+            Author: <b>Sundeep Agarwal</b> | Category: <b>JavaScript</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>80</b> | Year: <b>2020</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-regexp</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-regexp</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Sep 2020 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Introduction to Computer Networking]]></title><description><![CDATA[
+        <article>
+          <p>
+            This in-depth eBook is the definitive resource for perfecting computer networking fundamentals.Perfect for anyone interested in cyber security, network engineering or ethical hacking!
+            <br />
+            Author: <b>Potato Pirates</b> | Category: <b>Python</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>90</b> | Year: <b>2019</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/python/#introduction-to-computer-networking</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#introduction-to-computer-networking</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Sep 2020 03:00:00 GMT</pubDate></item><item><title><![CDATA[Sponsored book: Pro React 16]]></title><description><![CDATA[
         <article>
           <p>
             Best-selling author Adam Freeman explains how to get the most from React. He begins by describing the React architecture and the benefits it offers and then shows you how to use React and its associated tools and libraries in your projects, starting from the nuts and bolts and building up to the most advanced and sophisticated features, going in-depth to give you the knowledge you need.
@@ -78,17 +128,7 @@
             Lang: <b>EN</b> | Pages: <b>56</b> | Year: <b>2018</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/flutter/#flutter-cookbook</link><guid isPermaLink="true">https://devfreebooks.github.io/flutter/#flutter-cookbook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 26 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Artificial Intelligence with Python]]></title><description><![CDATA[
-        <article>
-          <p>
-            Artificial Intelligence is becoming increasingly relevant in the modern world where everything is driven by technology and data. It is used extensively across many fields such as search engines, image recognition, robotics, finance, and so on. We will explore various real-world scenarios in this book and you’ll learn about various algorithms that can be used to build Artificial Intelligence applications.
-            <br />
-            Author: <b>Prateek Joshi</b> | Category: <b>Artificial Intelligence</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>446</b> | Year: <b>2017</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/ai/#artificial-intelligence-with-python</link><guid isPermaLink="true">https://devfreebooks.github.io/ai/#artificial-intelligence-with-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SQL Server for C# Developers Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/flutter/#flutter-cookbook</link><guid isPermaLink="true">https://devfreebooks.github.io/flutter/#flutter-cookbook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 26 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SQL Server for C# Developers Succinctly]]></title><description><![CDATA[
         <article>
           <p>
             Developers of C# applications with a SQL Server database can learn to connect to a database using classic ADO.NET and look at different methods of developing databases using the Entity Framework. This book addresses common pitfalls, why databases run slowly, how to troubleshoot performance issues, and how to test and deploy SQL Server databases. The first half has a focus on C# and development while the second half focuses on troubleshooting using the SQL Server tools.
@@ -108,17 +148,7 @@
             Lang: <b>EN</b> | Pages: <b>122</b> | Year: <b>2018</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/html/#html5-notes-for-professionals-book</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#html5-notes-for-professionals-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Swift Essentials - 2nd Edition]]></title><description><![CDATA[
-        <article>
-          <p>
-            Swift was considered one of the biggest innovations last year, and certainly with Swift 2 announced at WWDC in 2015, this segment of the developer space will continue to be hot and dominating. This is a fast-paced guide to provide an overview of Swift programming and then walks you through in detail how to write iOS applications. Progress through chapters on custom views, networking, parsing and build a complete application as a Git repository, all by using Swift as the core language
-            <br />
-            Author: <b>Dr Alex Blewitt</b> | Category: <b>iOS</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>248</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/ios/#swift-essentials--2nd-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#swift-essentials--2nd-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Notes for Professionals book]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/html/#html5-notes-for-professionals-book</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#html5-notes-for-professionals-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Notes for Professionals book]]></title><description><![CDATA[
         <article>
           <p>
             The JavaScript Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA.
@@ -128,17 +158,7 @@
             Lang: <b>EN</b> | Pages: <b>480</b> | Year: <b>2018</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-notes-for-professionals-book</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-notes-for-professionals-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Meteor - Construindo aplicações realtime com JavaScript]]></title><description><![CDATA[
-        <article>
-          <p>
-            JavaScript is nowadays a real choice for building server-side applications. Work with the same front-end language is a great advantage too. There are a lot of full-stack web frameworks, but Meteor is one that stand out. In this book, you will learn how to create a real-time social network, exploring the main native components of Meteor. Technically, you will learn how to build amazing templates using Handlebars, how to use Facebook API for sign-in and sign-up users, how to persist data into NoSQL MongoDB and how to develop an application using advanced concepts of reactive programming and Meteor PubSub.
-            <br />
-            Author: <b>Caio Ribeiro Pereira</b> | Category: <b>Meteor</b>
-            <br />
-            Lang: <b>BR</b> | Pages: <b>153</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#meteor--construindo-aplicaes-realtime-com-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#meteor--construindo-aplicaes-realtime-com-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Construindo APIs testáveis com Node.js]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-notes-for-professionals-book</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-notes-for-professionals-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Construindo APIs testáveis com Node.js]]></title><description><![CDATA[
         <article>
           <p>
             This ebook uses best practices examples about how to build Node.js and tests APIs; This is a guide for beginners and advanced developers.
@@ -168,37 +188,7 @@
             Lang: <b>EN</b> | Pages: <b>440</b> | Year: <b>2017</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/perl6/#think-perl-6--how-to-think-like-a-computer-scientist</link><guid isPermaLink="true">https://devfreebooks.github.io/perl6/#think-perl-6--how-to-think-like-a-computer-scientist</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Raspberry Pi cookbook for Python Programmers]]></title><description><![CDATA[
-        <article>
-          <p>
-            The Raspberry Pi Cookbook has over 50 tailor-made recipes for programmers to get the most out of Raspberry Pi using Python to unleash its huge potential.
-            <br />
-            Author: <b>Tim Cox</b> | Category: <b>Python</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>402</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#raspberry-pi-cookbook-for-python-programmers</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#raspberry-pi-cookbook-for-python-programmers</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mastering Python]]></title><description><![CDATA[
-        <article>
-          <p>
-            Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offers
-            <br />
-            Author: <b>Rick van Hattem</b> | Category: <b>Python</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>486</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#mastering-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#mastering-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mastering Python]]></title><description><![CDATA[
-        <article>
-          <p>
-            Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offers
-            <br />
-            Author: <b>Rick van Hattem</b> | Category: <b>Python</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>486</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#mastering-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#mastering-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: TypeScript Notes for Professionals book]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/perl6/#think-perl-6--how-to-think-like-a-computer-scientist</link><guid isPermaLink="true">https://devfreebooks.github.io/perl6/#think-perl-6--how-to-think-like-a-computer-scientist</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 25 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: TypeScript Notes for Professionals book]]></title><description><![CDATA[
         <article>
           <p>
             The TypeScript Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters.
@@ -218,57 +208,7 @@
             Lang: <b>EN</b> | Pages: <b>122</b> | Year: <b>2018</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/vuejs/#the-vue-handbook</link><guid isPermaLink="true">https://devfreebooks.github.io/vuejs/#the-vue-handbook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 03 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Advanced Machine Learning with Python]]></title><description><![CDATA[
-        <article>
-          <p>
-            Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python.
-            <br />
-            Author: <b>John Hearty</b> | Category: <b>Artificial Intelligence</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>278</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/ai/#advanced-machine-learning-with-python</link><guid isPermaLink="true">https://devfreebooks.github.io/ai/#advanced-machine-learning-with-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 27 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Android Security Cookbook]]></title><description><![CDATA[
-        <article>
-          <p>
-            Android Security Cookbook discusses many common vulnerabilities and security related shortcomings in Android applications and operating systems. The book breaks down and enumerates the processes used to exploit and remediate these vulnerabilities in the form of detailed recipes and walkthroughs.
-            <br />
-            Author: <b>Keith Makan & Scott Alexander-Bown</b> | Category: <b>Android</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>350</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/android/#android-security-cookbook</link><guid isPermaLink="true">https://devfreebooks.github.io/android/#android-security-cookbook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 27 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Android NDK: Beginner's Guide - 2nd Edition]]></title><description><![CDATA[
-        <article>
-          <p>
-            Android NDK is all about injecting high-performance and portable code into your mobile apps by exploiting the maximum speed of the device they run on. This book will show you how to create C/C++-enabled mobile applications and integrate them with Java.
-            <br />
-            Author: <b>Sylvain Ratabouil</b> | Category: <b>Android</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>494</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/android/#android-ndk-beginners-guide--2nd-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/android/#android-ndk-beginners-guide--2nd-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 27 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: AngularJS Essentials]]></title><description><![CDATA[
-        <article>
-          <p>
-            Discover the best practices of the AngularJS framework and its most important concepts such as AngularJS directives, expressions, filters, and modules. This free eBook guides you through the steps of building your very own web application with AngularJS.
-            <br />
-            Author: <b>Rodrigo Branas</b> | Category: <b>AngularJS</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>180</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-essentials</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-essentials</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 27 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mastering iOS Game Development]]></title><description><![CDATA[
-        <article>
-          <p>
-            iOS is an operating system for Apple manufactured phones and tablets. Mobile gaming is one of the fastest-growing industries, and compatibility with iOS is now becoming the norm for game developers. SpriteKit is part of the native SDK from Apple, and enables developers to make simple entry into game development without unnecessary overhead and a long learning process.
-            <br />
-            Author: <b>Miguel DeQuadros</b> | Category: <b>iOS</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>228</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/ios/#mastering-ios-game-development</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#mastering-ios-game-development</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 27 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Data Science Handbook]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/vuejs/#the-vue-handbook</link><guid isPermaLink="true">https://devfreebooks.github.io/vuejs/#the-vue-handbook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 03 Jan 2019 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Data Science Handbook]]></title><description><![CDATA[
         <article>
           <p>
             Essential Tools for Working with Data
@@ -298,37 +238,7 @@
             Lang: <b>BR</b> | Pages: <b>50</b> | Year: <b>2018</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-awesome-tips</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-awesome-tips</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 26 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building Machine Learning Systems with Python]]></title><description><![CDATA[
-        <article>
-          <p>
-            Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need.
-            <br />
-            Author: <b>Willi Richert & Luis Pedro Coelho</b> | Category: <b>Artificial Intelligence</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>290</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/ai/#building-machine-learning-systems-with-python</link><guid isPermaLink="true">https://devfreebooks.github.io/ai/#building-machine-learning-systems-with-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 16 Feb 2018 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Thinking in HTML]]></title><description><![CDATA[
-        <article>
-          <p>
-            Get started with JavaScript and learn one of the most important languages in web development today. With helpful tips and code examples, discover how you can create websites with impressive and dynamic functionality. Explore JavaScript’s in-built features and find out how to customize them in this accessible and free guide.
-            <br />
-            Author: <b>Aravind Shenoy</b> | Category: <b>HTML</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>43</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/html/#thinking-in-html</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#thinking-in-html</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 16 Feb 2018 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Neural Network Programming with Java]]></title><description><![CDATA[
-        <article>
-          <p>
-            Neural networks are very intelligent algorithmic systems. Learn how to create them with Java with this guide dedicated to cutting-edge neural network development.
-            <br />
-            Author: <b>Alan M. Souza & Fabio M. Soares</b> | Category: <b>Java</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>244</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#neural-network-programming-with-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#neural-network-programming-with-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 16 Feb 2018 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Thinking in JavaScript]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-awesome-tips</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-awesome-tips</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 26 Jun 2018 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Thinking in JavaScript]]></title><description><![CDATA[
         <article>
           <p>
             Get started with JavaScript and learn one of the most important languages in web development today. With helpful tips and code examples, discover how you can create websites with impressive and dynamic functionality. Explore JavaScript’s in-built features and find out how to customize them in this accessible and free guide.
@@ -338,17 +248,7 @@
             Lang: <b>EN</b> | Pages: <b>31</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#thinking-in-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#thinking-in-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 16 Feb 2018 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learning Python]]></title><description><![CDATA[
-        <article>
-          <p>
-            This book goes deeper than simply showing you how to build a Python app, giving you the fundamentals of Python programming that every developer needs to know to make the most of the language. Packed with tutorials and examples this title features everything from data structures, writing reusable code, testing, paradigms, and how Python can be adapted. This eBook will help transform you from a complete beginner to someone ready to bring the best out of their projects.
-            <br />
-            Author: <b>Fabrizio Romano</b> | Category: <b>Python</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>443</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#learning-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#learning-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 16 Feb 2018 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: How to Think Like a Computer Scientist: C++]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#thinking-in-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#thinking-in-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 16 Feb 2018 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: How to Think Like a Computer Scientist: C++]]></title><description><![CDATA[
         <article>
           <p>
             The goal of this book is to teach you to think like a computer scientist. I like the way computer scientists think because they combine some of the best features of Mathematics, Engineering, and Natural Science. Like mathematicians, computer scientists use formal languages to denote ideas.
@@ -388,17 +288,7 @@
             Lang: <b>EN</b> | Pages: <b>142</b> | Year: <b>2008</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#think-ocalm</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#think-ocalm</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Perl introductory course]]></title><description><![CDATA[
-        <article>
-          <p>
-            Introductory course for Perl 5 through examples, geared towards VLSI engineers.
-            <br />
-            Author: <b>Sundeep Agarwal</b> | Category: <b>Perl</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>68</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/perl/#perl-introductory-course</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#perl-introductory-course</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think Python]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#think-ocalm</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#think-ocalm</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think Python]]></title><description><![CDATA[
         <article>
           <p>
             Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.
@@ -418,17 +308,7 @@
             Lang: <b>EN</b> | Pages: <b>164</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#think-dsp</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#think-dsp</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vim Reference]]></title><description><![CDATA[
-        <article>
-          <p>
-            Vim reference guide for beginner to intermediate users
-            <br />
-            Author: <b>Sundeep Agarwal</b> | Category: <b>Vim</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>39</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#vim-reference</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#vim-reference</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SurviveJS React]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#think-dsp</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#think-dsp</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SurviveJS React]]></title><description><![CDATA[
         <article>
           <p>
             Learn React while building a Kanban application. Beginner-intermediate.
@@ -448,17 +328,7 @@
             Lang: <b>EN</b> | Pages: <b>350</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/react/#survivejs-webpack</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#survivejs-webpack</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 19 Feb 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: An Introduction to GCC]]></title><description><![CDATA[
-        <article>
-          <p>
-            This manual provides a tutorial introduction to the GNU C and C++ compilers, gcc and g++. Many books teach the C and C++ languages, this book explains how to use the compiler itself. Based on years of observation of questions posted on mailing lists, it guides the reader straight to the important options of GCC!
-            <br />
-            Author: <b>Brian J. Gough</b> | Category: <b>C/C++</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>144</b> | Year: <b>2005</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/c-cpp/#an-introduction-to-gcc</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#an-introduction-to-gcc</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The C Book, second edition]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/react/#survivejs-webpack</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#survivejs-webpack</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 19 Feb 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The C Book, second edition]]></title><description><![CDATA[
         <article>
           <p>
             This is not a tutorial introduction to C programming. The book is designed for programmers who already have some experience of using a modern high-level procedural programming language.
@@ -548,27 +418,7 @@
             Lang: <b>EN</b> | Pages: <b>760</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/d/#programming-in-d</link><guid isPermaLink="true">https://devfreebooks.github.io/d/#programming-in-d</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 14 Dec 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: D Programming Language Specification]]></title><description><![CDATA[
-        <article>
-          <p>
-            This is the specification for the D Programming Language.
-            <br />
-            Author: <b>D Lang</b> | Category: <b>D</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>552</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/d/#d-programming-language-specification</link><guid isPermaLink="true">https://devfreebooks.github.io/d/#d-programming-language-specification</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 14 Dec 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Road to learn React]]></title><description><![CDATA[
-        <article>
-          <p>
-            A lot of roadmaps exist on how to master React. This book uses the common sense of these roads and weaves it into the implementation of an attractive real world app. You will build a React app, which consumes the Hacker News API. On the road you will learn ES6, React with all its basics and advanced concepts and internal state management.
-            <br />
-            Author: <b>Robin Wieruch</b> | Category: <b>React</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>101</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/react/#the-road-to-learn-react</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#the-road-to-learn-react</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 14 Dec 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Object-Oriented Programming in C]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/d/#programming-in-d</link><guid isPermaLink="true">https://devfreebooks.github.io/d/#programming-in-d</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 14 Dec 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Object-Oriented Programming in C]]></title><description><![CDATA[
         <article>
           <p>
             Use ANSI C to discover how object-oriented programming is done, what its techniques are, why they help solve bigger problems, and how to harness generality and program to catch mistakes earlier.
@@ -638,17 +488,7 @@
             Lang: <b>EN</b> | Pages: <b>554</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#the-ocaml-system-documentation-and-users-manual</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#the-ocaml-system-documentation-and-users-manual</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Real World OCaml]]></title><description><![CDATA[
-        <article>
-          <p>
-            This hands-on book shows you how to take advantage of OCaml’s functional, imperative, and object-oriented programming styles with recipes for many real-world tasks.
-            <br />
-            Author: <b>Jason Hickey, Anil Madhavapeddy, and Yaron Minsky</b> | Category: <b>OCalm</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>510</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#real-world-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#real-world-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Unix System Programming in OCaml]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#the-ocaml-system-documentation-and-users-manual</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#the-ocaml-system-documentation-and-users-manual</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Unix System Programming in OCaml]]></title><description><![CDATA[
         <article>
           <p>
             This is an excellent book on Unix system programming, with an emphasis on communications between processes. The main novelty of this work is the use of OCaml, instead of the C language that is customary in systems programming. This gives an unusual perspective on systems programming and on OCaml.
@@ -658,17 +498,7 @@
             Lang: <b>EN</b> | Pages: <b>138</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#unix-system-programming-in-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#unix-system-programming-in-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Using, Understanding, and Unraveling OCaml]]></title><description><![CDATA[
-        <article>
-          <p>
-            This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
-            <br />
-            Author: <b>Didier Rémy</b> | Category: <b>OCalm</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>174</b> | Year: <b>2001</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#using-understanding-and-unraveling-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#using-understanding-and-unraveling-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Threading in C#]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#unix-system-programming-in-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#unix-system-programming-in-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Threading in C#]]></title><description><![CDATA[
         <article>
           <p>
             An extensive article on multithreading in C#. This tackles difficult issues such as thread safety, when to use Abort, Wait Handles vs Wait and Pulse, the implications of Apartment Threading in Windows Forms, using Thread Pooling, Synchronization Contexts, Memory Barriers and non-blocking synchronization constructs.
@@ -698,17 +528,7 @@
             Lang: <b>EN</b> | Pages: <b>456</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/git/#pro-git</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#pro-git</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Allongé, the "Six" Edition]]></title><description><![CDATA[
-        <article>
-          <p>
-            A long pull of functions, combinators, & decorators, updated to include the latest ES-6 features.
-            <br />
-            Author: <b>Reginald Braithwaite</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>513</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Exploring ES6]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/git/#pro-git</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#pro-git</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Exploring ES6]]></title><description><![CDATA[
         <article>
           <p>
             An in-depth book on ECMAScript 6, for JavaScript programmers.
@@ -758,37 +578,7 @@
             Lang: <b>EN</b> | Pages: <b>60</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#ruby-web-dev-the-other-way</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#ruby-web-dev-the-other-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SCALABLE, un libro sobre SVG]]></title><description><![CDATA[
-        <article>
-          <p>
-            A lo largo de 15 capítulos, 120 páginas y más de 70 ejemplos vamos a ver todo lo que podemos hacer con SVG.
-            <br />
-            Author: <b>Jorge Aznar</b> | Category: <b>svg</b>
-            <br />
-            Lang: <b>ES</b> | Pages: <b>146</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/svg/#scalable-un-libro-sobre-svg</link><guid isPermaLink="true">https://devfreebooks.github.io/svg/#scalable-un-libro-sobre-svg</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pocket Guide to Writing SVG]]></title><description><![CDATA[
-        <article>
-          <p>
-            A pocket guide to writing SVG.
-            <br />
-            Author: <b>Joni Trythall</b> | Category: <b>svg</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/svg/#pocket-guide-to-writing-svg</link><guid isPermaLink="true">https://devfreebooks.github.io/svg/#pocket-guide-to-writing-svg</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Build Pacman]]></title><description><![CDATA[
-        <article>
-          <p>
-            Learn Modern Javascript, HTML5 Canvas, and a bit of Ember.js. This is a book about surviving an alien invasion and using web technologies.
-            <br />
-            Author: <b>Jeffrey Biles</b> | Category: <b>Ember.js</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>189</b> | Year: <b>2016</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/emberjs/#build-pacman</link><guid isPermaLink="true">https://devfreebooks.github.io/emberjs/#build-pacman</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 12 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTML5 for Web Designers]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#ruby-web-dev-the-other-way</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#ruby-web-dev-the-other-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTML5 for Web Designers]]></title><description><![CDATA[
         <article>
           <p>
             HTML5 isn’t as confusing as it once was, but it still isn’t straightforward. It’s an evolutionary, rather than revolutionary, change in the ongoing story of markup—and if you’re currently creating websites with any version of HTML, you’re already using HTML5.
@@ -918,17 +708,7 @@
             Lang: <b>EN</b> | Pages: <b>32</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/elixir/#elixir-school</link><guid isPermaLink="true">https://devfreebooks.github.io/elixir/#elixir-school</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn You a Haskell for Great Good]]></title><description><![CDATA[
-        <article>
-          <p>
-            This is Learn You a Haskell, the funkiest way to learn Haskell, which is the best functional programming language around. You may have heard of it. This guide is meant for people who have programmed already, but have yet to try functional programming.
-            <br />
-            Author: <b>Miran Lipovača</b> | Category: <b>Haskell</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>400</b> | Year: <b>2011</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#learn-you-a-haskell-for-great-good</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#learn-you-a-haskell-for-great-good</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ECMAScript 6 Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/elixir/#elixir-school</link><guid isPermaLink="true">https://devfreebooks.github.io/elixir/#elixir-school</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ECMAScript 6 Succinctly]]></title><description><![CDATA[
         <article>
           <p>
             ECMAScript 6 (ES6), also known as ECMAScript 2015, brings new functionality and features to the table that developers have been wanting for a long time. The wait is over, and with help from ECMAScript 6 Succinctly by Matthew Duffield.
@@ -938,67 +718,7 @@
             Lang: <b>EN</b> | Pages: <b>106</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#ecmascript-6-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#ecmascript-6-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Up & Going]]></title><description><![CDATA[
-        <article>
-          <p>
-            The series’ first book, Up & Going, provides the necessary background for those of you with limited programming experience. By learning the basic building blocks of programming, as well as JavaScript’s core mechanisms, you’ll be prepared to dive into the other, more in-depth books in the series—and be well on your way toward true JavaScript.
-            <br />
-            Author: <b>Kyle Simpson</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>88</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-up--going</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-up--going</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Scope & Closures]]></title><description><![CDATA[
-        <article>
-          <p>
-            Like other books in the "You Don’t Know JS" series, Scope and Closures dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can achieve true JavaScript mastery.
-            <br />
-            Author: <b>Kyle Simpson</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>98</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-scope--closures</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-scope--closures</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: this & Object Prototypes]]></title><description><![CDATA[
-        <article>
-          <p>
-            Like other books in the “You Don’t Know JS” series, this and Object Prototypes dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can become a true JavaScript master.
-            <br />
-            Author: <b>Kyle Simpson</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>174</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-this--object-prototypes</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-this--object-prototypes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Types & Grammar]]></title><description><![CDATA[
-        <article>
-          <p>
-            Like other books in this series, You Don’t Know JS: Types & Grammar dives into trickier parts of the language that many JavaScript programmers simply avoid or assume don’t exist (like types). Armed with this knowledge, you can achieve true JavaScript mastery.
-            <br />
-            Author: <b>Kyle Simpson</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>198</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-types--grammar</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-types--grammar</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Async & Performance]]></title><description><![CDATA[
-        <article>
-          <p>
-            Like other books in this series, You Don’t Know JS: Async & Performance dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can become a true JavaScript master.
-            <br />
-            Author: <b>Kyle Simpson</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>296</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-async--performance</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-async--performance</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: ES6 & Beyond]]></title><description><![CDATA[
-        <article>
-          <p>
-            Like other books in this series, You Don’t Know JS: Async & Performance dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can become a true JavaScript master.
-            <br />
-            Author: <b>Kyle Simpson</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>278</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-es6--beyond</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-es6--beyond</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Modern Perl]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#ecmascript-6-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#ecmascript-6-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Modern Perl]]></title><description><![CDATA[
         <article>
           <p>
             Modern Perl teaches you how Perl really works. It's the only book that explains Perl thoroughly, from its philosophical roots to the pragmatic decisions that help you solve real problems—and keep them solved.
@@ -1028,67 +748,7 @@
             Lang: <b>EN</b> | Pages: <b>119</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#the-hitchhikers-guide-to-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#the-hitchhikers-guide-to-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 06 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Effective Django]]></title><description><![CDATA[
-        <article>
-          <p>
-            Effective Django development means building applications that are testable, maintainable, and scalable – not only in terms of traffic or load, but in terms of being able to add developers to projects.
-            <br />
-            Author: <b>Nathan Yergler</b> | Category: <b>Django</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>51</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/django/#effective-django</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#effective-django</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 18 Oct 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vim for Humans]]></title><description><![CDATA[
-        <article>
-          <p>
-            A good introduction to the Vim editor
-            <br />
-            Author: <b>Vincent Jousse</b> | Category: <b>Vim</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>49</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#vim-for-humans</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#vim-for-humans</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 12 Aug 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Your Second Meteor Application]]></title><description><![CDATA[
-        <article>
-          <p>
-            Your Second Meteor Application is a free, online book about the Meteor JavaScript framework that helps beginning web developers build a complete to-do list application with the Meteor JavaScript framework.
-            <br />
-            Author: <b>David Turnbull</b> | Category: <b>Meteor</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>7</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#your-second-meteor-application</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#your-second-meteor-application</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 25 Jun 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Meteor Deployment]]></title><description><![CDATA[
-        <article>
-          <p>
-            Getting Started with Meteor Deployment is a free, online book about the Meteor JavaScript framework that explains everything you need to know about deploying your applications to the web.
-            <br />
-            Author: <b>David Turnbull</b> | Category: <b>Meteor</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>7</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#getting-started-with-meteor-deployment</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#getting-started-with-meteor-deployment</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 25 Jun 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Developing Backbone.js Applications]]></title><description><![CDATA[
-        <article>
-          <p>
-            The goal of this book is to create an authoritative and centralized repository of information that can help those developing real-world apps with Backbone.
-            <br />
-            Author: <b>Addy Osmani</b> | Category: <b>Backbone</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>374</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/backbone/#developing-backbonejs-applications</link><guid isPermaLink="true">https://devfreebooks.github.io/backbone/#developing-backbonejs-applications</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Backbone Tutorials]]></title><description><![CDATA[
-        <article>
-          <p>
-            This book aims to get developers up to speed with single page web application development using Backbone.js as a foundation.
-            <br />
-            Author: <b>Thomas Davis</b> | Category: <b>Backbone</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>141</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/backbone/#backbone-tutorials</link><guid isPermaLink="true">https://devfreebooks.github.io/backbone/#backbone-tutorials</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ember Tutorial]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#the-hitchhikers-guide-to-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#the-hitchhikers-guide-to-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 06 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ember Tutorial]]></title><description><![CDATA[
         <article>
           <p>
             This tutorial provides an introduction to the Ember.js framework. It shows you how to build an Ember.js app with a Ruby on Rails backend while explaining all the underlying concepts along the way.
@@ -1128,17 +788,7 @@
             Lang: <b>EN</b> | Pages: <b>607</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#haskell-language</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#haskell-language</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Programming with Java]]></title><description><![CDATA[
-        <article>
-          <p>
-            Online Tutorial and Challenges to learn the basics of Java programming.
-            <br />
-            Author: <b>Learneroo</b> | Category: <b>Java</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>21</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#learn-programming-with-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#learn-programming-with-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ruby On Rails Tutorial 3rd Edition]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/haskell/#haskell-language</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#haskell-language</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ruby On Rails Tutorial 3rd Edition]]></title><description><![CDATA[
         <article>
           <p>
             Learn Web Development with Rails
@@ -1178,27 +828,7 @@
             Lang: <b>EN</b> | Pages: <b>56</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#learn-vimscript-the-hard-way</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#learn-vimscript-the-hard-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Meteor Tutorial]]></title><description><![CDATA[
-        <article>
-          <p>
-            Bring your ideas to life with Meteor.
-            <br />
-            Author: <b>Matthew Platts</b> | Category: <b>Meteor</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#meteor-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#meteor-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 08 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Agile Android Software Development]]></title><description><![CDATA[
-        <article>
-          <p>
-            This book teaches you how to turn your ideas into successful apps that everyone will talk about, love, and share. With Agile tools and techniques, any developer can get a chunk of the Android pie!
-            <br />
-            Author: <b>Étinnie Savard</b> | Category: <b>Android</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2015</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/android/#agile-android-software-development</link><guid isPermaLink="true">https://devfreebooks.github.io/android/#agile-android-software-development</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Android Programming Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/vim/#learn-vimscript-the-hard-way</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#learn-vimscript-the-hard-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Android Programming Succinctly]]></title><description><![CDATA[
         <article>
           <p>
             Navigate the key requirements for designing an Android application with Android Programming Succinctly as your guide.
@@ -1228,17 +858,7 @@
             Lang: <b>EN</b> | Pages: <b>55</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/network-protocols/#http-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/network-protocols/#http-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Play Framework Recipes]]></title><description><![CDATA[
-        <article>
-          <p>
-            This ebook covers Play Framework 2.x using Scala language.
-            <br />
-            Author: <b>Alvin Alexander</b> | Category: <b>Play Framework</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>84</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/playframework/#play-framework-recipes</link><guid isPermaLink="true">https://devfreebooks.github.io/playframework/#play-framework-recipes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: APIs on Rails]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/network-protocols/#http-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/network-protocols/#http-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: APIs on Rails]]></title><description><![CDATA[
         <article>
           <p>
             The best way to build a REST API using Rails
@@ -1268,17 +888,7 @@
             Lang: <b>EN</b> | Pages: <b>14</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#angular-basics</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angular-basics</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 19 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Parallel and Concurrent Programming in Haskell]]></title><description><![CDATA[
-        <article>
-          <p>
-            The main goal of the book is to get you programming competently with Parallel and Concurrent Haskell. However, as you probably know by now, learning about programming is not something you can do by reading a book alone.
-            <br />
-            Author: <b>Simon Marlow</b> | Category: <b>Haskell</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>143</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#parallel-and-concurrent-programming-in-haskell</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#parallel-and-concurrent-programming-in-haskell</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 19 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Real World Haskell]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#angular-basics</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angular-basics</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 19 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Real World Haskell]]></title><description><![CDATA[
         <article>
           <p>
             Throughout this book, we will show you how Haskell's alternatives to the features of traditional languages are powerful, flexible, and lead to reliable code. Haskell is positively crammed full of cutting edge ideas about how to create great software.
@@ -1288,17 +898,7 @@
             Lang: <b>EN</b> | Pages: <b>40</b> | Year: <b>2008</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#real-world-haskell</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#real-world-haskell</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 19 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Build web application with Golang]]></title><description><![CDATA[
-        <article>
-          <p>
-            This book is for those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go and it's for those of you who are working with C/C++, you will know how the web works.
-            <br />
-            Author: <b>Astaxie</b> | Category: <b>Go</b>
-            <br />
-            Lang: <b>EN, JP, FR, CH</b> | Pages: <b>293</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#build-web-application-with-golang</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#build-web-application-with-golang</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 12 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTTP2 Explained]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/haskell/#real-world-haskell</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#real-world-haskell</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 19 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTTP2 Explained]]></title><description><![CDATA[
         <article>
           <p>
             The book HTTP2 Explained describes the protocol HTTP/2 at a technical and protocol level. Background, the protocol, the implementations and the future.
@@ -1318,27 +918,7 @@
             Lang: <b>EN</b> | Pages: <b>176</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#a-byte-of-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#a-byte-of-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 06 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: A byte of Vim]]></title><description><![CDATA[
-        <article>
-          <p>
-            This is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard.
-            <br />
-            Author: <b>Swaroop C H</b> | Category: <b>Vim</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>89</b> | Year: <b>2008</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#a-byte-of-vim</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#a-byte-of-vim</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 06 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Programming JavaScript Applications]]></title><description><![CDATA[
-        <article>
-          <p>
-            Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows.
-            <br />
-            Author: <b>Eric Elliott</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>254</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#programming-javascript-applications</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#programming-javascript-applications</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Creative Scala]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#a-byte-of-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#a-byte-of-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 06 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Creative Scala]]></title><description><![CDATA[
         <article>
           <p>
             Creative Scala is aimed at developers who have no prior experience in Scala. It is designed to give you a fun introduction to functional programming. We assume you have some familiarity with another programming language but little or no experience with Scala or other functional languages.
@@ -1348,17 +928,7 @@
             Lang: <b>EN</b> | Pages: <b>58</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/scala/#creative-scala</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#creative-scala</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Scala by Example]]></title><description><![CDATA[
-        <article>
-          <p>
-            This book instructs you in Python by slowly building and establishing skills through techniques like practice and memorization, then applying them to increasingly difficult problems. By the end of the book you will have the tools needed to begin learning more complex programming topics.
-            <br />
-            Author: <b>Martin Odersky</b> | Category: <b>Scala</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>145</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/scala/#scala-by-example</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#scala-by-example</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Django]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/scala/#creative-scala</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#creative-scala</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Django]]></title><description><![CDATA[
         <article>
           <p>
             This series is meant to take you from novice to competent. What do I mean by novice? You’ve done the Django tutorial, you understand the basics of Python, but you have little-to-no idea about how to go forward from here without making a ton of mistakes.
@@ -1368,27 +938,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/django/#getting-started-with-django</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#getting-started-with-django</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 25 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Eloquent JavaScript (Second Edition)]]></title><description><![CDATA[
-        <article>
-          <p>
-            This is a book about JavaScript, programming, and the wonders of the digital.
-            <br />
-            Author: <b>Marijn Haverbeke</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>490</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#eloquent-javascript-second-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#eloquent-javascript-second-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 25 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building a JavaScript Framework]]></title><description><![CDATA[
-        <article>
-          <p>
-            This book is a guide to building a JavaScript framework. It’ll teach you how to build a framework and draw on real-world code from projects like jQuery.
-            <br />
-            Author: <b>Alex Young</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>81</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#building-a-javascript-framework</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#building-a-javascript-framework</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 25 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Explore Flask]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/django/#getting-started-with-django</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#getting-started-with-django</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 25 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Explore Flask]]></title><description><![CDATA[
         <article>
           <p>
             Explore Flask is a book about best practices and patterns for developing web applications with Flask.
@@ -1418,27 +968,7 @@
             Lang: <b>EN</b> | Pages: <b>40</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/groovy/#spocklight-notebook</link><guid isPermaLink="true">https://devfreebooks.github.io/groovy/#spocklight-notebook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: CoffeeScript Ristretto]]></title><description><![CDATA[
-        <article>
-          <p>
-            CoffeeScript Ristretto is a book about programming with functions that uses the CoffeeScript programming language for the examples and exercises.
-            <br />
-            Author: <b>Reginald Braithwaite</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>142</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#coffeescript-ristretto</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#coffeescript-ristretto</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Spessore]]></title><description><![CDATA[
-        <article>
-          <p>
-            JavaScript Spessore will show you how to build JavaScript programs that scale in code, in time, and across a team, using the one technique that has passed the test of time: Objects and metaobjects that have a single responsibility, are decoupled from each other, and can be composed freely.
-            <br />
-            Author: <b>Reginald Braithwaite</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>364</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-spessore</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-spessore</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Kestrels, Quirky Birds, and Hopeless Egocentricity]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/groovy/#spocklight-notebook</link><guid isPermaLink="true">https://devfreebooks.github.io/groovy/#spocklight-notebook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Kestrels, Quirky Birds, and Hopeless Egocentricity]]></title><description><![CDATA[
         <article>
           <p>
             Raganwald's collected adventures in Combinatory Logic and Ruby Meta-Programming.
@@ -1478,17 +1008,7 @@
             Lang: <b>EN</b> | Pages: <b>101</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#jquery-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#jquery-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Knockout.js Succinctly]]></title><description><![CDATA[
-        <article>
-          <p>
-            The Knockout JavaScript library is an invaluable tool for building dynamic, data-bound web UIs with minimal code.
-            <br />
-            Author: <b>Ryan Hodson</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>68</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#knockoutjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#knockoutjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: PHP The Right Way]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#jquery-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#jquery-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: PHP The Right Way]]></title><description><![CDATA[
         <article>
           <p>
             PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
@@ -1538,17 +1058,7 @@
             Lang: <b>EN</b> | Pages: <b>93</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/django/#django-girls-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#django-girls-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Web Development Using Elixir]]></title><description><![CDATA[
-        <article>
-          <p>
-            Are you interested in web development? Seen Erlang and Elixir around and want to know what the fuss is about? Well, read along to learn how to apply Elixir for use in web development!
-            <br />
-            Author: <b>Shane Logsdon</b> | Category: <b>Elixir</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>20</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/elixir/#web-development-using-elixir</link><guid isPermaLink="true">https://devfreebooks.github.io/elixir/#web-development-using-elixir</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Git for Everyone]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/django/#django-girls-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#django-girls-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Git for Everyone]]></title><description><![CDATA[
         <article>
           <p>
             Unless you have been living in a cave, Git is everywhere. Creative or engineering, you have directly encountered or will encounter Git in the workplace. A common misconception as well is that Git is only for teams? Regardless of work style or team size, Git is the tool that everyone should be using.
@@ -1638,27 +1148,7 @@
             Lang: <b>EN</b> | Pages: <b>50</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#rubykin</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#rubykin</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Java® Language Specification Java SE 8 Edition]]></title><description><![CDATA[
-        <article>
-          <p>
-            Written by the inventors of the Java Language Specification. This book provides complete and detailed coverage of the Java 8 programming language.
-            <br />
-            Author: <b>Oracle</b> | Category: <b>Java</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>780</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#the-java-language-specification-java-se-8-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#the-java-language-specification-java-se-8-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Java® Virtual Machine Specification Java SE 8 Edition]]></title><description><![CDATA[
-        <article>
-          <p>
-            Written by the inventors of the Java Virtual Machine Specification. This book provides complete and detailed coverage of the Java Virtual Machine 8.
-            <br />
-            Author: <b>Oracle</b> | Category: <b>Java</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>626</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#the-java-virtual-machine-specification-java-se-8-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#the-java-virtual-machine-specification-java-se-8-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java e Orientação Objetos]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#rubykin</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#rubykin</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java e Orientação Objetos]]></title><description><![CDATA[
         <article>
           <p>
             This is a free ebook which shows the main concepts about Object Oriented Programming using Java language.
@@ -1668,7 +1158,7 @@
             Lang: <b>BR</b> | Pages: <b>304</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#java-e-orientao-objetos</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-e-orientao-objetos</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java para Web]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#java-e-orientao-objetos</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-e-orientao-objetos</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java para Desenvolvimento Web]]></title><description><![CDATA[
         <article>
           <p>
             This is a free ebook which shows the main concepts about web developing system using JavaEE.
@@ -1678,27 +1168,7 @@
             Lang: <b>BR</b> | Pages: <b>284</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#java-para-web</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-para-web</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java Tests, JSF e Design Patterns]]></title><description><![CDATA[
-        <article>
-          <p>
-            This is a free ebook which shows useful frameworks for testing, JSF for Java Web and the principles about Design Patterns for Java.
-            <br />
-            Author: <b>Caelum</b> | Category: <b>Java</b>
-            <br />
-            Lang: <b>BR</b> | Pages: <b>178</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#java-tests-jsf-e-design-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-tests-jsf-e-design-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Algoritmos e Estrutura de Dados com Java]]></title><description><![CDATA[
-        <article>
-          <p>
-            This is a free ebook which shows the main algorithms and data structures examples using Java language.
-            <br />
-            Author: <b>Caelum</b> | Category: <b>Java</b>
-            <br />
-            Lang: <b>BR</b> | Pages: <b>157</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#algoritmos-e-estrutura-de-dados-com-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#algoritmos-e-estrutura-de-dados-com-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Practice Book]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#java-para-desenvolvimento-web</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-para-desenvolvimento-web</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Practice Book]]></title><description><![CDATA[
         <article>
           <p>
             This book is prepared from the training notes of Anand Chitipothu.
@@ -1728,37 +1198,7 @@
             Lang: <b>EN</b> | Pages: <b>143</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Your First Meteor Application]]></title><description><![CDATA[
-        <article>
-          <p>
-            Meteor is a fascinating framework that is great for beginning developers who have never built a web application before. We’ll cover a lot of ground over the next few hours, walking through a gentle but broad introduction to what might possibly be the best way to build an application for the web.
-            <br />
-            Author: <b>David Turnbull</b> | Category: <b>Meteor</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>75</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#your-first-meteor-application</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#your-first-meteor-application</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pro Meteor: Meteor Internals, Scaling & More]]></title><description><![CDATA[
-        <article>
-          <p>
-            Pro Meteor helps you to understand Meteor Internals, Scaling & Many Other Topics.
-            <br />
-            Author: <b>Arunoda Susiripala</b> | Category: <b>Meteor</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>24</b> | Year: <b>2014</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#pro-meteor-meteor-internals-scaling--more</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#pro-meteor-meteor-internals-scaling--more</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Let's create a realtime blackboard with Meteor Streams]]></title><description><![CDATA[
-        <article>
-          <p>
-            This is a free ebook guiding you to build a realtime blackboard using Meteor Streams. Meteor Streams is a Meteor Smart Packages which adds messaging based realtime capabilities to Meteor. It allows you to build realtime apps without using MongoDB.
-            <br />
-            Author: <b>Arunoda Susiripala</b> | Category: <b>Meteor</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>23</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#lets-create-a-realtime-blackboard-with-meteor-streams</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#lets-create-a-realtime-blackboard-with-meteor-streams</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Human JavaScript]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Human JavaScript]]></title><description><![CDATA[
         <article>
           <p>
             This is a book about a specific set of tools, patterns, and approaches that we feel are optimized for people. These approaches enable our team to quickly build and deliver high-quality JavaScript applications for humans.
@@ -1808,17 +1248,7 @@
             Lang: <b>EN</b> | Pages: <b>254</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#learning-javascript-design-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#learning-javascript-design-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ECMAScript Language Specification]]></title><description><![CDATA[
-        <article>
-          <p>
-            Learn all about the Javacript language specifications with this official ECMA-262 bible.
-            <br />
-            Author: <b>ECMA International</b> | Category: <b>JavaScript</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>258</b> | Year: <b>2011</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#ecmascript-language-specification</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#ecmascript-language-specification</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Little Go Book]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#learning-javascript-design-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#learning-javascript-design-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Little Go Book]]></title><description><![CDATA[
         <article>
           <p>
             The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.
@@ -1858,17 +1288,7 @@
             Lang: <b>EN</b> | Pages: <b>112</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: AngularJS in 60 Minutes]]></title><description><![CDATA[
-        <article>
-          <p>
-            AngularJS Fundamentals in 60 Minutes is going to go through all of the key fundamentals you need to know about the AngularJS SPA framework.
-            <br />
-            Author: <b>Dan Wahlin</b> | Category: <b>AngularJS</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>102</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-in-60-minutes</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-in-60-minutes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Practical AngularJS]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Practical AngularJS]]></title><description><![CDATA[
         <article>
           <p>
             Real-world examples of using AngularJS in multiple scenarios and platforms (KarmaJS, Firebase, Eclipse, WebStorm, O2 Platform)
@@ -1878,17 +1298,7 @@
             Lang: <b>EN</b> | Pages: <b>103</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#practical-angularjs</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#practical-angularjs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Recipes with Angular.js]]></title><description><![CDATA[
-        <article>
-          <p>
-            Practical concepts and techniques for rapid web application development.
-            <br />
-            Author: <b>Frederik Dietz</b> | Category: <b>AngularJS</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>103</b> | Year: <b>2013</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#recipes-with-angularjs</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#recipes-with-angularjs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Node, Express and libsass: project from scratch workshop]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#practical-angularjs</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#practical-angularjs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Node, Express and libsass: project from scratch workshop]]></title><description><![CDATA[
         <article>
           <p>
             Node.js What's all the buzz about? Follow along in this workshop/tutorial to get your head wrapped around what it takes to make a Node project from scratch.
@@ -1968,14 +1378,4 @@
             Lang: <b>EN</b> | Pages: <b>121</b> | Year: <b>2008</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/git/#git-internals</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#git-internals</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 14 Mar 2008 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Dive Into Python]]></title><description><![CDATA[
-        <article>
-          <p>
-            Python from novice to pro.
-            <br />
-            Author: <b>Mark Pilgrim</b> | Category: <b>Python</b>
-            <br />
-            Lang: <b>EN</b> | Pages: <b>327</b> | Year: <b>2004</b>
-          </p>
-        </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#dive-into-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#dive-into-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 20 May 2004 03:00:00 GMT</pubDate></item></channel></rss>
+      ]]></description><link>https://devfreebooks.github.io/git/#git-internals</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#git-internals</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 14 Mar 2008 03:00:00 GMT</pubDate></item></channel></rss>
