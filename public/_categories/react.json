@@ -9,6 +9,17 @@
     "description": "Read the best free ebooks about React.",
     "books": [
       {
+        "title": "Pro React 16",
+        "description": "Best-selling author Adam Freeman explains how to get the most from React. He begins by describing the React architecture and the benefits it offers and then shows you how to use React and its associated tools and libraries in your projects, starting from the nuts and bolts and building up to the most advanced and sophisticated features, going in-depth to give you the knowledge you need.",
+        "author": "Adam Freeman",
+        "pages": 772,
+        "year": 2019,
+        "paid_book": true,
+        "lang": "EN",
+        "added_at": "20200918",
+        "url": "https://amzn.to/2FAOpXc"
+      },
+      {
         "title": "The React Handbook",
         "description": "The React Handbook follows the 80/20 rule: learn in 20% of the time the 80% of a topic. I find this approach gives a well-rounded overview. This book does not try to cover everything under the sun related to React.",
         "author": "Flavio Copes",

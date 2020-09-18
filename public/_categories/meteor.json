@@ -13,7 +13,6 @@
         "url": "http://www.casadocodigo.com.br/products/livro-meteor",
         "description": "JavaScript is nowadays a real choice for building server-side applications. Work with the same front-end language is a great advantage too. There are a lot of full-stack web frameworks, but Meteor is one that stand out. In this book, you will learn how to create a real-time social network, exploring the main native components of Meteor. Technically, you will learn how to build amazing templates using Handlebars, how to use Facebook API for sign-in and sign-up users, how to persist data into NoSQL MongoDB and how to develop an application using advanced concepts of reactive programming and Meteor PubSub.",
         "author": "Caio Ribeiro Pereira",
-        "paid_book": true,
         "pages": 153,
         "year": 2015,
         "lang": "BR",

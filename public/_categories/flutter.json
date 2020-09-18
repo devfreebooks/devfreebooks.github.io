@@ -9,6 +9,17 @@
     "description": "Read the best free ebooks about Flutter mobile platform.",
     "books": [
       {
+        "title": "Beginning App Development with Flutter: Create Cross-Platform Mobile Apps",
+        "description": "This book breaks down complex concepts and tasks into easily digestible segments with examples, pictures, and hands-on labs with starters and solutions.",
+        "author": "Rap Payne",
+        "pages": 336,
+        "year": 2019,
+        "paid_book": true,
+        "lang": "EN",
+        "added_at": "20200918",
+        "url": "https://amzn.to/3hJF3Ft"
+      },
+      {
         "title": "Flutter Tutorials Handbook",
         "description": "This cookbook contains recipes that demonstrate how to solve common problems while writing Flutter apps. Each recipe is self-contained and can be used as a reference to help you build up an application.",
         "author": "Raunak Hajela",
