@@ -19,16 +19,6 @@
         "url": "https://goalkicker.com/HTML5Book/"
       },
       {
-        "title": "Thinking in HTML",
-        "description": "Get started with JavaScript and learn one of the most important languages in web development today. With helpful tips and code examples, discover how you can create websites with impressive and dynamic functionality. Explore JavaScript’s in-built features and find out how to customize them in this accessible and free guide.",
-        "author": "Aravind Shenoy",
-        "pages": 43,
-        "year": 2014,
-        "lang": "EN",
-        "added_at": "20180216",
-        "url": "https://www.packtpub.com/packt/free-ebook/thinking-in-html2"
-      },
-      {
         "title": "HTML and CSS is hard",
         "description": "A friendly web development tutorial for complete beginners.",
         "author": "Oliver James",

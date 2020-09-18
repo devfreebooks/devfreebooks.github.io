@@ -27,16 +27,6 @@
         "lang": "EN",
         "added_at": "20150214",
         "url": "http://djangogirls.gitbooks.io/djangogirls-tutorial"
-      },
-      {
-        "title": "Effective Django",
-        "description": "Effective Django development means building applications that are testable, maintainable, and scalable – not only in terms of traffic or load, but in terms of being able to add developers to projects.",
-        "author": "Nathan Yergler",
-        "pages": 51,
-        "year": 2015,
-        "lang": "EN",
-        "added_at": "20151018",
-        "url": "http://www.effectivedjango.com/"
       }
     ]
   }

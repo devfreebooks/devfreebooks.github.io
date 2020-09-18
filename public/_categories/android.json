@@ -9,36 +9,6 @@
     "description": "Read the best free ebooks about Android mobile platform.",
     "books": [
       {
-        "title": "Android Security Cookbook",
-        "description": "Android Security Cookbook discusses many common vulnerabilities and security related shortcomings in Android applications and operating systems. The book breaks down and enumerates the processes used to exploit and remediate these vulnerabilities in the form of detailed recipes and walkthroughs.",
-        "author": "Keith Makan & Scott Alexander-Bown",
-        "pages": 350,
-        "year": 2013,
-        "lang": "EN",
-        "added_at": "20180627",
-        "url": "https://www.packtpub.com/free-ebook/android-security-cookbook"
-      },
-      {
-        "title": "Android NDK: Beginner's Guide - 2nd Edition",
-        "description": "Android NDK is all about injecting high-performance and portable code into your mobile apps by exploiting the maximum speed of the device they run on. This book will show you how to create C/C++-enabled mobile applications and integrate them with Java.",
-        "author": "Sylvain Ratabouil",
-        "pages": 494,
-        "year": 2015,
-        "lang": "EN",
-        "added_at": "20180627",
-        "url": "https://www.packtpub.com/packt/free-ebook/android-ndk-beginners-guide"
-      },
-      {
-        "title": "Agile Android Software Development",
-        "description": "This book teaches you how to turn your ideas into successful apps that everyone will talk about, love, and share. With Agile tools and techniques, any developer can get a chunk of the Android pie!",
-        "author": "Étinnie Savard",
-        "pages": 1,
-        "year": 2015,
-        "lang": "EN",
-        "added_at": "20150407",
-        "url": "https://www.agiledroid.com"
-      },
-      {
         "title": "Android Programming Succinctly",
         "description": "Navigate the key requirements for designing an Android application with Android Programming Succinctly as your guide.",
         "author": "Ryan Hodson",

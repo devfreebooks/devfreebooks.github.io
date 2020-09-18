@@ -9,34 +9,14 @@
     "description": "Read the best free ebooks about Python language.",
     "books": [
       {
-        "title": "Raspberry Pi cookbook for Python Programmers",
-        "description": "The Raspberry Pi Cookbook has over 50 tailor-made recipes for programmers to get the most out of Raspberry Pi using Python to unleash its huge potential.",
-        "author": "Tim Cox",
-        "pages": 402,
-        "year": 2014,
+        "title": "Introduction to Computer Networking",
+        "description": "This in-depth eBook is the definitive resource for perfecting computer networking fundamentals.Perfect for anyone interested in cyber security, network engineering or ethical hacking!",
+        "author": "Potato Pirates",
+        "pages": 90,
+        "year": 2019,
         "lang": "EN",
-        "added_at": "20190125",
-        "url": "https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook"
-      },
-      {
-        "title": "Mastering Python",
-        "description": "Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offers",
-        "author": "Rick van Hattem",
-        "pages": 486,
-        "year": 2016,
-        "lang": "EN",
-        "added_at": "20190125",
-        "url": "https://www.packtpub.com/free-ebook/mastering-python"
-      },
-      {
-        "title": "Mastering Python",
-        "description": "Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offers",
-        "author": "Rick van Hattem",
-        "pages": 486,
-        "year": 2016,
-        "lang": "EN",
-        "added_at": "20190125",
-        "url": "https://www.packtpub.com/free-ebook/mastering-python"
+        "added_at": "20200918",
+        "url": "https://potatopirates.game/pages/computer-networking-free-ebook"
       },
       {
         "title": "Python Data Science Handbook",
@@ -47,16 +27,6 @@
         "lang": "EN",
         "added_at": "20180627",
         "url": "https://jakevdp.github.io/PythonDataScienceHandbook/"
-      },
-      {
-        "title": "Learning Python",
-        "description": "This book goes deeper than simply showing you how to build a Python app, giving you the fundamentals of Python programming that every developer needs to know to make the most of the language. Packed with tutorials and examples this title features everything from data structures, writing reusable code, testing, paradigms, and how Python can be adapted. This eBook will help transform you from a complete beginner to someone ready to bring the best out of their projects.",
-        "author": "Fabrizio Romano",
-        "pages": 443,
-        "year": 2015,
-        "lang": "EN",
-        "added_at": "20180216",
-        "url": "https://www.packtpub.com/packt/free-ebook/learning-python"
       },
       {
         "title": "Think Python",
@@ -139,16 +109,6 @@
         "url": "http://learnpythonthehardway.org/book/"
       },
       {
-        "title": "Dive Into Python",
-        "description": "Python from novice to pro.",
-        "author": "Mark Pilgrim",
-        "pages": 327,
-        "year": 2004,
-        "lang": "EN",
-        "added_at": "20040520",
-        "url": "http://www.diveintopython.net/"
-      },
-      {
         "title": "The Hitchhiker’s Guide to Python",
         "description": "This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.",
         "author": "Kenneth Reitz",
@@ -166,7 +126,7 @@
         "year": 2016,
         "lang": "EN",
         "added_at": "20170130",
-        "url": "https://github.com/learnbyexample/Python_Basics"
+        "url": "https://learnbyexample.gitbooks.io/python-basics/content/index.html"
       }
     ]
   }

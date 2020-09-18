@@ -9,16 +9,6 @@
     "description": "Read good ebooks about VIM only here and for free!",
     "books": [
       {
-        "title": "Vim Reference",
-        "description": "Vim reference guide for beginner to intermediate users",
-        "author": "Sundeep Agarwal",
-        "pages": 39,
-        "year": 2016,
-        "lang": "EN",
-        "url": "https://www.gitbook.com/book/learnbyexample/vim-reference/details",
-        "added_at": "20170315"
-      },
-      {
         "title": "Vim para Noobs",
         "url": "https://woliveiras.com.br/vimparanoobs/",
         "description": "A free GitBook about Vim editor for Noobs become text hackers.",
@@ -37,26 +27,6 @@
         "year": 2013,
         "lang": "EN",
         "added_at": "20150414"
-      },
-      {
-        "title": "A byte of Vim",
-        "description": "This is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard.",
-        "author": "Swaroop C H",
-        "pages": 89,
-        "year": 2008,
-        "lang": "EN",
-        "added_at": "20150306",
-        "url": "http://files.swaroopch.com/vim/byte_of_vim_v051.pdf"
-      },
-      {
-        "title": "Vim for Humans",
-        "description": "A good introduction to the Vim editor",
-        "author": "Vincent Jousse",
-        "pages": 49,
-        "year": 2015,
-        "lang": "EN",
-        "added_at": "20150812",
-        "url": "https://vimebook.com/en"
       },
       {
         "title": "The Vim Tutorial and Reference",

@@ -8,16 +8,6 @@
     "image": "perl.jpg",
     "books": [
       {
-        "title": "Perl introductory course",
-        "description": "Introductory course for Perl 5 through examples, geared towards VLSI engineers.",
-        "author": "Sundeep Agarwal",
-        "pages": 68,
-        "year": 2016,
-        "lang": "EN",
-        "url": "https://www.gitbook.com/book/learnbyexample/perl-introduction/details",
-        "added_at": "20170315"
-      },
-      {
         "title": "Modern Perl",
         "description": "Modern Perl teaches you how Perl really works. It's the only book that explains Perl thoroughly, from its philosophical roots to the pragmatic decisions that help you solve real problems—and keep them solved.",
         "author": "Chromatic",

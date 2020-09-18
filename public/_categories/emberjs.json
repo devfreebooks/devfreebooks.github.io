@@ -9,16 +9,6 @@
     "description": "Read the best free ebooks about Ember.js framework.",
     "books": [
       {
-        "title": "Build Pacman",
-        "url": "https://leanpub.com/buildpacman",
-        "description": "Learn Modern Javascript, HTML5 Canvas, and a bit of Ember.js. This is a book about surviving an alien invasion and using web technologies.",
-        "author": "Jeffrey Biles",
-        "pages": 189,
-        "year": 2016,
-        "lang": "EN",
-        "added_at": "20161112"
-      },
-      {
         "title": "Ember Tutorial",
         "url": "http://ember.vicramon.com",
         "description": "This tutorial provides an introduction to the Ember.js framework. It shows you how to build an Ember.js app with a Ruby on Rails backend while explaining all the underlying concepts along the way.",

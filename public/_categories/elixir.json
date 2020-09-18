@@ -17,16 +17,6 @@
         "lang": "EN",
         "added_at": "20161110",
         "url": "http://elixirschool.com"
-      },
-      {
-        "title": "Web Development Using Elixir",
-        "description": "Are you interested in web development? Seen Erlang and Elixir around and want to know what the fuss is about? Well, read along to learn how to apply Elixir for use in web development!",
-        "author": "Shane Logsdon",
-        "pages": 20,
-        "year": 2014,
-        "lang": "EN",
-        "added_at": "20150214",
-        "url": "https://leanpub.com/web-development-using-elixir?a=2hxrOg_7DAAAx2pWvoaFpT"
       }
     ]
   }

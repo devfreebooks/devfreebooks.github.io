@@ -37,16 +37,6 @@
         "lang": "EN",
         "added_at": "20150227",
         "url": "https://gumroad.com/l/creative-scala"
-      },
-      {
-        "title": "Scala by Example",
-        "description": "This book instructs you in Python by slowly building and establishing skills through techniques like practice and memorization, then applying them to increasingly difficult problems. By the end of the book you will have the tools needed to begin learning more complex programming topics.",
-        "author": "Martin Odersky",
-        "pages": 145,
-        "year": 2014,
-        "lang": "EN",
-        "added_at": "20150227",
-        "url": "http://www.scala-lang.org/docu/files/ScalaByExample.pdf"
       }
     ]
   }

@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about Flutter mobile platform.",
     "books": [
       {
+        "title": "Flutter Succinctly",
+        "description": "In Flutter Succinctly, Ed Freitas will take you through creating a fully functional app to help you assess whether Flutter is the right choice for your mobile development needs.",
+        "author": "Ed Freitas",
+        "pages": 129,
+        "year": 2019,
+        "lang": "EN",
+        "added_at": "20200918",
+        "url": "https://www.syncfusion.com/ebooks/flutter-succinctly"
+      },
+      {
         "title": "Beginning App Development with Flutter: Create Cross-Platform Mobile Apps",
         "description": "This book breaks down complex concepts and tasks into easily digestible segments with examples, pictures, and hands-on labs with starters and solutions.",
         "author": "Rap Payne",

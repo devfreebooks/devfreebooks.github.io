@@ -39,16 +39,6 @@
         "added_at": "20150414"
       },
       {
-        "title": "Build web application with Golang",
-        "description": "This book is for those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go and it's for those of you who are working with C/C++, you will know how the web works.",
-        "author": "Astaxie",
-        "pages": 293,
-        "year": 2014,
-        "lang": "EN, JP, FR, CH",
-        "added_at": "20150312",
-        "url": "https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details"
-      },
-      {
         "title": "The Little Go Book",
         "description": "The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.",
         "author": "Karl Seguin",

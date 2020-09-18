@@ -17,16 +17,6 @@
         "year": 2015,
         "lang": "EN",
         "added_at": "20161214"
-      },
-      {
-        "title": "D Programming Language Specification",
-        "url": "http://dlang.org/dlangspec.pdf",
-        "description": "This is the specification for the D Programming Language.",
-        "author": "D Lang",
-        "pages": 552,
-        "year": 2014,
-        "lang": "EN",
-        "added_at": "20161214"
       }
     ]
   }

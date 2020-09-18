@@ -9,14 +9,14 @@
     "description": "Read the best free ebooks about Java language.",
     "books": [
       {
-        "title": "Neural Network Programming with Java",
-        "description": "Neural networks are very intelligent algorithmic systems. Learn how to create them with Java with this guide dedicated to cutting-edge neural network development.",
-        "author": "Alan M. Souza & Fabio M. Soares",
-        "pages": 244,
-        "year": 2016,
+        "title": "The Java Web Scraping Handbook",
+        "description": "This book will teach you how to extract data from any website with Java, how to deal with AJAX / Javascript heavy websites, break captchas, deploy your scrapers in the cloud and many other advanced techniques.",
+        "author": "Kevin Sahin",
+        "pages": 130,
+        "year": 2019,
         "lang": "EN",
-        "url": "https://www.packtpub.com/packt/free-ebook/neural-networks-java",
-        "added_at": "20180216"
+        "url": "https://www.scrapingbee.com/java-webscraping-book/",
+        "added_at": "20200918"
       },
       {
         "title": "Think Java",
@@ -39,36 +39,6 @@
         "added_at": "20161111"
       },
       {
-        "title": "Learn Programming with Java",
-        "url": "https://www.learneroo.com/modules/11",
-        "description": "Online Tutorial and Challenges to learn the basics of Java programming.",
-        "author": "Learneroo",
-        "pages": 21,
-        "year": 2015,
-        "lang": "EN",
-        "added_at": "20150414"
-      },
-      {
-        "title": "The Java® Language Specification Java SE 8 Edition",
-        "description": "Written by the inventors of the Java Language Specification. This book provides complete and detailed coverage of the Java 8 programming language.",
-        "author": "Oracle",
-        "pages": 780,
-        "year": 2014,
-        "lang": "EN",
-        "added_at": "20150210",
-        "url": "http://docs.oracle.com/javase/specs/jls/se8/jls8.pdf"
-      },
-      {
-        "title": "The Java® Virtual Machine Specification Java SE 8 Edition",
-        "description": "Written by the inventors of the Java Virtual Machine Specification. This book provides complete and detailed coverage of the Java Virtual Machine 8.",
-        "author": "Oracle",
-        "pages": 626,
-        "year": 2014,
-        "lang": "EN",
-        "added_at": "20150210",
-        "url": "http://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf"
-      },
-      {
         "title": "Java e Orientação Objetos",
         "description": "This is a free ebook which shows the main concepts about Object Oriented Programming using Java language.",
         "author": "Caelum",
@@ -76,37 +46,17 @@
         "year": 2014,
         "lang": "BR",
         "added_at": "20150210",
-        "url": "https://www.caelum.com.br/apostila-java-orientacao-objetos"
+        "url": "https://www.caelum.com.br/apostila-java-orientacao-objetos/"
       },
       {
-        "title": "Java para Web",
+        "title": "Java para Desenvolvimento Web",
         "description": "This is a free ebook which shows the main concepts about web developing system using JavaEE.",
         "author": "Caelum",
         "pages": 284,
         "year": 2014,
         "lang": "BR",
         "added_at": "20150210",
-        "url": "https://www.caelum.com.br/apostila-java-web"
-      },
-      {
-        "title": "Java Tests, JSF e Design Patterns",
-        "description": "This is a free ebook which shows useful frameworks for testing, JSF for Java Web and the principles about Design Patterns for Java.",
-        "author": "Caelum",
-        "pages": 178,
-        "year": 2014,
-        "lang": "BR",
-        "added_at": "20150210",
-        "url": "https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns"
-      },
-      {
-        "title": "Algoritmos e Estrutura de Dados com Java",
-        "description": "This is a free ebook which shows the main algorithms and data structures examples using Java language.",
-        "author": "Caelum",
-        "pages": 157,
-        "year": 2014,
-        "lang": "BR",
-        "added_at": "20150210",
-        "url": "https://www.caelum.com.br/apostila-java-estrutura-dados"
+        "url": "https://www.caelum.com.br/apostila-java-web/"
       }
     ]
   }

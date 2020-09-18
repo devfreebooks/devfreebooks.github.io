@@ -9,16 +9,6 @@
     "description": "Read the best free ebooks about AngularJS framework.",
     "books": [
       {
-        "title": "AngularJS Essentials",
-        "description": "Discover the best practices of the AngularJS framework and its most important concepts such as AngularJS directives, expressions, filters, and modules. This free eBook guides you through the steps of building your very own web application with AngularJS.",
-        "author": "Rodrigo Branas",
-        "pages": 180,
-        "year": 2014,
-        "lang": "EN",
-        "added_at": "20180627",
-        "url": "https://www.packtpub.com/packt/free-ebook/angularjs-essentials"
-      },
-      {
         "title": "Angular Basics",
         "description": "A free interactive book, covering directives, modules, services, controllers, routing, and more.",
         "author": "Chris Smith",
@@ -39,16 +29,6 @@
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/angularjs"
       },
       {
-        "title": "AngularJS in 60 Minutes",
-        "description": "AngularJS Fundamentals in 60 Minutes is going to go through all of the key fundamentals you need to know about the AngularJS SPA framework.",
-        "author": "Dan Wahlin",
-        "pages": 102,
-        "year": 2013,
-        "lang": "EN",
-        "added_at": "20150131",
-        "url": "http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf"
-      },
-      {
         "title": "Practical AngularJS",
         "description": "Real-world examples of using AngularJS in multiple scenarios and platforms (KarmaJS, Firebase, Eclipse, WebStorm, O2 Platform)",
         "author": "Dinis Cruz",
@@ -57,16 +37,6 @@
         "lang": "EN",
         "added_at": "20150131",
         "url": "https://leanpub.com/Practical_AngularJS/read"
-      },
-      {
-        "title": "Recipes with Angular.js",
-        "description": "Practical concepts and techniques for rapid web application development.",
-        "author": "Frederik Dietz",
-        "pages": 103,
-        "year": 2013,
-        "lang": "EN",
-        "added_at": "20150131",
-        "url": "https://leanpub.com/recipes-with-angular-js/read"
       }
     ]
   }
