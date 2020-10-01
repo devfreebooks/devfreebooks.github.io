@@ -2,7 +2,10 @@
   "index": {
     "name": "javascript",
     "subtitle": "JavaScript",
-    "tags": ["language", "frontend"],
+    "tags": [
+      "language",
+      "frontend"
+    ],
     "about": "JavaScript is a lightweight, interpreted, object-oriented language with first-class functions, most known as the scripting language for Web pages, but used in many non-browser environments as well such as Node.js or Apache CouchDB. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.",
     "site": "https://developer.mozilla.org/en/docs/Web/JavaScript",
     "image": "javascript.jpg",
@@ -159,7 +162,7 @@
         "added_at": "20150202",
         "url": "https://leanpub.com/understandinges6/read"
       },
-	  {
+      {
         "title": "Exploring ES6",
         "description": "An in-depth book on ECMAScript 6, for JavaScript programmers.",
         "author": "Axel Rauschmayer",
@@ -228,6 +231,26 @@
         "lang": "EN",
         "added_at": "20161115",
         "url": "https://github.com/MostlyAdequate/mostly-adequate-guide"
+      },
+      {
+        "title": "You Don't Know JS Yet: Get Started (2nd Edition)",
+        "description": "Get Started, the first book in the new edition series, is where to start your journey of knowing JS more deeply. This book surveys the language in multiple layers of detail, laying out a roadmap with the other books as guides for your learning and growth. For any developer hoping to move from early JS experience to a deeper level, here is your first step to get started.",
+        "author": "Kyle Simpson",
+        "pages": 145,
+        "year": 2020,
+        "lang": "EN",
+        "url": "https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md",
+        "added_at": "20211001"
+      },
+      {
+        "title": "You Don't Know JS Yet: Scope & Closures (2nd Edition)",
+        "description": "Scope & Closures examines all aspects of lexical scope, then builds on these principles to leverage the power of closure, and finally digs into the module pattern for better program structure.",
+        "author": "Kyle Simpson",
+        "pages": 281,
+        "year": 2020,
+        "lang": "EN",
+        "url": "https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md",
+        "added_at": "20211001"
       }
     ]
   }
