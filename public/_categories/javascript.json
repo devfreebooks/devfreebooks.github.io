@@ -240,7 +240,7 @@
         "year": 2020,
         "lang": "EN",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md",
-        "added_at": "20211001"
+        "added_at": "20201001"
       },
       {
         "title": "You Don't Know JS Yet: Scope & Closures (2nd Edition)",
@@ -250,7 +250,7 @@
         "year": 2020,
         "lang": "EN",
         "url": "https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md",
-        "added_at": "20211001"
+        "added_at": "20201001"
       }
     ]
   }
