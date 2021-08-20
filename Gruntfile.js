@@ -49,14 +49,6 @@ module.exports = (grunt) => {
         command: 'node categories.js'
       }
     },
-    // Sitemap =======================================
-    sitemap: {
-      prod: {
-        homepage: harp.globals.root_url.production,
-        pattern: ['**/*.html'],
-        siteRoot: 'www/'
-      }
-    },
     // Github Pages ==================================
     'gh-pages': {
       options: {
@@ -76,12 +68,11 @@ module.exports = (grunt) => {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
 
-  grunt.loadNpmTasks('grunt-sitemap');
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks('grunt-newer');
 
   grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'shell:categories', 'newer:imagemin']);
   grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'shell:categories', 'newer:imagemin']);
-  grunt.registerTask('build:prod', ['shell:feed', 'compress', 'sitemap:prod']);
+  grunt.registerTask('build:prod', ['shell:feed', 'compress']);
   grunt.registerTask('deploy:prod', ['gh-pages', 'clean']);
 };
