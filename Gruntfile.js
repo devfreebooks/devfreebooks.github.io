@@ -50,18 +50,10 @@ module.exports = (grunt) => {
       }
     },
     // Sitemap =======================================
-    sitemaps: {
-      default: {
-        options: {
-          baseUrl: harp.globals.root_url.production,
-          contentRoot: 'www/',
-          dest: 'www/'
-        },
-        files: [{
-          expand: true,
-          cwd: 'www/',
-          src: '**/*.html'
-        }]
+    sitemap: {
+      dist: {
+        pattern: ['**/*.html'],
+        siteRoot: 'www/'
       }
     },
     // Github Pages ==================================
@@ -83,7 +75,7 @@ module.exports = (grunt) => {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
 
-  grunt.loadNpmTasks('grunt-sitemaps');
+  grunt.loadNpmTasks('grunt-sitemap');
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks('grunt-newer');
 
