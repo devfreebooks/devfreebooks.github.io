@@ -81,6 +81,6 @@ module.exports = (grunt) => {
 
   grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'shell:categories', 'newer:imagemin']);
   grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'shell:categories', 'newer:imagemin']);
-  grunt.registerTask('build:prod', ['shell:feed', 'compress', 'sitemaps']);
+  grunt.registerTask('build:prod', ['shell:feed', 'compress', 'sitemap']);
   grunt.registerTask('deploy:prod', ['gh-pages', 'clean']);
 };
