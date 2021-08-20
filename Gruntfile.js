@@ -52,6 +52,7 @@ module.exports = (grunt) => {
     // Sitemap =======================================
     sitemap: {
       prod: {
+        homepage: harp.globals.root_url.production,
         pattern: ['**/*.html'],
         siteRoot: 'www/'
       }
