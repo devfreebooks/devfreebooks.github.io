@@ -1,4 +1,194 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for devs]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 20 Aug 2021 19:11:44 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 20 Aug 2021 19:11:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: You Don't Know JS Yet: Get Started (2nd Edition)]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for devs]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 15 Oct 2021 18:52:41 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 15 Oct 2021 18:52:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: Angular Testing Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Though sometimes perceived as a hurdle, testing can save developers from heartbreak in the long run. In Angular Testing Succinctly, author Joseph D. Booth provides a quick introduction to different tools and approaches to testing Angular projects to make them higher quality from the start and easier to maintain down the road. Topics covered include lint checking, test-driven development, unit testing, and end-to-end testing. Tools covered include TSLint, ESLint, SonarLint, Karma, Jasmine, Protractor, and Cucumber.
+            <br />
+            Author: <b>Joseph D. Booth</b> | Category: <b>AngularJS</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>94</b> | Year: <b>2020</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#angular-testing-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angular-testing-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: C++ Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            C++ Succinctly was written to help professional C# developers learn modern C++ programming. The aim of this book is to leverage your existing C# knowledge in order to expand your skills. Whether you need to use C++ in an upcoming project, or simply want to learn a new language (or reacquaint yourself with it), this book will help you learn all of the fundamental pieces of C++ so you can begin writing your own C++ programs.
+            <br />
+            Author: <b>Michael McLaughlin</b> | Category: <b>C/C++</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>127</b> | Year: <b>2014</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/c-cpp/#c-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#c-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: C# Features Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            C# Features Succinctly is a concise guide to the significant features packaged in C# 7, 8, and 9. To help readers understand the evolution of the language, author Dirk Strauss first covers the important additions that arrived in version 7, such as tuples, pattern matching, and out variables. Next, he covers more than a dozen features in version 8, from nullable reference types to unmanaged constructed types. Finally, readers get a taste of the latest features in C# 9, and some of the productivity enhancements provided to .NET developers in Visual Studio.
+            <br />
+            Author: <b>Dirk Strauss</b> | Category: <b>Csharp</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>77</b> | Year: <b>2021</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/csharp/#c-features-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#c-features-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Elixir Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Author Emanuele DelBono guides readers along the first steps of mastering the Elixir programming language in Elixir Succinctly. Providing a brief overview of Elixir’s history and purpose and clear instructions to create an app with Elixir, DelBono makes it easy for developers who wish to add a new language to their repertoire.
+            <br />
+            Author: <b>Emanuele DelBono</b> | Category: <b>Elixir</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>84</b> | Year: <b>2019</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/elixir/#elixir-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/elixir/#elixir-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Flutter UI Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Flutter made quite the impact when it landed in the cross-platform mobile framework landscape. Developed by Google, open source, targeting iOS and Android, smooth animations and motion, platform awareness, hot reload—the list of highlights goes on and on, demonstrating why Flutter is a worth any mobile developer’s attention. In Flutter UI Succinctly, Ed Freitas explores the essentials of constructing user interfaces with Flutter, showing off how a handful of Flutter’s built-in widgets and tools can serve as a springboard to creating apps with impressive interfaces.
+            <br />
+            Author: <b>Ed Freitas</b> | Category: <b>Flutter</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>123</b> | Year: <b>2021</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/flutter/#flutter-ui-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/flutter/#flutter-ui-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Go Web Development Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Go is a modern programming language built to deal with modern programming challenges, such as concurrency and compilation. Designed specifically with the web in mind, Go is an excellent language for writing web applications, specifically for web services. In his second book on Go, Mark Lewin will take you through serving, routing, connecting to a data source, using the templating engine, working with cookies, and more. Use Go Web Development Succinctly to build hugely scalable web applications with ease.
+            <br />
+            Author: <b>Mark Lewin</b> | Category: <b>Go</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>89</b> | Year: <b>2017</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/go/#go-web-development-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#go-web-development-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Go Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            The Go programming language is relatively small and concise, but its depth makes it an ideal option for solving modern-day development problems. In Go Succinctly, author Mark Lewin guides readers through the basics of Go, and he provides documentation and resources that allow users to dive into the language and learn it for themselves. By the end of the book, novices and experienced programmers alike will be conversant in a language quickly gaining traction around the world.
+            <br />
+            Author: <b>Mark Lewin</b> | Category: <b>Go</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>104</b> | Year: <b>2017</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/go/#go-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#go-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Groovy Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Groovy is a well-established programming language that offers a number of advantages to developers who want a reliable language with a mature community. With Groovy Succinctly, Duncan Dickinson will introduce Groovy to programmers of all skill levels. Readers will learn the basics of Groovy and will learn how to develop practical applications with its unique features.
+            <br />
+            Author: <b>Duncan Dickinson</b> | Category: <b>Groovy</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>104</b> | Year: <b>2016</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/groovy/#groovy-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/groovy/#groovy-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java Succinctly Part 2]]></title><description><![CDATA[
+        <article>
+          <p>
+            In this second e-book on Java, Christopher Rose takes readers through some of the more advanced features of the language. Java Succinctly Part 2 explores powerful and practical features of Java, such as multithreading, building GUI applications, and 2-D graphics and game programming. Then learn techniques for using these mechanisms in coherent projects by building a calculator app and a simple game with the author.
+            <br />
+            Author: <b>Christopher Rose</b> | Category: <b>Java</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>134</b> | Year: <b>2017</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/java/#java-succinctly-part-2</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-succinctly-part-2</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java Succinctly Part 1]]></title><description><![CDATA[
+        <article>
+          <p>
+            Java is a high-level, cross-platform, object-oriented programming language that allows applications to be written once and run on a multitude of different devices. Java applications are ubiquitous, and the language is consistently ranked as one of the most popular and dominant in the world. Christopher Rose’s Java Succinctly Part 1 describes the foundations of Java–from printing a line of text to the console, to inheritance hierarchies in object-oriented programming. The e-book covers practical aspects of programming, such as debugging and using an IDE, as well as the core mechanics of the language.
+            <br />
+            Author: <b>Christopher Rose</b> | Category: <b>Java</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>125</b> | Year: <b>2017</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/java/#java-succinctly-part-1</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-succinctly-part-1</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Leaflet.js Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            This introduction to Leaflet.js will teach key concepts of the software and critical techniques in order to help you develop web-ready interactive maps. Mark Lewin's Leaflet.js Succinctly is the first step on the road to producing the best interactive maps you possibly can.
+            <br />
+            Author: <b>Mark Lewin</b> | Category: <b>JavaScript</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>106</b> | Year: <b>2016</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/javascript/#leafletjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#leafletjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Electron Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Developing web apps can be made more difficult by the fact that they do not easily or natively run in desktop environments. This can make a variety of development skills useless, reducing the amount of expertise even the best developers can bring to a project and increasing the workload for producing cross-platform apps. But with the Electron framework, web apps can be brought seamlessly to desktop environments, opening up new avenues for developers. In Electron Succinctly, author Ed Freitas serves as a guide to getting started with Electron.
+            <br />
+            Author: <b>Ed Freitas</b> | Category: <b>JavaScript</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>131</b> | Year: <b>2019</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/javascript/#electron-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#electron-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ionic 4 Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Ionic 4 takes the original Ionic toolkit from a mobile-centric framework based on Angular to a powerful, web-based UI design system and app-development toolset that is JavaScript-framework agnostic. The increased performance of Ionic 4 components makes the framework ideal for developing progressive web apps (PWAs), which are in high demand and popularity these days. With Ionic 4 Succinctly, Ed Freitas will focus on progressive web apps and show you how you can use Ionic 4 to build one, using Vue as the JavaScript framework.Ionic 4 takes the original Ionic toolkit from a mobile-centric framework based on Angular to a powerful, web-based UI design system and app-development toolset that is JavaScript-framework agnostic. The increased performance of Ionic 4 components makes the framework ideal for developing progressive web apps (PWAs), which are in high demand and popularity these days. With Ionic 4 Succinctly, Ed Freitas will focus on progressive web apps and show you how you can use Ionic 4 to build one, using Vue as the JavaScript framework.
+            <br />
+            Author: <b>Ed Freitas</b> | Category: <b>JavaScript</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>101</b> | Year: <b>2020</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/javascript/#ionic-4-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#ionic-4-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Neural Networks with JavaScript Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            James McCaffrey leads you through the fundamental concepts of neural networks, including their architecture, input-output, tanh and softmax activation, back-propagation, error and accuracy, normalization and encoding, and model interpretation. Although most concepts are relatively simple, there are many of them, and they interact with each other in unobvious ways, which is a major challenge of neural networks. But you can learn all important neural network concepts by running and examining the code in Neural Networks with JavaScript Succinctly, with complete example programs for the three major types of neural network problems.
+            <br />
+            Author: <b>James McCaffrey</b> | Category: <b>JavaScript</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>163</b> | Year: <b>2019</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/javascript/#neural-networks-with-javascript-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#neural-networks-with-javascript-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: PHP Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Known for its straightforward simplicity, PHP is an open source, general-purpose scripting language oriented for web development. In PHP Succinctly, author José Roberto Olivas Mendoza guides newcomers through PHP’s basics, which includes deployment, programming themes such as variables, decision making, arrays, functions, and databases, and the creation of a functional webpage that will connect to a database. By the end, you’ll be ready to join the vast community of PHP users around the world.
+            <br />
+            Author: <b>José Roberto Olivas Mendoza</b> | Category: <b>PHP</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>119</b> | Year: <b>2017</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/php/#php-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/php/#php-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Learn to use the Python language to create programs of all kinds. Author Jason Cannon will guide you from complete unfamiliarity with Python to creating practical applications. With Python Succinctly, lack of experience isn't an obstacle to programming language mastery.
+            <br />
+            Author: <b>Jason Cannon</b> | Category: <b>Python</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>146</b> | Year: <b>2016</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/python/#python-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#python-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SciPy Programming Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            James McCaffrey’s SciPy Programming Succinctly offers readers a quick, thorough grounding in knowledge of the Python open source extension SciPy. The SciPy library, accompanied by its interdependent NumPy, offers Python programmers advanced functions that work with arrays and matrices. Each section presents a complete demo program for programmers to experiment with, carefully chosen examples to best illustrate each function, and resources for further learning. Use this e-book to install and edit SciPy, and use arrays, matrices, and combinatorics in Python programming.
+            <br />
+            Author: <b>James McCaffrey</b> | Category: <b>Python</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>120</b> | Year: <b>2016</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/python/#scipy-programming-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#scipy-programming-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Scala Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Learning a new programming language can be a daunting task, but Scala Succinctly makes it a simple matter. Author Chris Rose guides readers through the basics of Scala, from installation to syntax shorthand, so that they can get up and running quickly.
+            <br />
+            Author: <b>Chris Rose</b> | Category: <b>Scala</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>110</b> | Year: <b>2017</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/scala/#scala-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#scala-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vue.js Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Explore the fundamentals of Vue.js, a top open-source JavaScript framework, and harness its powerful features to build UIs and single-page applications. Succinctly series writer Ed Freitas employs the same principals he used in Flutter Succinctly to teach readers how to build a web app with Vue.js.
+            <br />
+            Author: <b>Ed Freitas</b> | Category: <b>VueJS</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>101</b> | Year: <b>2020</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/vuejs/#vuejs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/vuejs/#vuejs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 15 Oct 2021 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS Yet: Get Started (2nd Edition)]]></title><description><![CDATA[
         <article>
           <p>
             Get Started, the first book in the new edition series, is where to start your journey of knowing JS more deeply. This book surveys the language in multiple layers of detail, laying out a roadmap with the other books as guides for your learning and growth. For any developer hoping to move from early JS experience to a deeper level, here is your first step to get started.
@@ -1298,7 +1488,17 @@
             Lang: <b>EN</b> | Pages: <b>165</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#an-introduction-to-programming-in-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#an-introduction-to-programming-in-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: AngularJS Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#an-introduction-to-programming-in-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#an-introduction-to-programming-in-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Angular 2 Succinctly]]></title><description><![CDATA[
+        <article>
+          <p>
+            Angular 2 is a massively popular JavaScript framework built to take advantage of component development in web apps. In Angular 2 Succinctly, author Joseph D. Booth will guide you through setting up a development environment, interacting with the Angular CLI, building Hello World, and more. By the end, you’ll know how to set up templates, compose components from those templates, and tie them all together with modules to deliver a cohesive web app.Angular 2 is a massively popular JavaScript framework built to take advantage of component development in web apps. In Angular 2 Succinctly, author Joseph D. Booth will guide you through setting up a development environment, interacting with the Angular CLI, building Hello World, and more. By the end, you’ll know how to set up templates, compose components from those templates, and tie them all together with modules to deliver a cohesive web app.
+            <br />
+            Author: <b>Joseph D. Booth</b> | Category: <b>AngularJS</b>
+            <br />
+            Lang: <b>EN</b> | Pages: <b>123</b> | Year: <b>2017</b>
+          </p>
+        </article>
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#angular-2-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angular-2-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: AngularJS Succinctly]]></title><description><![CDATA[
         <article>
           <p>
             Perform common tasks and overcome common problems in Angular.js.
