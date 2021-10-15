@@ -9,6 +9,26 @@
     "description": "Read the best free ebooks about AngularJS framework.",
     "books": [
       {
+        "title": "Angular Testing Succinctly",
+        "description": "Though sometimes perceived as a hurdle, testing can save developers from heartbreak in the long run. In Angular Testing Succinctly, author Joseph D. Booth provides a quick introduction to different tools and approaches to testing Angular projects to make them higher quality from the start and easier to maintain down the road. Topics covered include lint checking, test-driven development, unit testing, and end-to-end testing. Tools covered include TSLint, ESLint, SonarLint, Karma, Jasmine, Protractor, and Cucumber.",
+        "author": "Joseph D. Booth",
+        "pages": 94,
+        "year": 2020,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly"
+      },
+      {
+        "title": "Angular 2 Succinctly",
+        "description": "Angular 2 is a massively popular JavaScript framework built to take advantage of component development in web apps. In Angular 2 Succinctly, author Joseph D. Booth will guide you through setting up a development environment, interacting with the Angular CLI, building Hello World, and more. By the end, you’ll know how to set up templates, compose components from those templates, and tie them all together with modules to deliver a cohesive web app.Angular 2 is a massively popular JavaScript framework built to take advantage of component development in web apps. In Angular 2 Succinctly, author Joseph D. Booth will guide you through setting up a development environment, interacting with the Angular CLI, building Hello World, and more. By the end, you’ll know how to set up templates, compose components from those templates, and tie them all together with modules to deliver a cohesive web app.",
+        "author": "Joseph D. Booth",
+        "pages": 123,
+        "year": 2017,
+        "lang": "EN",
+        "added_at": "20150131",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/angular2-succinctly"
+      },
+      {
         "title": "Angular Basics",
         "description": "A free interactive book, covering directives, modules, services, controllers, routing, and more.",
         "author": "Chris Smith",

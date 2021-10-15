@@ -9,6 +9,16 @@
     "description": "Read good and free ebooks about Scala language.",
     "books": [
       {
+        "title": "Scala Succinctly",
+        "description": "Learning a new programming language can be a daunting task, but Scala Succinctly makes it a simple matter. Author Chris Rose guides readers through the basics of Scala, from installation to syntax shorthand, so that they can get up and running quickly.",
+        "author": "Chris Rose",
+        "pages": 110,
+        "year": 2017,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/scala-succinctly"
+      },
+      {
         "title": "The Type Astronaut’s Guide to Shapeless",
         "description": "This book is a guide to using shapeless¹, a library for generic programming in Scala.",
         "author": "Dave Gurnell",

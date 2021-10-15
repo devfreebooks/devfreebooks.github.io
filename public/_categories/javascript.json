@@ -12,6 +12,46 @@
     "description": "Read the best free ebooks about JavaScript language.",
     "books": [
       {
+        "title": "Leaflet.js Succinctly",
+        "description": "This introduction to Leaflet.js will teach key concepts of the software and critical techniques in order to help you develop web-ready interactive maps. Mark Lewin's Leaflet.js Succinctly is the first step on the road to producing the best interactive maps you possibly can.",
+        "author": "Mark Lewin",
+        "pages": 106,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/leafletjs"
+      },
+      {
+        "title": "Electron Succinctly",
+        "description": "Developing web apps can be made more difficult by the fact that they do not easily or natively run in desktop environments. This can make a variety of development skills useless, reducing the amount of expertise even the best developers can bring to a project and increasing the workload for producing cross-platform apps. But with the Electron framework, web apps can be brought seamlessly to desktop environments, opening up new avenues for developers. In Electron Succinctly, author Ed Freitas serves as a guide to getting started with Electron.",
+        "author": "Ed Freitas",
+        "pages": 131,
+        "year": 2019,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly"
+      },
+      {
+        "title": "Ionic 4 Succinctly",
+        "description": "Ionic 4 takes the original Ionic toolkit from a mobile-centric framework based on Angular to a powerful, web-based UI design system and app-development toolset that is JavaScript-framework agnostic. The increased performance of Ionic 4 components makes the framework ideal for developing progressive web apps (PWAs), which are in high demand and popularity these days. With Ionic 4 Succinctly, Ed Freitas will focus on progressive web apps and show you how you can use Ionic 4 to build one, using Vue as the JavaScript framework.Ionic 4 takes the original Ionic toolkit from a mobile-centric framework based on Angular to a powerful, web-based UI design system and app-development toolset that is JavaScript-framework agnostic. The increased performance of Ionic 4 components makes the framework ideal for developing progressive web apps (PWAs), which are in high demand and popularity these days. With Ionic 4 Succinctly, Ed Freitas will focus on progressive web apps and show you how you can use Ionic 4 to build one, using Vue as the JavaScript framework.",
+        "author": "Ed Freitas",
+        "pages": 101,
+        "year": 2020,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/ionic-4-succinctly"
+      },
+      {
+        "title": "Neural Networks with JavaScript Succinctly",
+        "description": "James McCaffrey leads you through the fundamental concepts of neural networks, including their architecture, input-output, tanh and softmax activation, back-propagation, error and accuracy, normalization and encoding, and model interpretation. Although most concepts are relatively simple, there are many of them, and they interact with each other in unobvious ways, which is a major challenge of neural networks. But you can learn all important neural network concepts by running and examining the code in Neural Networks with JavaScript Succinctly, with complete example programs for the three major types of neural network problems.",
+        "author": "James McCaffrey",
+        "pages": 163,
+        "year": 2019,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/neural-networks-with-javascript-succinctly"
+      },
+      {
         "title": "Building Browser Extension",
         "description": "Get Started with Cross Browser WebExtension Development using Javascript API's.",
         "author": "Viswaprasath",

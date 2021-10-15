@@ -9,6 +9,26 @@
     "description": "Read the best free ebooks about Go language.",
     "books": [
       {
+        "title": "Go Web Development Succinctly",
+        "description": "Go is a modern programming language built to deal with modern programming challenges, such as concurrency and compilation. Designed specifically with the web in mind, Go is an excellent language for writing web applications, specifically for web services. In his second book on Go, Mark Lewin will take you through serving, routing, connecting to a data source, using the templating engine, working with cookies, and more. Use Go Web Development Succinctly to build hugely scalable web applications with ease.",
+        "author": "Mark Lewin",
+        "pages": 89,
+        "year": 2017,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/go-web-development"
+      },
+      {
+        "title": "Go Succinctly",
+        "description": "The Go programming language is relatively small and concise, but its depth makes it an ideal option for solving modern-day development problems. In Go Succinctly, author Mark Lewin guides readers through the basics of Go, and he provides documentation and resources that allow users to dive into the language and learn it for themselves. By the end of the book, novices and experienced programmers alike will be conversant in a language quickly gaining traction around the world.",
+        "author": "Mark Lewin",
+        "pages": 104,
+        "year": 2017,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly"
+      },
+      {
         "title": "Go Bootcamp",
         "url": "http://www.golangbootcamp.com/book",
         "description": "Everything you need to know to get started with Go.",

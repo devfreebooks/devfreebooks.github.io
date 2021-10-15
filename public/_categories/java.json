@@ -9,6 +9,26 @@
     "description": "Read the best free ebooks about Java language.",
     "books": [
       {
+        "title": "Java Succinctly Part 2",
+        "description": "In this second e-book on Java, Christopher Rose takes readers through some of the more advanced features of the language. Java Succinctly Part 2 explores powerful and practical features of Java, such as multithreading, building GUI applications, and 2-D graphics and game programming. Then learn techniques for using these mechanisms in coherent projects by building a calculator app and a simple game with the author.",
+        "author": "Christopher Rose",
+        "pages": 134,
+        "year": 2017,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/java-succinctly-part-2"
+      },
+      {
+        "title": "Java Succinctly Part 1",
+        "description": "Java is a high-level, cross-platform, object-oriented programming language that allows applications to be written once and run on a multitude of different devices. Java applications are ubiquitous, and the language is consistently ranked as one of the most popular and dominant in the world. Christopher Rose’s Java Succinctly Part 1 describes the foundations of Java–from printing a line of text to the console, to inheritance hierarchies in object-oriented programming. The e-book covers practical aspects of programming, such as debugging and using an IDE, as well as the core mechanics of the language.",
+        "author": "Christopher Rose",
+        "pages": 125,
+        "year": 2017,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/java-succinctly-part-1"
+      },
+      {
         "title": "The Java Web Scraping Handbook",
         "description": "This book will teach you how to extract data from any website with Java, how to deal with AJAX / Javascript heavy websites, break captchas, deploy your scrapers in the cloud and many other advanced techniques.",
         "author": "Kevin Sahin",

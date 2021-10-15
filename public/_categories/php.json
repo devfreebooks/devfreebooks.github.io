@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about PHP language.",
     "books": [
       {
+        "title": "PHP Succinctly",
+        "description": "Known for its straightforward simplicity, PHP is an open source, general-purpose scripting language oriented for web development. In PHP Succinctly, author José Roberto Olivas Mendoza guides newcomers through PHP’s basics, which includes deployment, programming themes such as variables, decision making, arrays, functions, and databases, and the creation of a functional webpage that will connect to a database. By the end, you’ll be ready to join the vast community of PHP users around the world.",
+        "author": "José Roberto Olivas Mendoza",
+        "pages": 119,
+        "year": 2017,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/php-succinctly"
+      },
+      {
         "title": "PHP The Right Way",
         "description": "PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.",
         "author": "Josh Lockhart",

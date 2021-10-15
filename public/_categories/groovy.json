@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about Groovy language.",
     "books": [
       {
+        "title": "Groovy Succinctly",
+        "description": "Groovy is a well-established programming language that offers a number of advantages to developers who want a reliable language with a mature community. With Groovy Succinctly, Duncan Dickinson will introduce Groovy to programmers of all skill levels. Readers will learn the basics of Groovy and will learn how to develop practical applications with its unique features.",
+        "author": "Duncan Dickinson",
+        "pages": 104,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/groovy-succinctly"
+      },
+      {
         "title": "Gradle Goodness Notebook",
         "description": "Learn more about Gradle features with code snippets and short articles. The articles and code will get you started quickly and will give more insight in Gradle.",
         "author": "Hubert A. Klein Ikkink",

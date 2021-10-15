@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about C/C++ language.",
     "books": [
       {
+        "title": "C++ Succinctly",
+        "description": "C++ Succinctly was written to help professional C# developers learn modern C++ programming. The aim of this book is to leverage your existing C# knowledge in order to expand your skills. Whether you need to use C++ in an upcoming project, or simply want to learn a new language (or reacquaint yourself with it), this book will help you learn all of the fundamental pieces of C++ so you can begin writing your own C++ programs.",
+        "author": "Michael McLaughlin",
+        "pages": 127,
+        "year": 2014,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/cplusplus"
+      },
+      {
         "title": "How to Think Like a Computer Scientist: C++",
         "url": "http://greenteapress.com/thinkcpp/index.html",
         "description": "The goal of this book is to teach you to think like a computer scientist. I like the way computer scientists think because they combine some of the best features of Mathematics, Engineering, and Natural Science. Like mathematicians, computer scientists use formal languages to denote ideas.",

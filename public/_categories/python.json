@@ -9,6 +9,26 @@
     "description": "Read the best free ebooks about Python language.",
     "books": [
       {
+        "title": "Python Succinctly",
+        "description": "Learn to use the Python language to create programs of all kinds. Author Jason Cannon will guide you from complete unfamiliarity with Python to creating practical applications. With Python Succinctly, lack of experience isn't an obstacle to programming language mastery.",
+        "author": "Jason Cannon",
+        "pages": 146,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/python"
+      },
+      {
+        "title": "SciPy Programming Succinctly",
+        "description": "James McCaffrey’s SciPy Programming Succinctly offers readers a quick, thorough grounding in knowledge of the Python open source extension SciPy. The SciPy library, accompanied by its interdependent NumPy, offers Python programmers advanced functions that work with arrays and matrices. Each section presents a complete demo program for programmers to experiment with, carefully chosen examples to best illustrate each function, and resources for further learning. Use this e-book to install and edit SciPy, and use arrays, matrices, and combinatorics in Python programming.",
+        "author": "James McCaffrey",
+        "pages": 120,
+        "year": 2016,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/scipy-programming-succinctly"
+      },
+      {
         "title": "Introduction to Computer Networking",
         "description": "This in-depth eBook is the definitive resource for perfecting computer networking fundamentals.Perfect for anyone interested in cyber security, network engineering or ethical hacking!",
         "author": "Potato Pirates",

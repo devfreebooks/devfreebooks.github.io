@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about C#",
     "books": [
       {
+        "title": "C# Features Succinctly",
+        "description": "C# Features Succinctly is a concise guide to the significant features packaged in C# 7, 8, and 9. To help readers understand the evolution of the language, author Dirk Strauss first covers the important additions that arrived in version 7, such as tuples, pattern matching, and out variables. Next, he covers more than a dozen features in version 8, from nullable reference types to unmanaged constructed types. Finally, readers get a taste of the latest features in C# 9, and some of the productivity enhancements provided to .NET developers in Visual Studio.",
+        "author": "Dirk Strauss",
+        "pages": 77,
+        "year": 2021,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly"
+      },
+      {
         "title": "SQL Server for C# Developers Succinctly",
         "description": "Developers of C# applications with a SQL Server database can learn to connect to a database using classic ADO.NET and look at different methods of developing databases using the Entity Framework. This book addresses common pitfalls, why databases run slowly, how to troubleshoot performance issues, and how to test and deploy SQL Server databases. The first half has a focus on C# and development while the second half focuses on troubleshooting using the SQL Server tools.",
         "author": "Sander Rossel",

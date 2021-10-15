@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about VueJS framework.",
     "books": [
       {
+        "title": "Vue.js Succinctly",
+        "description": "Explore the fundamentals of Vue.js, a top open-source JavaScript framework, and harness its powerful features to build UIs and single-page applications. Succinctly series writer Ed Freitas employs the same principals he used in Flutter Succinctly to teach readers how to build a web app with Vue.js.",
+        "author": "Ed Freitas",
+        "pages": 101,
+        "year": 2020,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/vuejs-succinctly"
+      },
+      {
         "title": "The Vue Handbook",
         "description": "Vue is a very impressive project. It's a very popular JavaScript framework, one that's experiencing a huge growth. In this book you will learn how to use the essential of this simple, tiny and very performant JavaScript framework.",
         "author": "Flavio Copes",

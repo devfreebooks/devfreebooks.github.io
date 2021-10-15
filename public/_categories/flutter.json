@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about Flutter mobile platform.",
     "books": [
       {
+        "title": "Flutter UI Succinctly",
+        "description": "Flutter made quite the impact when it landed in the cross-platform mobile framework landscape. Developed by Google, open source, targeting iOS and Android, smooth animations and motion, platform awareness, hot reload—the list of highlights goes on and on, demonstrating why Flutter is a worth any mobile developer’s attention. In Flutter UI Succinctly, Ed Freitas explores the essentials of constructing user interfaces with Flutter, showing off how a handful of Flutter’s built-in widgets and tools can serve as a springboard to creating apps with impressive interfaces.",
+        "author": "Ed Freitas",
+        "pages": 123,
+        "year": 2021,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/flutter-ui-succinctly"
+      },
+      {
         "title": "Flutter Succinctly",
         "description": "In Flutter Succinctly, Ed Freitas will take you through creating a fully functional app to help you assess whether Flutter is the right choice for your mobile development needs.",
         "author": "Ed Freitas",

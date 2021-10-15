@@ -9,6 +9,16 @@
     "description": "Read the best free ebooks about Elixir language.",
     "books": [
       {
+        "title": "Elixir Succinctly",
+        "description": "Author Emanuele DelBono guides readers along the first steps of mastering the Elixir programming language in Elixir Succinctly. Providing a brief overview of Elixir’s history and purpose and clear instructions to create an app with Elixir, DelBono makes it easy for developers who wish to add a new language to their repertoire.",
+        "author": "Emanuele DelBono",
+        "pages": 84,
+        "year": 2019,
+        "lang": "EN",
+        "added_at": "20211015",
+        "url": "https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly"
+      },
+      {
         "title": "Elixir School",
         "description": "Lessons about the Elixir programming language.",
         "author": "Sean Callan",
