@@ -37,6 +37,16 @@
         "lang": "EN",
         "added_at": "20150216",
         "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/typescript"
+      },
+      {
+        "title": "The Concise TypeScript Book",
+        "description": "A free and open-source TypeScript book covering fundamentals through advanced concepts, recently updated for TypeScript 7.",
+        "author": "Simone Poggiali",
+        "pages": 163,
+        "year": 2026,
+        "lang": "EN",
+        "added_at": "20260914",
+        "url": "https://github.com/gibbok/typescript-book"
       }
     ]
   }
